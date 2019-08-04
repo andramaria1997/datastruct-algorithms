@@ -1,0 +1,40 @@
+		README
+
+--- Priority Queue implemented as MAXHEAP
+
+The best time complexity you can get in implementing a priority queue is by
+using a maxheap. Insertion - O(log(n)) ; Pop - O(log(n)) ; Top - O(1)
+
+Heap implementation details:
+insertion:	-> new element is added at the end of the vector
+		-> the last element is recursively swapped on next or previous
+		tree level until it is in the right place according to heap
+		structure
+pop:		-> the first element is swapped with the last one
+		-> the last element is recursively swapped down the tree
+		with the child with bigger priority until it gets to the last
+		position in the queue
+top:		-> element on index 0 always has the biggest priority
+
+--- Compile:
+
+	* on linux: make -f GNUmakefile
+	run: ./priorityQ [file1 file2 ...]
+
+	* on windows: nmake
+	run using cygwin: ./tema1.exe [file1 file2 ...]
+
+--- Test all:
+	* make -f Makefile.checker
+
+Included dynamic lib for comparing elements' priorities; this way, queue
+implementation is generic (replace lib for sorting the elements differently)
+
+Operations implemented:
+
+insert <word> <priority> - insert element in priority queue
+pop - pop element from priority queue
+top - access head of the priority queue
+
+Used:
+http://programmingearth.com/post.php?pageid=80&title=C%20program%20to%20implement%20Max%20heap.

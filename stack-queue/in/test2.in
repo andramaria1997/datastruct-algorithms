@@ -1,0 +1,45 @@
+44 2 2
+push 1 16 {
+push 1 25 (
+push 1 12 (
+push 1 1 )
+push 0 7 )
+push 0 19 [
+push 1 0 ]
+push 0 22 }
+corrects 0
+pop 1
+prints
+intrq 0 27 {
+intrq 1 2 {
+intrq 0 13 {
+intrq 1 29 }
+intrq 0 18 {
+intrq 1 9 {
+intrq 1 21 }
+intrq 1 14 }
+intrq 1 8 }
+intrq 0 5 ]
+intrq 0 23 }
+intrq 0 20 {
+intrq 0 3 {
+intrq 0 15 {
+intrq 1 26 {
+intrq 1 17 }
+intrq 0 6 }
+intrq 0 24 }
+intrq 1 11 ]
+intrq 0 10 }
+intrq 0 28 }
+extrq 1
+extrq 1
+extrq 1
+extrq 0
+extrq 1
+correctq 0
+prints
+prints
+sortq 0
+sortq 0
+printq
+printq

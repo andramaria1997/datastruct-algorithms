@@ -1,0 +1,445 @@
+444 8 8
+push 7 886 [
+push 1 915 (
+push 1 335 )
+push 2 492 [
+push 1 421 ]
+prints
+corrects 2
+push 3 690 ]
+corrects 3
+prints
+intrq 3 926 [
+intrq 4 426 {
+intrq 4 736 }
+intrq 3 368 )
+printq
+correctq 7
+extrq 5
+printq
+correctq 6
+extrq 2
+sorts 6
+prints
+sortq 3
+push 3 135 (
+push 1 802 )
+push 6 58 [
+push 5 167 [
+push 1 456 ]
+push 3 42 (
+push 5 373 )
+push 5 919 (
+push 0 537 )
+printq
+correctq 6
+pop 4
+pop 3
+pop 2
+pop 5
+pop 6
+pop 3
+extrq 4
+extrq 4
+push 1 862 (
+push 2 996 (
+push 1 305 (
+push 5 84 (
+push 7 336 (
+push 1 846 (
+push 1 313 (
+push 1 124 (
+push 7 582 (
+push 1 814 (
+push 7 434 (
+push 4 43 (
+push 6 87 (
+push 0 276 (
+push 2 788 (
+push 0 403 (
+push 3 754 (
+push 7 932 (
+push 4 676 )
+push 0 739 )
+push 4 226 )
+push 2 94 )
+push 3 795 )
+push 2 378 )
+push 3 601 )
+push 1 902 )
+push 5 652 )
+push 4 301 )
+push 0 286 )
+push 1 865 )
+push 1 444 )
+push 3 440 )
+push 1 31 )
+push 5 97 )
+push 3 481 )
+push 3 709 )
+push 7 567 {
+push 0 497 {
+push 1 586 {
+push 5 306 {
+push 3 219 {
+push 0 528 {
+push 7 732 [
+push 5 503 [
+push 3 270 [
+push 0 708 [
+push 3 340 [
+push 5 796 [
+push 3 618 [
+push 5 451 [
+push 1 555 [
+push 3 488 ]
+push 4 228 ]
+push 1 350 ]
+push 1 500 ]
+push 2 764 ]
+push 4 914 ]
+push 3 856 ]
+push 7 491 ]
+push 3 365 ]
+push 3 936 }
+push 0 551 }
+push 5 275 }
+push 7 474 }
+push 1 858 }
+push 3 29 }
+push 5 235 ]
+push 1 818 ]
+push 4 143 ]
+push 3 928 )
+push 1 776 }
+prints
+pop 4
+pop 3
+pop 3
+pop 5
+pop 2
+corrects 6
+intrq 0 904 (
+intrq 2 128 (
+intrq 0 369 (
+intrq 5 917 (
+intrq 4 324 (
+intrq 7 470 (
+intrq 7 490 (
+intrq 3 772 (
+intrq 5 644 (
+intrq 6 505 (
+intrq 3 954 (
+intrq 2 669 (
+intrq 2 542 (
+intrq 0 197 (
+intrq 3 355 (
+intrq 4 348 (
+intrq 3 622 (
+intrq 4 299 (
+intrq 7 746 )
+intrq 0 422 )
+intrq 7 810 )
+intrq 5 801 )
+intrq 5 730 )
+intrq 6 320 )
+intrq 0 626 )
+intrq 2 465 )
+intrq 4 416 )
+intrq 2 258 )
+intrq 4 637 )
+intrq 6 624 )
+intrq 0 36 )
+intrq 4 899 )
+intrq 3 550 )
+intrq 4 71 )
+intrq 5 131 )
+intrq 1 930 )
+intrq 5 894 {
+intrq 4 163 {
+intrq 7 981 {
+intrq 3 959 {
+intrq 5 813 {
+intrq 4 190 {
+intrq 7 466 [
+intrq 4 90 [
+intrq 4 376 [
+intrq 6 107 [
+intrq 5 756 [
+intrq 3 418 [
+intrq 7 412 [
+intrq 4 172 [
+intrq 3 9 [
+intrq 0 210 ]
+intrq 6 587 ]
+intrq 6 713 ]
+intrq 4 321 ]
+intrq 7 819 ]
+intrq 7 721 ]
+intrq 0 939 ]
+intrq 3 940 ]
+intrq 3 705 ]
+intrq 4 127 }
+intrq 6 984 }
+intrq 2 920 }
+intrq 0 269 }
+intrq 4 81 }
+intrq 6 292 }
+intrq 4 672 ]
+intrq 2 625 ]
+intrq 1 222 ]
+intrq 3 640 )
+intrq 2 898 }
+printq
+push 1 298 (
+push 6 524 (
+push 6 209 (
+push 5 155 (
+push 2 4 (
+push 3 769 (
+push 1 850 (
+push 7 860 (
+push 6 579 (
+push 4 993 (
+push 5 621 (
+push 7 504 (
+push 5 961 (
+push 2 326 (
+push 3 944 (
+push 2 202 (
+push 2 784 (
+push 5 842 (
+push 4 189 )
+push 0 908 )
+push 6 498 )
+push 4 808 )
+push 1 248 )
+push 7 333 )
+push 5 648 )
+push 2 529 )
+push 4 46 )
+push 4 797 )
+push 1 990 )
+push 7 33 )
+push 3 253 )
+push 4 686 )
+push 5 152 )
+push 4 975 )
+push 4 157 )
+push 1 436 )
+push 4 414 {
+push 1 460 {
+push 0 28 {
+push 3 50 {
+push 4 556 {
+push 6 794 {
+push 1 699 [
+push 3 39 [
+push 2 428 [
+push 3 681 [
+push 7 538 [
+push 7 151 [
+push 7 134 [
+push 3 692 [
+push 7 629 [
+push 1 964 ]
+push 5 429 ]
+push 7 177 ]
+push 4 238 ]
+push 3 949 ]
+push 1 367 ]
+push 4 743 ]
+push 0 829 ]
+push 6 682 ]
+push 4 541 }
+push 1 826 }
+push 0 261 }
+push 2 360 }
+push 5 23 }
+push 1 309 }
+push 6 425 ]
+push 4 677 ]
+push 2 57 ]
+push 6 168 )
+push 5 358 }
+prints
+pop 0
+pop 2
+pop 4
+pop 2
+pop 6
+corrects 2
+intrq 4 552 (
+intrq 2 946 (
+intrq 2 647 (
+intrq 2 51 (
+intrq 0 631 (
+intrq 1 857 (
+intrq 3 312 (
+intrq 6 214 (
+intrq 3 512 (
+intrq 2 479 (
+intrq 2 969 (
+intrq 5 274 (
+intrq 3 641 (
+intrq 4 433 (
+intrq 3 888 (
+intrq 2 566 (
+intrq 2 284 (
+intrq 0 417 (
+intrq 6 260 )
+intrq 1 237 )
+intrq 5 59 )
+intrq 1 518 )
+intrq 1 783 )
+intrq 1 458 )
+intrq 1 289 )
+intrq 3 607 )
+intrq 6 757 )
+intrq 2 471 )
+intrq 1 100 )
+intrq 3 438 )
+intrq 1 388 )
+intrq 2 233 )
+intrq 5 493 )
+intrq 6 839 )
+intrq 1 363 )
+intrq 6 173 )
+intrq 7 431 {
+intrq 6 390 {
+intrq 4 791 {
+intrq 1 115 {
+intrq 1 574 {
+intrq 3 947 {
+intrq 7 231 [
+intrq 5 740 [
+intrq 6 30 [
+intrq 2 325 [
+intrq 1 516 [
+intrq 4 2 [
+intrq 7 139 [
+intrq 4 404 [
+intrq 2 580 [
+intrq 2 21 ]
+intrq 2 812 ]
+intrq 3 977 ]
+intrq 5 536 ]
+intrq 0 176 ]
+intrq 3 207 ]
+intrq 7 744 ]
+intrq 3 911 ]
+intrq 7 950 ]
+intrq 4 560 }
+intrq 2 105 }
+intrq 3 49 }
+intrq 4 711 }
+intrq 5 934 }
+intrq 3 375 }
+intrq 3 614 ]
+intrq 5 768 ]
+intrq 1 918 ]
+intrq 5 882 )
+intrq 6 982 }
+printq
+pop 5
+pop 6
+pop 5
+pop 6
+pop 6
+pop 1
+pop 6
+pop 5
+pop 7
+pop 2
+pop 6
+pop 1
+pop 3
+pop 1
+pop 2
+pop 7
+pop 0
+pop 7
+pop 6
+pop 4
+pop 6
+pop 1
+pop 2
+pop 3
+pop 1
+pop 3
+pop 1
+pop 7
+pop 5
+pop 0
+pop 5
+pop 3
+pop 6
+pop 2
+pop 1
+pop 4
+pop 3
+pop 7
+pop 2
+pop 2
+pop 2
+pop 0
+pop 3
+pop 5
+pop 1
+pop 5
+pop 5
+pop 1
+pop 4
+pop 3
+extrq 5
+extrq 2
+extrq 4
+extrq 7
+extrq 5
+extrq 6
+extrq 3
+extrq 7
+extrq 5
+extrq 0
+extrq 7
+extrq 2
+extrq 3
+extrq 5
+extrq 4
+extrq 5
+extrq 1
+extrq 0
+extrq 4
+extrq 3
+extrq 2
+extrq 6
+extrq 3
+extrq 6
+extrq 4
+extrq 4
+extrq 3
+extrq 1
+extrq 6
+extrq 0
+extrq 4
+extrq 3
+extrq 2
+extrq 0
+extrq 3
+extrq 0
+extrq 6
+extrq 6
+extrq 7
+extrq 3
+extrq 6
+extrq 6
+extrq 5
+extrq 2
+extrq 3
+extrq 2
+extrq 7
+extrq 4
+extrq 2
+extrq 3
+prints
+printq

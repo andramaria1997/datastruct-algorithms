@@ -1,0 +1,29 @@
+		README
+
+	-> solveSimple:
+	I used Floyd-Warshall algorithm for finding the shortest path from every node to every node
+and saving the result in a matrix (dp[i][j][k] - minimum distance from node i to node j via node k).
+The final result (from node 1 to n) is stored in dp [1][n][n]. All distances from i to j are initialized
+with infinite ( (max int haskell number)/2 - in order to avoid an overflow ) if there is no edge between
+node i and node j, or with the distance between town i and town j, if there is a road. For this, I used
+"dist" function which searches for the road from i to j in the given list, and returns a big number if
+it is not found. The algorithm checks at every step, for every pair of nodes (i,j) if the direct path
+from i to j is shorter than another path through a node k (k = 1,n). The minimum value is found calling
+the function "shortestpath". In this way, all combinations of nodes is covered. Function "shortestpath"
+only returns the shortest distance. For the list of nodes, function "path" checks if there is a path
+through an intermediate node shorter than the direct path between 2 nodes (the shortest distance for
+every pair of nodes is already calculated by function "shortestpath") and if it finds one, it saves the
+intermediate k node in the list. Then, node 1 and n are added in the final list, since function path only
+finds the intermediate nodes.
+
+	-> solveCosts:
+	Function "cost" returns the tax it needs to be paid to enter the town 'i' by taking the i-th 
+element in the given list. For town 1, the cost is initalised with 0, since there is no need to pay for
+entering the town you are already in. Then, the path found with "solveSimple" function is checked if
+it is affordable. Function "sum" creates a list of tuples from the "path" list found containing every
+town from the path, in order, paired with the sum of money left after entering that town. For every town,
+function "sumx" calculates the sum of taxes for all towns from the first to the current one, then it is
+extracted from 'm', the initial amount of money. If the result is negative, the path is not affordable.
+If what is left is 0, or greater, the path is affordable. If the found path is not affordable, "Nothing"
+is returned.
+

@@ -1,0 +1,15 @@
+		***** README *****
+
+
+TASK1:
+
+	Dupa ce se salveaza toate tranzitiile intr-un vector de tranzitii (vec_tranzitii), retinem intr-o variabila starea curenta(starecurenta), in alte 2 capetele de citire initializate cu 1 (cap1 si cap2) si cele 2 benzi in cate un string (banda1 si banda2). Se cauta in vectorul de tranzitii starea curenta si caracterele curente de pe benzi (asupra carora se afla capul de citire), si cand se gaseste o potrivire se suprascrie variabila starii curente si fiecare caracter pe banda. Retinem in cate o variabila daca masina s-a terminat (terminat) sau daca s-a efectuat o tranzitie (tranzitie). Programul repeta cautarea pana cand masina ajunge intr-o stare finala (do ... while). Daca dupa parcurgerea vectorului de tranzitii masina nu a gasit nici o potrivire si nici nu a ajuns in stare finala, inseamna ca s-a blocat, caz in care se iese din structura repetitiva si se afiseaza mesajul "The machine has blocked!". Apoi, dupa tranzitii si suprascriere, se scriu cele 2 benzi in fisier.
+
+
+TASK2:
+
+->principiu:
+	Masina functioneaza pe baza stergerii a perechi de caractere diferite, in final ramanand doar cel dominant. Va sterge in aceasta ordine a, b, c, d (inlocuind cu 0 pe post de caracter auxiliar), astfel prin pastrarea ordinii se stie sigur ca se va sterge un nr egal de caractere din fiecare (a, b, c, sau d). Cand pe banda vor ramane numai 0-uri si caractere de un singur tip, masina a gasit cu certitudine caracterul dominant, caz in care sterge tot si lasa pe banda numai caracterul dominant.
+
+->functionare:
+	Masina pleaca din starea S0, de pe '#'. Trece in starea S1, care sterge caracterul 'a' prin inlocuire cu 0 si se intoarce la capatul stang al benzii prin starea Sback1. La intalnirea caracterului '#' (capatul stang al benzii), din starea Sback1 se trece in starea S2 care sterge caracterul 'b' si se intoarce la inceputul benzii prin starea Sback2, in mod analog trecand in starea S3. La fel se sterge caracterul 'd' prin starea S4 si se intoarce prin starea Sback4. Cand se ajunge la inceputul benzii (#) prin Sback4, masina trece in starea S0 si se muta la dreapta (nu intalneste '#' cu S0). Sare peste '0'-uri si la intalnirea primului caracter (a,b,c sau d) trece in starea care verifica daca acel caracter este singurul ramas pe banda (Sva, Svb, Svc sau Svd). Cele 4 stari de verificare sar peste '0'-uri si peste caracterul pe care il verifica, iar in momentul in care intalnesc un caracter diferit masina trece in starea Sback0, se intoarce la capatul benzii, trece in starea S0 si ramane pe '#', punct in care se reia procedeul pana cand una dintre cele 4 stari de verificare ajunge in capatul drept al benzii (Sva, Svb, Svc sau Svd si '#'). Atunci s-a gasit caracterul, se trece in starea Sdelete1 care sterge toate '0' urile (pune '#' in loc) si la intalnirea primului caracter de orice fel (a,b,c sau d) trece in starea Sdelete2 si sare peste el. Starea Sdelete2 sterge orice altceva a mai ramas pe banda (inlocuieste cu '#') si cand intalneste primul '#' inseamna ca a ajuns in capatul benzii si trece in starea finala Sfinal.

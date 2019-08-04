@@ -1,0 +1,9121 @@
+9120 4 4
+push 3 30886 [
+push 1 36915 (
+push 1 38335 )
+push 2 60492 [
+push 1 41421 ]
+prints
+corrects 2
+push 3 68690 ]
+corrects 3
+prints
+intrq 3 13926 [
+intrq 0 83426 {
+intrq 0 55736 }
+intrq 3 95368 )
+printq
+correctq 3
+push 1 65782 [
+push 2 22862 (
+push 3 74067 )
+push 3 13929 [
+push 2 34022 ]
+prints
+corrects 2
+push 1 98167 ]
+corrects 1
+prints
+intrq 0 75011 [
+intrq 2 76229 {
+intrq 1 84421 }
+intrq 3 13784 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 0
+extrq 3
+sorts 2
+prints
+sortq 1
+push 2 76091 (
+push 0 59956 )
+push 1 6862 [
+push 2 6996 [
+push 1 2305 ]
+push 1 77084 (
+push 3 60336 )
+push 1 50846 (
+push 1 61313 )
+printq
+correctq 1
+pop 0
+pop 3
+extrq 2
+extrq 1
+extrq 2
+printq
+correctq 3
+extrq 2
+sorts 0
+prints
+push 3 13750 [
+push 3 26808 (
+push 0 47178 )
+push 0 93584 [
+push 3 2651 ]
+push 2 12399 [
+push 0 95060 (
+push 0 93368 )
+push 3 10012 [
+push 2 98586 ]
+prints
+corrects 2
+push 3 40795 ]
+corrects 2
+prints
+intrq 2 60378 [
+intrq 3 66601 {
+intrq 1 12902 }
+intrq 1 70492 )
+printq
+correctq 0
+push 0 97301 [
+push 0 24286 (
+push 1 53865 )
+push 1 28444 [
+push 3 58440 ]
+prints
+corrects 1
+push 3 8117 ]
+corrects 1
+prints
+intrq 3 34481 [
+intrq 3 20709 {
+intrq 3 4567 }
+intrq 0 79497 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 1
+extrq 2
+sorts 3
+prints
+sortq 3
+push 0 51528 (
+push 3 5732 )
+push 1 9503 [
+push 3 58270 [
+push 0 59708 ]
+push 3 26340 (
+push 1 47796 )
+push 3 42618 (
+push 1 22846 )
+printq
+correctq 3
+pop 1
+pop 3
+extrq 3
+extrq 0
+extrq 0
+printq
+correctq 0
+extrq 1
+sorts 2
+prints
+push 1 41500 [
+push 2 87764 (
+push 0 24914 )
+push 3 75856 [
+push 3 46491 ]
+prints
+corrects 3
+push 1 9859 ]
+corrects 0
+prints
+intrq 0 52551 [
+intrq 1 99228 {
+intrq 3 75407 }
+intrq 2 76121 )
+printq
+correctq 2
+extrq 3
+printq
+correctq 1
+push 1 8235 [
+push 1 65818 (
+push 0 66143 )
+push 3 35928 [
+push 1 18776 ]
+prints
+corrects 0
+push 3 55763 ]
+corrects 1
+prints
+intrq 2 18606 [
+intrq 0 2904 {
+intrq 2 35128 }
+intrq 0 97369 )
+printq
+correctq 1
+extrq 1
+printq
+correctq 0
+extrq 0
+sorts 3
+prints
+sortq 2
+push 3 98490 (
+push 3 89772 )
+push 1 85644 [
+push 2 17505 [
+push 3 2954 ]
+push 2 7669 (
+push 2 8542 )
+push 0 10197 (
+push 3 59355 )
+printq
+correctq 0
+pop 0
+pop 3
+extrq 2
+extrq 0
+extrq 3
+sorts 3
+prints
+sortq 2
+push 0 54340 (
+push 2 23311 )
+push 2 67605 [
+push 1 25661 [
+push 2 44878 ]
+push 1 29320 (
+push 0 79444 )
+push 2 48522 (
+push 1 86708 )
+printq
+correctq 0
+pop 2
+pop 2
+extrq 0
+extrq 1
+sortq 2
+push 0 62600 (
+push 0 33452 )
+push 3 19379 [
+push 2 47468 [
+push 3 973 ]
+push 3 3881 (
+push 2 8933 )
+push 2 58660 (
+push 3 57199 )
+printq
+correctq 1
+pop 3
+pop 0
+extrq 3
+extrq 1
+prints
+corrects 1
+push 0 87190 ]
+corrects 3
+prints
+intrq 2 16466 [
+intrq 0 11340 {
+intrq 2 27684 }
+intrq 0 55542 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 1
+push 0 69179 [
+push 2 6887 (
+push 0 3348 )
+push 0 51659 [
+push 1 2336 ]
+prints
+corrects 2
+push 2 67587 ]
+corrects 2
+prints
+intrq 1 97713 [
+intrq 0 75321 {
+intrq 3 64819 }
+intrq 3 17721 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 3
+extrq 0
+sorts 3
+prints
+sortq 1
+push 0 11127 (
+push 2 65984 )
+push 2 63920 [
+push 0 2422 [
+push 1 21396 ]
+push 1 45630 (
+push 0 79292 )
+push 0 7672 (
+push 2 47625 )
+printq
+correctq 1
+pop 2
+pop 3
+extrq 0
+extrq 2
+extrq 2
+sorts 1
+prints
+push 2 56190 [
+push 0 42590 (
+push 1 8581 )
+push 3 99336 [
+push 0 71155 ]
+prints
+corrects 2
+push 0 60379 ]
+corrects 1
+prints
+intrq 1 81776 [
+intrq 2 47255 {
+intrq 0 48142 }
+intrq 3 45884 )
+printq
+correctq 1
+push 1 67621 [
+push 3 62504 (
+push 1 1961 )
+push 2 31326 [
+push 3 18944 ]
+prints
+corrects 2
+push 2 23506 ]
+corrects 0
+prints
+intrq 1 22842 [
+intrq 0 89528 {
+intrq 1 8872 }
+intrq 0 49958 )
+printq
+correctq 2
+extrq 0
+printq
+correctq 0
+extrq 1
+sorts 0
+prints
+sortq 3
+push 1 32133 (
+push 0 72890 )
+push 2 17567 [
+push 2 90368 [
+push 1 14500 ]
+push 2 73788 (
+push 1 66249 )
+push 2 73303 (
+push 1 5363 )
+printq
+correctq 1
+pop 1
+pop 0
+extrq 2
+extrq 1
+extrq 0
+printq
+correctq 0
+extrq 3
+sorts 0
+prints
+push 1 3729 [
+push 0 32460 (
+push 2 43921 )
+push 0 26304 [
+push 0 88027 ]
+push 2 66748 [
+push 0 8902 (
+push 2 97697 )
+push 3 71043 [
+push 3 32002 ]
+prints
+corrects 0
+push 3 44500 ]
+corrects 1
+prints
+intrq 3 8538 [
+intrq 3 95151 {
+intrq 3 82134 }
+intrq 3 71692 )
+printq
+correctq 3
+push 3 20504 [
+push 1 60049 (
+push 0 98285 )
+push 1 95343 [
+push 3 3177 ]
+prints
+corrects 0
+push 2 7971 ]
+corrects 1
+prints
+intrq 1 95367 [
+intrq 0 92292 {
+intrq 3 40743 }
+intrq 0 2829 )
+printq
+correctq 2
+extrq 2
+printq
+correctq 0
+extrq 1
+sorts 1
+prints
+sortq 2
+push 0 72261 (
+push 2 90360 )
+push 1 28023 [
+push 1 81 [
+push 1 3190 ]
+push 1 18996 (
+push 3 14677 )
+push 2 30690 (
+push 2 64524 )
+printq
+correctq 1
+pop 2
+pop 0
+extrq 1
+extrq 2
+extrq 0
+printq
+correctq 2
+extrq 0
+sorts 2
+prints
+push 2 34994 [
+push 0 56552 (
+push 2 93529 )
+push 2 32290 [
+push 3 56970 ]
+prints
+corrects 3
+push 0 99631 ]
+corrects 1
+prints
+intrq 1 18627 [
+intrq 0 61886 {
+intrq 2 88355 }
+intrq 0 20090 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 2
+push 1 66189 [
+push 2 6355 (
+push 1 56620 )
+push 1 98987 [
+push 0 98338 ]
+prints
+corrects 2
+push 2 27284 ]
+corrects 0
+prints
+intrq 1 606 [
+intrq 0 25849 {
+intrq 1 7205 }
+intrq 3 35217 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 3
+extrq 1
+sorts 2
+prints
+sortq 1
+push 1 4289 (
+push 3 26607 )
+push 2 72757 [
+push 2 34471 [
+push 1 91100 ]
+push 3 23618 (
+push 2 58025 )
+push 0 33074 (
+push 1 18157 )
+printq
+correctq 1
+pop 1
+pop 2
+extrq 2
+extrq 3
+extrq 1
+sorts 3
+prints
+sortq 1
+push 3 92622 (
+push 2 13173 )
+push 3 96431 [
+push 2 56682 [
+push 2 4292 ]
+push 3 5057 (
+push 3 91521 )
+push 1 88574 (
+push 3 1947 )
+printq
+correctq 3
+pop 3
+pop 1
+extrq 1
+extrq 0
+push 2 14030 [
+push 2 35325 (
+push 1 87516 )
+push 0 33002 [
+push 3 46139 ]
+prints
+corrects 0
+push 0 82338 ]
+corrects 0
+prints
+intrq 2 39021 [
+intrq 2 39862 {
+intrq 0 35379 }
+intrq 1 92685 )
+printq
+correctq 0
+push 0 24176 [
+push 3 79207 (
+push 3 84857 )
+push 0 93499 [
+push 3 20127 ]
+prints
+corrects 2
+push 0 77560 ]
+corrects 2
+prints
+intrq 1 10563 [
+intrq 1 21244 {
+intrq 3 41805 }
+intrq 2 63291 )
+printq
+correctq 3
+extrq 3
+printq
+correctq 2
+extrq 1
+sorts 0
+prints
+sortq 1
+push 2 52805 (
+push 2 44822 )
+push 2 26717 [
+push 2 93093 [
+push 2 30126 ]
+push 1 81486 (
+push 1 50543 )
+push 2 27814 (
+push 1 78179 )
+printq
+correctq 1
+pop 2
+pop 3
+extrq 0
+extrq 3
+extrq 2
+printq
+correctq 0
+extrq 2
+sorts 1
+prints
+push 2 60235 [
+push 1 45691 (
+push 1 23943 )
+push 1 66328 [
+push 1 49291 ]
+push 2 94018 [
+push 1 36836 (
+push 3 75055 )
+push 2 63858 [
+push 2 14904 ]
+prints
+corrects 3
+push 1 69633 ]
+corrects 1
+prints
+intrq 1 13073 [
+intrq 0 56851 {
+intrq 1 49250 }
+intrq 0 36503 )
+printq
+correctq 1
+push 2 82195 [
+push 3 62949 (
+push 0 80967 )
+push 2 86763 [
+push 1 90596 ]
+prints
+corrects 1
+push 1 87560 ]
+corrects 0
+prints
+intrq 3 67770 [
+intrq 2 59211 {
+intrq 2 22532 }
+intrq 0 72379 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 0
+extrq 0
+sorts 3
+prints
+sortq 2
+push 0 47283 (
+push 0 7398 )
+push 2 1063 [
+push 3 66950 [
+push 2 50573 ]
+push 2 86059 (
+push 2 34047 )
+push 0 45082 (
+push 3 71232 )
+printq
+correctq 0
+pop 2
+pop 3
+extrq 2
+extrq 2
+extrq 0
+printq
+correctq 2
+extrq 3
+sorts 2
+prints
+push 2 89683 [
+push 1 39848 (
+push 3 8324 )
+push 0 49122 [
+push 2 27335 ]
+prints
+corrects 1
+push 1 9365 ]
+corrects 3
+prints
+intrq 3 11776 [
+intrq 1 25218 {
+intrq 1 21703 }
+intrq 1 9933 )
+printq
+correctq 3
+extrq 3
+printq
+correctq 0
+push 2 15797 [
+push 0 47084 (
+push 0 15334 )
+push 2 10991 [
+push 0 98898 ]
+prints
+corrects 3
+push 0 25171 ]
+corrects 1
+prints
+intrq 3 52506 [
+intrq 2 9016 {
+intrq 0 73109 }
+intrq 3 90000 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 1
+extrq 1
+sorts 2
+prints
+sortq 2
+push 1 59426 (
+push 3 85147 )
+push 3 76787 [
+push 3 96532 [
+push 2 91281 ]
+push 3 84850 (
+push 3 76590 )
+push 2 15350 (
+push 3 73813 )
+printq
+correctq 1
+pop 2
+pop 1
+extrq 1
+extrq 3
+extrq 0
+sorts 1
+prints
+sortq 2
+push 1 97487 (
+push 3 79296 )
+push 1 65404 [
+push 2 96892 [
+push 3 30297 ]
+push 0 99134 (
+push 1 98506 )
+push 3 67057 (
+push 0 80595 )
+printq
+correctq 3
+pop 2
+pop 1
+extrq 3
+extrq 0
+sortq 2
+push 1 91309 (
+push 3 39932 )
+push 2 95021 [
+push 2 13563 [
+push 0 3682 ]
+push 3 77685 (
+push 2 64285 )
+push 2 35990 (
+push 3 97314 )
+printq
+correctq 0
+pop 0
+pop 0
+extrq 0
+extrq 1
+prints
+corrects 0
+push 3 97525 ]
+corrects 2
+prints
+intrq 0 1360 [
+intrq 2 47643 {
+intrq 1 80928 }
+intrq 2 26621 )
+printq
+correctq 2
+extrq 3
+printq
+correctq 0
+push 1 26815 [
+push 2 43437 (
+push 1 60008 )
+push 2 11783 [
+push 2 18657 ]
+prints
+corrects 1
+push 3 89126 ]
+corrects 1
+prints
+intrq 3 26651 [
+intrq 1 60910 {
+intrq 0 30639 }
+intrq 2 41888 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 1
+extrq 2
+sorts 0
+prints
+sortq 3
+push 0 16931 (
+push 3 88777 )
+push 3 657 [
+push 2 80952 [
+push 1 72641 ]
+push 3 89368 (
+push 2 18184 )
+push 3 96776 (
+push 1 75266 )
+printq
+correctq 0
+pop 2
+pop 0
+extrq 0
+extrq 1
+extrq 2
+sorts 1
+prints
+sortq 3
+push 0 50774 (
+push 1 5000 )
+push 1 60997 [
+push 3 48412 [
+push 3 98382 ]
+push 1 14693 (
+push 2 42439 )
+push 2 88421 (
+push 3 94985 )
+printq
+correctq 1
+pop 2
+pop 1
+extrq 2
+extrq 0
+sortq 1
+push 0 61852 (
+push 2 3662 )
+push 2 50399 [
+push 1 65154 [
+push 1 99015 ]
+push 2 39851 (
+push 0 24790 )
+push 3 42491 (
+push 0 70037 )
+printq
+correctq 1
+pop 3
+pop 0
+extrq 3
+extrq 0
+sortq 3
+push 0 46590 (
+push 1 63970 )
+push 0 87665 [
+push 3 93069 [
+push 1 7361 ]
+push 3 41351 (
+push 0 89300 )
+push 2 91638 (
+push 3 9364 )
+printq
+correctq 1
+pop 0
+pop 2
+extrq 0
+extrq 3
+prints
+corrects 3
+push 1 13412 ]
+corrects 2
+prints
+intrq 1 90636 [
+intrq 2 11956 {
+intrq 0 62760 }
+intrq 1 26814 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 2
+push 2 60183 [
+push 3 26969 (
+push 3 20152 )
+push 1 24393 [
+push 2 37289 ]
+prints
+corrects 1
+push 3 34673 ]
+corrects 0
+prints
+intrq 3 74548 [
+intrq 3 1877 {
+intrq 1 66833 }
+intrq 2 94949 )
+printq
+correctq 3
+extrq 3
+printq
+correctq 1
+extrq 0
+sorts 0
+prints
+sortq 0
+push 1 98823 (
+push 2 13171 )
+push 2 85677 [
+push 0 93245 [
+push 1 72761 ]
+push 2 50323 (
+push 2 84100 )
+push 2 61075 (
+push 0 22042 )
+printq
+correctq 0
+pop 3
+pop 3
+extrq 1
+extrq 0
+extrq 1
+sorts 2
+prints
+sortq 3
+push 0 25383 (
+push 3 63133 )
+push 3 19304 [
+push 0 65981 [
+push 3 53666 ]
+push 3 88967 (
+push 0 90192 )
+push 1 80902 (
+push 0 88131 )
+printq
+correctq 2
+pop 2
+pop 3
+extrq 2
+extrq 0
+sortq 3
+push 1 45487 (
+push 0 34573 )
+push 1 25062 [
+push 1 13933 [
+push 1 12496 ]
+push 2 93141 (
+push 1 71726 )
+push 2 96980 (
+push 1 43485 )
+printq
+correctq 0
+pop 1
+pop 2
+extrq 1
+extrq 3
+sortq 2
+push 0 34562 (
+push 0 17719 )
+push 0 11641 [
+push 2 93010 [
+push 0 92726 ]
+push 3 28789 (
+push 0 3708 )
+push 3 938 (
+push 1 52493 )
+printq
+correctq 3
+pop 2
+pop 0
+extrq 1
+extrq 2
+sortq 1
+push 3 63638 (
+push 2 79421 )
+push 3 7829 [
+push 3 96180 [
+push 3 9095 ]
+push 3 43024 (
+push 0 49154 )
+push 2 10569 (
+push 0 79969 )
+printq
+correctq 2
+pop 1
+pop 2
+extrq 1
+extrq 3
+push 3 67279 [
+push 2 29649 (
+push 3 22351 )
+push 3 57464 [
+push 2 87330 ]
+prints
+corrects 2
+push 3 31349 ]
+corrects 3
+prints
+intrq 2 43881 [
+intrq 3 75634 {
+intrq 1 54387 }
+intrq 2 23287 )
+printq
+correctq 1
+push 3 81519 [
+push 2 95354 (
+push 0 3124 )
+push 3 16259 [
+push 3 77418 ]
+prints
+corrects 1
+push 0 85269 ]
+corrects 1
+prints
+intrq 0 42733 [
+intrq 3 92734 {
+intrq 3 74315 }
+intrq 3 91087 )
+printq
+correctq 1
+extrq 1
+printq
+correctq 2
+extrq 3
+sorts 2
+prints
+sortq 1
+push 2 98089 (
+push 2 85205 )
+push 0 66704 [
+push 3 2557 [
+push 1 23403 ]
+push 0 21892 (
+push 1 71522 )
+push 1 2443 (
+push 3 25361 )
+printq
+correctq 0
+pop 2
+pop 3
+extrq 0
+extrq 1
+extrq 2
+printq
+correctq 3
+extrq 3
+sorts 3
+prints
+push 1 21386 [
+push 1 99426 (
+push 0 64794 )
+push 0 68506 [
+push 3 46092 ]
+push 1 79664 [
+push 1 88820 (
+push 0 54166 )
+push 2 86354 [
+push 3 8437 ]
+prints
+corrects 1
+push 0 86317 ]
+corrects 0
+prints
+intrq 3 19017 [
+intrq 1 25165 {
+intrq 0 91608 }
+intrq 1 1745 )
+printq
+correctq 3
+push 2 1171 [
+push 3 48569 (
+push 3 64801 )
+push 0 26652 [
+push 3 5340 ]
+prints
+corrects 1
+push 3 20172 ]
+corrects 3
+prints
+intrq 1 6527 [
+intrq 2 98878 {
+intrq 0 3050 }
+intrq 0 62124 )
+printq
+correctq 1
+extrq 1
+printq
+correctq 2
+extrq 3
+sorts 2
+prints
+sortq 2
+push 0 65115 (
+push 1 79342 )
+push 3 82437 [
+push 3 63198 [
+push 2 69939 ]
+push 2 26513 (
+push 3 65128 )
+push 1 11804 (
+push 3 52346 )
+printq
+correctq 3
+pop 2
+pop 1
+extrq 3
+extrq 0
+extrq 1
+printq
+correctq 0
+extrq 2
+sorts 2
+prints
+push 2 65725 [
+push 0 90952 (
+push 1 85472 )
+push 2 73339 [
+push 3 75883 ]
+prints
+corrects 3
+push 1 55825 ]
+corrects 2
+prints
+intrq 0 82339 [
+intrq 2 35344 {
+intrq 0 7330 }
+intrq 3 29294 )
+printq
+correctq 1
+extrq 1
+printq
+correctq 3
+push 0 94650 [
+push 0 17832 (
+push 0 90279 )
+push 2 63953 [
+push 3 59295 ]
+prints
+corrects 2
+push 3 52741 ]
+corrects 1
+prints
+intrq 2 44976 [
+intrq 0 44584 {
+intrq 1 20083 }
+intrq 0 99492 )
+printq
+correctq 1
+extrq 0
+printq
+correctq 0
+extrq 3
+sorts 3
+prints
+sortq 3
+push 0 89873 (
+push 2 30164 )
+push 3 52251 [
+push 1 82751 [
+push 2 16339 ]
+push 0 53165 (
+push 2 88302 )
+push 1 61079 (
+push 3 62547 )
+printq
+correctq 3
+pop 0
+pop 3
+extrq 1
+extrq 3
+extrq 3
+sorts 1
+prints
+sortq 0
+push 3 15494 (
+push 3 17543 )
+push 1 41123 [
+push 0 40187 [
+push 3 24643 ]
+push 2 51988 (
+push 2 51320 )
+push 0 54098 (
+push 2 93018 )
+printq
+correctq 0
+pop 3
+pop 2
+extrq 3
+extrq 2
+sortq 1
+push 3 56142 (
+push 2 68098 )
+push 1 71472 [
+push 2 82853 [
+push 2 64797 ]
+push 0 24547 (
+push 0 40516 )
+push 2 9912 (
+push 3 89877 )
+printq
+correctq 0
+pop 1
+pop 1
+extrq 0
+extrq 3
+prints
+corrects 3
+push 3 18107 ]
+corrects 2
+prints
+intrq 1 29154 [
+intrq 1 2906 {
+intrq 2 70003 }
+intrq 1 76784 )
+printq
+correctq 0
+extrq 1
+printq
+correctq 3
+push 1 10115 [
+push 0 80381 (
+push 2 85185 )
+push 1 32100 [
+push 1 2408 ]
+prints
+corrects 1
+push 1 91313 ]
+corrects 3
+prints
+intrq 2 34316 [
+intrq 2 8585 {
+intrq 3 22765 }
+intrq 2 97930 )
+printq
+correctq 2
+extrq 0
+printq
+correctq 0
+extrq 1
+sorts 1
+prints
+sortq 0
+push 1 96366 (
+push 3 67395 )
+push 1 44428 [
+push 0 73847 [
+push 1 85026 ]
+push 0 41062 (
+push 2 60629 )
+push 3 95100 (
+push 0 83397 )
+printq
+correctq 0
+pop 3
+pop 2
+extrq 0
+extrq 0
+extrq 0
+sorts 2
+prints
+push 2 97565 [
+push 2 29499 (
+push 2 51546 )
+push 0 99853 [
+push 2 84303 ]
+prints
+corrects 2
+push 2 48432 ]
+corrects 2
+prints
+intrq 3 49810 [
+intrq 2 80869 {
+intrq 0 95815 }
+intrq 0 48696 )
+printq
+correctq 0
+push 2 94465 [
+push 3 19716 (
+push 1 69343 )
+push 1 54187 [
+push 1 60602 ]
+prints
+corrects 1
+push 0 64088 ]
+corrects 3
+prints
+intrq 0 63941 [
+intrq 1 22924 {
+intrq 0 17135 }
+intrq 0 83162 )
+printq
+correctq 2
+extrq 2
+printq
+correctq 0
+extrq 3
+sorts 2
+prints
+sortq 3
+push 0 72515 (
+push 3 26234 )
+push 0 82290 [
+push 2 8693 [
+push 1 25339 ]
+push 0 27494 (
+push 1 85213 )
+push 2 66382 (
+push 0 71475 )
+printq
+correctq 3
+pop 2
+pop 3
+extrq 3
+extrq 1
+extrq 3
+printq
+correctq 1
+extrq 0
+sorts 1
+prints
+push 1 59683 [
+push 3 48977 (
+push 3 65014 )
+push 0 769 [
+push 2 14107 ]
+push 0 73391 [
+push 0 88411 (
+push 3 9587 )
+push 1 37836 [
+push 1 73439 ]
+prints
+corrects 1
+push 0 20114 ]
+corrects 3
+prints
+intrq 3 53418 [
+intrq 0 88534 {
+intrq 3 49764 }
+intrq 3 4697 )
+printq
+correctq 0
+push 3 53674 [
+push 3 47433 (
+push 2 17457 )
+push 0 15949 [
+push 1 85523 ]
+prints
+corrects 2
+push 0 38147 ]
+corrects 1
+prints
+intrq 1 92335 [
+intrq 2 82140 {
+intrq 0 13043 }
+intrq 3 50339 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 0
+extrq 1
+sorts 0
+prints
+sortq 0
+push 0 62957 (
+push 0 31287 )
+push 3 19540 [
+push 1 34826 [
+push 1 67127 ]
+push 2 92728 (
+push 1 19170 )
+push 3 72798 (
+push 0 39563 )
+printq
+correctq 1
+pop 0
+pop 3
+extrq 0
+extrq 3
+extrq 3
+printq
+correctq 2
+extrq 0
+sorts 3
+prints
+push 3 42553 [
+push 3 28608 (
+push 2 51768 )
+push 3 71198 [
+push 0 54968 ]
+prints
+corrects 0
+push 1 62173 ]
+corrects 3
+prints
+intrq 3 71254 [
+intrq 1 94057 {
+intrq 1 43823 }
+intrq 1 74396 )
+printq
+correctq 0
+extrq 2
+printq
+correctq 0
+push 0 44209 [
+push 3 39747 (
+push 2 52366 )
+push 2 3759 [
+push 1 31742 ]
+prints
+corrects 1
+push 1 73413 ]
+corrects 2
+prints
+intrq 3 14422 [
+intrq 0 57755 {
+intrq 1 29090 }
+intrq 0 16071 )
+printq
+correctq 3
+extrq 3
+printq
+correctq 0
+extrq 0
+sorts 0
+prints
+sortq 2
+push 0 40012 (
+push 0 3807 )
+push 3 75358 [
+push 1 82894 [
+push 1 90158 ]
+push 0 21090 (
+push 0 22626 )
+push 2 32973 (
+push 1 18865 )
+printq
+correctq 0
+pop 1
+pop 0
+extrq 1
+extrq 3
+extrq 0
+sorts 0
+prints
+sortq 2
+push 0 39833 (
+push 2 66356 )
+push 3 14410 [
+push 0 56631 [
+push 1 86128 ]
+push 1 23446 (
+push 2 27458 )
+push 1 10 (
+push 1 73165 )
+printq
+correctq 1
+pop 3
+pop 2
+extrq 2
+extrq 0
+push 2 699 [
+push 1 72000 (
+push 2 65457 )
+push 0 42348 [
+push 1 30017 ]
+prints
+corrects 3
+push 1 72497 ]
+corrects 1
+prints
+intrq 2 29128 [
+intrq 3 35018 {
+intrq 2 38585 }
+intrq 0 21280 )
+printq
+correctq 2
+push 2 2533 [
+push 3 75743 (
+push 0 80550 )
+push 1 1485 [
+push 0 33720 ]
+prints
+corrects 2
+push 0 39634 ]
+corrects 3
+prints
+intrq 1 81983 [
+intrq 1 91694 {
+intrq 2 96630 }
+intrq 3 45063 )
+printq
+correctq 0
+extrq 0
+printq
+correctq 2
+extrq 2
+sorts 2
+prints
+sortq 0
+push 2 8422 (
+push 2 37685 )
+push 0 58094 [
+push 0 61708 [
+push 0 62802 ]
+push 1 21784 (
+push 2 41087 )
+push 1 36157 (
+push 3 38602 )
+printq
+correctq 0
+pop 0
+pop 0
+extrq 2
+extrq 2
+extrq 0
+printq
+correctq 1
+extrq 3
+sorts 0
+prints
+push 0 77589 [
+push 2 68448 (
+push 0 32428 )
+push 2 32557 [
+push 0 26576 ]
+push 1 37797 [
+push 0 25139 (
+push 2 87005 )
+push 2 74782 [
+push 2 90523 ]
+prints
+corrects 1
+push 0 25015 ]
+corrects 1
+prints
+intrq 0 40353 [
+intrq 3 92724 {
+intrq 2 46350 }
+intrq 0 37710 )
+printq
+correctq 0
+push 2 6158 [
+push 0 86023 (
+push 1 67721 )
+push 3 17569 [
+push 2 16260 ]
+prints
+corrects 2
+push 2 49955 ]
+corrects 3
+prints
+intrq 0 41089 [
+intrq 1 16439 {
+intrq 2 18017 }
+intrq 2 65375 )
+printq
+correctq 1
+extrq 3
+printq
+correctq 2
+extrq 2
+sorts 1
+prints
+sortq 1
+push 2 52976 (
+push 1 92161 )
+push 2 52833 [
+push 0 50127 [
+push 2 72999 ]
+push 1 83316 (
+push 0 66839 )
+push 2 55567 (
+push 2 13486 )
+printq
+correctq 0
+pop 3
+pop 1
+extrq 2
+extrq 0
+extrq 3
+printq
+correctq 1
+extrq 1
+sorts 2
+prints
+push 3 50212 [
+push 0 33934 (
+push 0 21117 )
+push 3 78674 [
+push 2 20631 ]
+prints
+corrects 2
+push 0 93630 ]
+corrects 3
+prints
+intrq 1 99242 [
+intrq 2 14447 {
+intrq 1 32676 }
+intrq 2 84169 )
+printq
+correctq 3
+extrq 3
+printq
+correctq 3
+push 3 27351 [
+push 0 41320 (
+push 1 85900 )
+push 0 28861 [
+push 0 86974 ]
+prints
+corrects 1
+push 2 13069 ]
+corrects 0
+prints
+intrq 0 50052 [
+intrq 2 11625 {
+intrq 2 1433 }
+intrq 2 59277 )
+printq
+correctq 3
+extrq 1
+printq
+correctq 2
+extrq 3
+sorts 3
+prints
+sortq 0
+push 2 87799 (
+push 3 86229 )
+push 2 4628 [
+push 1 93799 [
+push 0 80589 ]
+push 1 79876 (
+push 3 3766 )
+push 2 96984 (
+push 2 74759 )
+printq
+correctq 0
+pop 0
+pop 0
+extrq 3
+extrq 1
+extrq 2
+sorts 0
+prints
+sortq 0
+push 3 29490 (
+push 3 7775 )
+push 2 79781 [
+push 2 5250 [
+push 2 43428 ]
+push 2 26264 (
+push 3 16758 )
+push 1 8944 (
+push 2 90769 )
+printq
+correctq 3
+pop 1
+pop 1
+extrq 1
+extrq 0
+sortq 2
+push 2 64472 (
+push 1 65595 )
+push 2 57265 [
+push 0 16249 [
+push 3 81467 ]
+push 0 63558 (
+push 1 52302 )
+push 0 59963 (
+push 2 95038 )
+printq
+correctq 3
+pop 2
+pop 0
+extrq 1
+extrq 2
+prints
+corrects 2
+push 2 3669 ]
+corrects 3
+prints
+intrq 3 79927 [
+intrq 3 71801 {
+intrq 1 37967 }
+intrq 2 90260 )
+printq
+correctq 1
+extrq 3
+printq
+correctq 0
+push 3 39443 [
+push 0 33007 (
+push 1 82313 )
+push 2 4513 [
+push 0 30096 ]
+prints
+corrects 3
+push 0 12110 ]
+corrects 3
+prints
+intrq 1 3069 [
+intrq 1 87195 {
+intrq 2 47889 }
+intrq 2 19369 )
+printq
+correctq 0
+extrq 0
+printq
+correctq 2
+extrq 0
+sorts 2
+prints
+sortq 3
+push 1 11414 (
+push 3 28364 )
+push 1 62251 [
+push 0 70210 [
+push 0 95738 ]
+push 3 3193 (
+push 2 90626 )
+push 1 37945 (
+push 1 51394 )
+printq
+correctq 2
+pop 2
+pop 1
+extrq 0
+extrq 3
+extrq 3
+sorts 2
+prints
+sortq 0
+push 3 43860 (
+push 0 33882 )
+push 3 573 [
+push 0 35695 [
+push 2 12505 ]
+push 2 39366 (
+push 3 58863 )
+push 0 73790 (
+push 0 77290 )
+printq
+correctq 0
+pop 1
+pop 3
+extrq 1
+extrq 3
+sortq 1
+push 3 49144 (
+push 2 37651 )
+push 3 85588 [
+push 3 3447 [
+push 0 75275 ]
+push 1 23956 (
+push 0 15329 )
+push 3 53842 (
+push 2 73949 )
+printq
+correctq 0
+pop 1
+pop 0
+extrq 0
+extrq 3
+sortq 0
+push 3 97811 (
+push 1 53542 )
+push 0 13640 [
+push 0 15859 [
+push 0 28258 ]
+push 2 7428 (
+push 2 80297 )
+push 3 43294 (
+push 0 64556 )
+printq
+correctq 2
+pop 1
+pop 1
+extrq 1
+extrq 3
+prints
+corrects 3
+push 3 43880 ]
+corrects 0
+prints
+intrq 3 4896 [
+intrq 3 26644 {
+intrq 3 98530 }
+intrq 1 96746 )
+printq
+correctq 2
+extrq 2
+printq
+correctq 2
+push 1 38858 [
+push 0 97508 (
+push 2 97698 )
+push 1 73513 [
+push 0 49730 ]
+prints
+corrects 1
+push 3 30207 ]
+corrects 2
+prints
+intrq 0 80878 [
+intrq 1 34107 {
+intrq 2 42053 }
+intrq 3 46007 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 2
+extrq 2
+sorts 0
+prints
+sortq 0
+push 0 65626 (
+push 2 97086 )
+push 1 58106 [
+push 2 67123 [
+push 0 88751 ]
+push 1 29501 (
+push 1 11410 )
+push 0 1392 (
+push 1 71000 )
+printq
+correctq 3
+pop 2
+pop 0
+extrq 1
+extrq 0
+extrq 3
+sorts 0
+prints
+sortq 0
+push 2 74951 (
+push 3 36718 )
+push 3 81423 [
+push 1 51514 [
+push 1 23182 ]
+push 0 5807 (
+push 1 98129 )
+push 3 47294 (
+push 2 65744 )
+printq
+correctq 1
+pop 2
+pop 1
+extrq 2
+extrq 2
+sortq 0
+push 0 74186 (
+push 1 28825 )
+push 2 88865 [
+push 3 49833 [
+push 0 96358 ]
+push 0 98623 (
+push 3 11310 )
+push 1 54589 (
+push 3 15644 )
+printq
+correctq 2
+pop 0
+pop 3
+extrq 1
+extrq 2
+sortq 0
+push 2 61120 (
+push 1 53428 )
+push 2 41549 [
+push 0 20737 [
+push 2 78241 ]
+push 2 21924 (
+push 2 25554 )
+push 1 658 (
+push 0 31554 )
+printq
+correctq 1
+pop 3
+pop 0
+extrq 2
+extrq 0
+sortq 3
+push 3 85506 (
+push 3 51318 )
+push 3 11305 [
+push 2 26701 [
+push 1 52111 ]
+push 1 35328 (
+push 0 40186 )
+push 1 57055 (
+push 3 54683 )
+printq
+correctq 3
+pop 1
+pop 1
+extrq 1
+extrq 3
+push 1 14995 [
+push 0 4524 (
+push 3 59999 )
+push 0 70711 [
+push 2 30643 ]
+prints
+corrects 2
+push 0 41042 ]
+corrects 0
+prints
+intrq 3 84096 [
+intrq 1 97218 {
+intrq 1 3441 }
+intrq 3 20763 )
+printq
+correctq 2
+push 2 71894 [
+push 2 59617 (
+push 3 43483 )
+push 2 58082 [
+push 1 58053 ]
+prints
+corrects 3
+push 1 48617 ]
+corrects 2
+prints
+intrq 2 35680 [
+intrq 0 58641 {
+intrq 2 71564 }
+intrq 3 17638 )
+printq
+correctq 3
+extrq 3
+printq
+correctq 0
+extrq 2
+sorts 1
+prints
+sortq 1
+push 1 17824 (
+push 0 34463 )
+push 3 61002 [
+push 0 28906 [
+push 1 53491 ]
+push 1 99174 (
+push 0 28656 )
+push 0 60161 (
+push 2 42738 )
+printq
+correctq 1
+pop 2
+pop 3
+extrq 0
+extrq 2
+extrq 2
+printq
+correctq 2
+extrq 2
+sorts 2
+prints
+push 2 84284 [
+push 3 8488 (
+push 1 65135 )
+push 0 88924 [
+push 2 83598 ]
+push 0 113 [
+push 3 52847 (
+push 2 19962 )
+push 0 32110 [
+push 2 57257 ]
+prints
+corrects 0
+push 0 69451 ]
+corrects 2
+prints
+intrq 3 36299 [
+intrq 0 45289 {
+intrq 1 86946 }
+intrq 3 72784 )
+printq
+correctq 2
+push 2 81272 [
+push 3 7986 (
+push 0 47319 )
+push 0 3818 [
+push 0 95657 ]
+prints
+corrects 1
+push 3 15463 ]
+corrects 3
+prints
+intrq 3 63925 [
+intrq 1 53877 {
+intrq 1 56709 }
+intrq 0 54595 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 0
+extrq 2
+sorts 0
+prints
+sortq 2
+push 1 34956 (
+push 1 68264 )
+push 0 20424 [
+push 2 36448 [
+push 0 71794 ]
+push 2 30772 (
+push 0 64872 )
+push 3 99267 (
+push 3 59619 )
+printq
+correctq 1
+pop 1
+pop 0
+extrq 2
+extrq 2
+extrq 0
+printq
+correctq 2
+extrq 3
+sorts 3
+prints
+push 2 24031 [
+push 0 1642 (
+push 0 17177 )
+push 2 91568 [
+push 2 62508 ]
+prints
+corrects 1
+push 2 34303 ]
+corrects 3
+prints
+intrq 2 82211 [
+intrq 1 33726 {
+intrq 3 91440 }
+intrq 3 13064 )
+printq
+correctq 0
+extrq 2
+printq
+correctq 2
+push 0 12376 [
+push 1 69027 (
+push 2 30122 )
+push 3 48226 [
+push 1 68399 ]
+prints
+corrects 0
+push 3 59967 ]
+corrects 2
+prints
+intrq 0 20688 [
+intrq 0 31187 {
+intrq 0 26230 }
+intrq 2 20239 )
+printq
+correctq 3
+extrq 0
+printq
+correctq 2
+extrq 0
+sorts 0
+prints
+sortq 2
+push 0 64522 (
+push 1 77949 )
+push 2 86386 [
+push 0 69976 [
+push 1 56387 ]
+push 2 64626 (
+push 2 99958 )
+push 1 17458 (
+push 0 63181 )
+printq
+correctq 2
+pop 0
+pop 0
+extrq 2
+extrq 2
+extrq 2
+sorts 2
+prints
+sortq 2
+push 3 24656 (
+push 2 4735 )
+push 3 30334 [
+push 1 31160 [
+push 3 62507 ]
+push 2 87964 (
+push 3 34055 )
+push 3 67037 (
+push 1 1842 )
+printq
+correctq 0
+pop 3
+pop 0
+extrq 0
+extrq 0
+sortq 2
+push 1 87937 (
+push 1 13159 )
+push 3 46387 [
+push 1 40042 [
+push 3 82775 ]
+push 1 69710 (
+push 2 30386 )
+push 2 54097 (
+push 1 18417 )
+printq
+correctq 1
+pop 0
+pop 0
+extrq 1
+extrq 2
+prints
+corrects 2
+push 3 8466 ]
+corrects 1
+prints
+intrq 3 60186 [
+intrq 1 14057 {
+intrq 3 63046 }
+intrq 2 34495 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 0
+push 0 97813 [
+push 0 44874 (
+push 3 86306 )
+push 0 68394 [
+push 3 84506 ]
+prints
+corrects 3
+push 1 88339 ]
+corrects 2
+prints
+intrq 0 88549 [
+intrq 1 59818 {
+intrq 2 95504 }
+intrq 1 77904 )
+printq
+correctq 1
+extrq 0
+printq
+correctq 2
+extrq 0
+sorts 3
+prints
+sortq 0
+push 1 66256 (
+push 1 14526 )
+push 0 62327 [
+push 2 93054 [
+push 3 66796 ]
+push 1 38445 (
+push 3 48626 )
+push 0 91002 (
+push 0 16032 )
+printq
+correctq 0
+pop 1
+pop 3
+extrq 2
+extrq 1
+extrq 0
+sorts 2
+prints
+push 3 86252 [
+push 1 65871 (
+push 0 18557 )
+push 0 61048 [
+push 2 97111 ]
+prints
+corrects 0
+push 1 95513 ]
+corrects 2
+prints
+intrq 1 78661 [
+intrq 3 7074 {
+intrq 0 8342 }
+intrq 2 72326 )
+printq
+correctq 2
+push 3 51878 [
+push 0 96342 (
+push 1 95777 )
+push 2 10827 [
+push 0 11154 ]
+prints
+corrects 0
+push 3 5946 ]
+corrects 2
+prints
+intrq 0 66994 [
+intrq 0 33623 {
+intrq 2 13990 }
+intrq 0 44696 )
+printq
+correctq 3
+extrq 1
+printq
+correctq 0
+extrq 1
+sorts 1
+prints
+sortq 2
+push 0 94151 (
+push 0 65587 )
+push 2 66124 [
+push 1 12959 [
+push 2 3183 ]
+push 2 33606 (
+push 1 52167 )
+push 2 36636 (
+push 1 24046 )
+printq
+correctq 2
+pop 1
+pop 1
+extrq 1
+extrq 3
+extrq 1
+printq
+correctq 1
+extrq 2
+sorts 2
+prints
+push 1 33764 [
+push 3 49339 (
+push 0 75986 )
+push 0 93503 [
+push 0 52176 ]
+push 0 51327 [
+push 2 74967 (
+push 2 64037 )
+push 0 43633 [
+push 3 42292 ]
+prints
+corrects 2
+push 1 62275 ]
+corrects 3
+prints
+intrq 2 33400 [
+intrq 3 69147 {
+intrq 1 44777 }
+intrq 1 2159 )
+printq
+correctq 1
+push 0 67850 [
+push 1 86978 (
+push 2 99960 )
+push 3 22431 [
+push 0 93026 ]
+prints
+corrects 1
+push 3 84492 ]
+corrects 2
+prints
+intrq 0 44477 [
+intrq 1 94660 {
+intrq 3 76790 }
+intrq 3 91879 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 2
+extrq 3
+sorts 1
+prints
+sortq 3
+push 0 7124 (
+push 1 68428 )
+push 2 55066 [
+push 3 45229 [
+push 3 13458 ]
+push 0 26771 (
+push 0 36873 )
+push 3 7329 (
+push 0 42203 )
+printq
+correctq 2
+pop 1
+pop 3
+extrq 2
+extrq 0
+extrq 3
+printq
+correctq 1
+extrq 0
+sorts 2
+prints
+push 3 35500 [
+push 3 58962 (
+push 0 61631 )
+push 3 77717 [
+push 2 62638 ]
+prints
+corrects 0
+push 3 34017 ]
+corrects 2
+prints
+intrq 3 77140 [
+intrq 2 19072 {
+intrq 3 9451 }
+intrq 0 41882 )
+printq
+correctq 2
+extrq 2
+printq
+correctq 2
+push 0 8582 [
+push 1 11053 (
+push 2 3847 )
+push 0 67654 [
+push 3 91614 ]
+prints
+corrects 3
+push 2 15538 ]
+corrects 0
+prints
+intrq 0 94528 [
+intrq 0 87483 {
+intrq 1 83422 }
+intrq 2 22037 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 1
+extrq 0
+sorts 3
+prints
+sortq 3
+push 2 71149 (
+push 1 87350 )
+push 3 13002 [
+push 3 28238 [
+push 2 31055 ]
+push 0 75205 (
+push 1 72835 )
+push 3 70911 (
+push 3 84488 )
+printq
+correctq 3
+pop 3
+pop 3
+extrq 0
+extrq 1
+extrq 2
+sorts 2
+prints
+sortq 2
+push 1 54091 (
+push 2 90120 )
+push 2 33608 [
+push 2 76388 [
+push 2 90057 ]
+push 2 19361 (
+push 3 6240 )
+push 0 30540 (
+push 1 22141 )
+printq
+correctq 3
+pop 1
+pop 1
+extrq 3
+extrq 1
+push 0 11558 [
+push 0 1533 (
+push 0 56510 )
+push 3 8970 [
+push 3 4350 ]
+prints
+corrects 0
+push 0 22040 ]
+corrects 0
+prints
+intrq 2 14780 [
+intrq 2 42831 {
+intrq 3 43899 }
+intrq 3 26763 )
+printq
+correctq 3
+push 3 24561 [
+push 0 27746 (
+push 2 74917 )
+push 1 44083 [
+push 2 86528 ]
+prints
+corrects 3
+push 3 62196 ]
+corrects 2
+prints
+intrq 2 71166 [
+intrq 1 22256 {
+intrq 2 42929 }
+intrq 0 44718 )
+printq
+correctq 3
+extrq 1
+printq
+correctq 0
+extrq 3
+sorts 0
+prints
+sortq 3
+push 2 22715 (
+push 2 56737 )
+push 0 38390 [
+push 3 13882 [
+push 0 75805 ]
+push 1 79422 (
+push 1 33257 )
+push 1 40881 (
+push 3 48623 )
+printq
+correctq 3
+pop 0
+pop 3
+extrq 1
+extrq 2
+extrq 3
+printq
+correctq 3
+extrq 1
+sorts 0
+prints
+push 3 75412 [
+push 0 62074 (
+push 2 41976 )
+push 0 97219 [
+push 0 6046 ]
+push 3 35839 [
+push 2 90212 (
+push 0 15128 )
+push 1 59765 [
+push 1 26130 ]
+prints
+corrects 0
+push 0 54529 ]
+corrects 1
+prints
+intrq 3 40418 [
+intrq 3 62283 {
+intrq 1 86656 }
+intrq 3 19944 )
+printq
+correctq 1
+push 0 98370 [
+push 3 46828 (
+push 2 16123 )
+push 0 72072 [
+push 2 20975 ]
+prints
+corrects 3
+push 2 47484 ]
+corrects 3
+prints
+intrq 3 7249 [
+intrq 1 48473 {
+intrq 2 44981 }
+intrq 2 89735 )
+printq
+correctq 1
+extrq 0
+printq
+correctq 2
+extrq 0
+sorts 1
+prints
+sortq 2
+push 3 83445 (
+push 3 44815 )
+push 3 39847 [
+push 3 64193 [
+push 2 76780 ]
+push 1 19204 (
+push 3 60396 )
+push 2 61591 (
+push 0 62289 )
+printq
+correctq 1
+pop 1
+pop 2
+extrq 3
+extrq 2
+extrq 0
+printq
+correctq 2
+extrq 3
+sorts 0
+prints
+push 0 25259 [
+push 1 54446 (
+push 3 69538 )
+push 2 10038 [
+push 1 31589 ]
+prints
+corrects 2
+push 2 20263 ]
+corrects 2
+prints
+intrq 3 39467 [
+intrq 1 77616 {
+intrq 1 86865 }
+intrq 0 74406 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 0
+push 1 22591 [
+push 0 12679 (
+push 3 54228 )
+push 3 35090 [
+push 1 62697 ]
+prints
+corrects 1
+push 3 70791 ]
+corrects 0
+prints
+intrq 0 18732 [
+intrq 2 42166 {
+intrq 3 23200 }
+intrq 1 94814 )
+printq
+correctq 1
+extrq 1
+printq
+correctq 3
+extrq 2
+sorts 1
+prints
+sortq 1
+push 0 74418 (
+push 1 13362 )
+push 1 42104 [
+push 1 1425 [
+push 3 74635 ]
+push 2 29405 (
+push 1 51605 )
+push 0 1653 (
+push 1 35281 )
+printq
+correctq 3
+pop 3
+pop 0
+extrq 3
+extrq 1
+extrq 3
+sorts 0
+prints
+sortq 2
+push 2 69755 (
+push 0 57360 )
+push 3 54526 [
+push 1 6577 [
+push 0 87415 ]
+push 1 7433 (
+push 0 15389 )
+push 1 46939 (
+push 2 73370 )
+printq
+correctq 0
+pop 2
+pop 3
+extrq 2
+extrq 3
+sortq 2
+push 1 3604 (
+push 1 76938 )
+push 3 25421 [
+push 1 65069 [
+push 0 90177 ]
+push 1 88680 (
+push 3 78999 )
+push 1 45296 (
+push 2 43938 )
+printq
+correctq 1
+pop 2
+pop 3
+extrq 2
+extrq 1
+prints
+corrects 1
+push 0 66146 ]
+corrects 0
+prints
+intrq 3 42916 [
+intrq 3 53661 {
+intrq 1 47451 }
+intrq 2 17016 )
+printq
+correctq 2
+extrq 0
+printq
+correctq 1
+push 0 81616 [
+push 2 40349 (
+push 0 11021 )
+push 0 81905 [
+push 1 18466 ]
+prints
+corrects 0
+push 3 22777 ]
+corrects 3
+prints
+intrq 1 74026 [
+intrq 1 82830 {
+intrq 0 1925 }
+intrq 1 83088 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 2
+extrq 0
+sorts 1
+prints
+sortq 2
+push 2 48901 (
+push 3 63994 )
+push 2 66289 [
+push 0 33518 [
+push 2 56396 ]
+push 0 66332 (
+push 3 57620 )
+push 3 97640 (
+push 3 66392 )
+printq
+correctq 2
+pop 0
+pop 2
+extrq 3
+extrq 1
+extrq 0
+sorts 3
+prints
+sortq 2
+push 3 83501 (
+push 2 60908 )
+push 3 15304 [
+push 2 89062 [
+push 3 73032 ]
+push 3 16347 (
+push 2 65366 )
+push 3 38326 (
+push 2 63958 )
+printq
+correctq 2
+pop 1
+pop 2
+extrq 2
+extrq 1
+sortq 1
+push 2 20804 (
+push 0 64576 )
+push 0 70847 [
+push 2 16255 [
+push 1 77108 ]
+push 3 10736 (
+push 0 19677 )
+push 3 4415 (
+push 1 87854 )
+printq
+correctq 2
+pop 0
+pop 0
+extrq 2
+extrq 2
+sortq 2
+push 0 98941 (
+push 3 84471 )
+push 3 61689 [
+push 0 19189 [
+push 1 77304 ]
+push 1 16653 (
+push 3 24347 )
+push 0 18852 (
+push 3 26423 )
+printq
+correctq 1
+pop 0
+pop 1
+extrq 0
+extrq 3
+prints
+corrects 2
+push 2 84454 ]
+corrects 2
+prints
+intrq 3 27016 [
+intrq 1 20789 {
+intrq 0 72710 }
+intrq 1 1655 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 3
+push 2 87783 [
+push 3 60512 (
+push 0 1211 )
+push 0 61811 [
+push 3 96471 ]
+prints
+corrects 0
+push 3 58924 ]
+corrects 0
+prints
+intrq 2 14087 [
+intrq 3 93736 {
+intrq 1 55662 }
+intrq 0 91334 )
+printq
+correctq 3
+extrq 1
+printq
+correctq 0
+extrq 0
+sorts 0
+prints
+sortq 1
+push 2 57096 (
+push 0 45829 )
+push 3 26156 [
+push 1 62158 [
+push 3 36665 ]
+push 2 46386 (
+push 1 48074 )
+push 1 92061 (
+push 3 84908 )
+printq
+correctq 0
+pop 2
+pop 0
+extrq 2
+extrq 0
+extrq 1
+sorts 0
+prints
+sortq 3
+push 2 11797 (
+push 0 42334 )
+push 2 62386 [
+push 2 82690 [
+push 0 34982 ]
+push 2 91185 (
+push 0 36214 )
+push 3 53814 (
+push 0 77340 )
+printq
+correctq 1
+pop 2
+pop 1
+extrq 0
+extrq 2
+sortq 2
+push 2 87186 (
+push 0 30762 )
+push 3 96072 [
+push 1 89325 [
+push 1 19389 ]
+push 0 47442 (
+push 2 89992 )
+push 0 65509 (
+push 1 12269 )
+printq
+correctq 3
+pop 0
+pop 3
+extrq 3
+extrq 0
+sortq 0
+push 1 88474 (
+push 0 16499 )
+push 0 25170 [
+push 2 77752 [
+push 0 39325 ]
+push 0 70982 (
+push 3 14398 )
+push 3 76663 (
+push 2 72147 )
+printq
+correctq 1
+pop 0
+pop 3
+extrq 2
+extrq 1
+sortq 1
+push 3 28616 (
+push 1 33938 )
+push 0 36826 [
+push 3 86305 [
+push 0 87803 ]
+push 1 54732 (
+push 2 39195 )
+push 0 85258 (
+push 0 39012 )
+printq
+correctq 0
+pop 3
+pop 2
+extrq 0
+extrq 2
+push 0 51463 [
+push 0 3165 (
+push 3 12582 )
+push 2 22328 [
+push 1 75027 ]
+prints
+corrects 1
+push 3 37023 ]
+corrects 3
+prints
+intrq 2 23328 [
+intrq 3 53146 {
+intrq 1 5995 }
+intrq 0 98032 )
+printq
+correctq 3
+push 2 92905 [
+push 0 56675 (
+push 0 79958 )
+push 3 49319 [
+push 3 87454 ]
+prints
+corrects 3
+push 0 33761 ]
+corrects 1
+prints
+intrq 2 72441 [
+intrq 2 95397 {
+intrq 3 46413 }
+intrq 0 38486 )
+printq
+correctq 0
+extrq 1
+printq
+correctq 2
+extrq 2
+sorts 2
+prints
+sortq 1
+push 2 45323 (
+push 1 31456 )
+push 0 77125 [
+push 3 71008 [
+push 3 24122 ]
+push 3 44230 (
+push 1 59346 )
+push 2 61690 (
+push 3 54913 )
+printq
+correctq 0
+pop 1
+pop 2
+extrq 3
+extrq 3
+extrq 3
+printq
+correctq 1
+extrq 3
+sorts 0
+prints
+push 3 82409 [
+push 2 86989 (
+push 3 80149 )
+push 2 77591 [
+push 1 47395 ]
+push 3 5738 [
+push 2 6197 (
+push 1 81413 )
+push 2 18116 [
+push 3 79465 ]
+prints
+corrects 3
+push 0 29949 ]
+corrects 1
+prints
+intrq 3 92956 [
+intrq 0 36614 {
+intrq 1 60715 }
+intrq 2 18397 )
+printq
+correctq 0
+push 0 21738 [
+push 3 39126 (
+push 0 83202 )
+push 3 39403 [
+push 1 79593 ]
+prints
+corrects 1
+push 3 22011 ]
+corrects 2
+prints
+intrq 1 40127 [
+intrq 2 1418 {
+intrq 2 61174 }
+intrq 3 6647 )
+printq
+correctq 1
+extrq 3
+printq
+correctq 3
+extrq 3
+sorts 1
+prints
+sortq 2
+push 1 86226 (
+push 2 18446 )
+push 0 59305 [
+push 0 99972 [
+push 0 47779 ]
+push 3 24137 (
+push 1 48664 )
+push 0 65736 (
+push 3 17566 )
+printq
+correctq 3
+pop 1
+pop 0
+extrq 1
+extrq 3
+extrq 0
+printq
+correctq 1
+extrq 1
+sorts 3
+prints
+push 0 8520 [
+push 0 74831 (
+push 2 28525 )
+push 0 53046 [
+push 3 76712 ]
+prints
+corrects 2
+push 3 24491 ]
+corrects 1
+prints
+intrq 0 68216 [
+intrq 2 15497 {
+intrq 0 29481 }
+intrq 3 88871 )
+printq
+correctq 2
+extrq 3
+printq
+correctq 1
+push 1 18751 [
+push 2 23202 (
+push 3 40702 )
+push 3 84987 [
+push 1 16065 ]
+prints
+corrects 2
+push 3 35205 ]
+corrects 0
+prints
+intrq 2 11917 [
+intrq 3 43989 {
+intrq 0 42992 }
+intrq 1 37329 )
+printq
+correctq 2
+extrq 2
+printq
+correctq 1
+extrq 3
+sorts 1
+prints
+sortq 1
+push 1 13537 (
+push 2 20799 )
+push 0 82280 [
+push 1 74771 [
+push 2 8428 ]
+push 3 71220 (
+push 1 6181 )
+push 3 76050 (
+push 1 28929 )
+printq
+correctq 3
+pop 0
+pop 2
+extrq 0
+extrq 1
+extrq 3
+sorts 1
+prints
+sortq 3
+push 2 98394 (
+push 3 94003 )
+push 3 14788 [
+push 0 29793 [
+push 3 56181 ]
+push 1 95941 (
+push 0 84112 )
+push 1 7063 (
+push 0 61567 )
+printq
+correctq 0
+pop 3
+pop 1
+extrq 2
+extrq 0
+sortq 1
+push 2 21514 (
+push 1 25327 )
+push 1 57675 [
+push 3 40876 [
+push 2 50231 ]
+push 0 16454 (
+push 3 94625 )
+push 2 30304 (
+push 3 64335 )
+printq
+correctq 1
+pop 3
+pop 0
+extrq 0
+extrq 3
+prints
+corrects 3
+push 1 98514 ]
+corrects 1
+prints
+intrq 3 30758 [
+intrq 2 91953 {
+intrq 0 23307 }
+intrq 1 59633 )
+printq
+correctq 1
+extrq 0
+printq
+correctq 1
+push 1 92974 [
+push 0 87849 (
+push 0 40215 )
+push 3 77822 [
+push 0 38230 ]
+prints
+corrects 1
+push 1 61745 ]
+corrects 2
+prints
+intrq 1 40592 [
+intrq 1 47070 {
+intrq 2 39838 }
+intrq 1 86216 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 0
+extrq 3
+sorts 0
+prints
+sortq 1
+push 0 29832 (
+push 2 76242 )
+push 2 45482 [
+push 3 48586 [
+push 2 62918 ]
+push 1 88922 (
+push 0 84918 )
+push 3 79245 (
+push 0 18908 )
+printq
+correctq 1
+pop 2
+pop 3
+extrq 3
+extrq 0
+extrq 0
+sorts 3
+prints
+push 1 67455 [
+push 3 10076 (
+push 3 12585 )
+push 1 35811 [
+push 3 55895 ]
+prints
+corrects 1
+push 2 19986 ]
+corrects 0
+prints
+intrq 0 99257 [
+intrq 1 77486 {
+intrq 1 51235 }
+intrq 1 96003 )
+printq
+correctq 0
+push 1 32192 [
+push 2 48480 (
+push 0 55018 )
+push 1 18055 [
+push 3 11204 ]
+prints
+corrects 3
+push 0 17184 ]
+corrects 0
+prints
+intrq 1 69347 [
+intrq 3 55988 {
+intrq 1 74537 }
+intrq 2 67873 )
+printq
+correctq 1
+extrq 3
+printq
+correctq 2
+extrq 3
+sorts 1
+prints
+sortq 1
+push 0 20696 (
+push 1 70330 )
+push 0 78003 [
+push 2 93080 [
+push 2 62559 ]
+push 0 43385 (
+push 0 27303 )
+push 1 7300 (
+push 3 80270 )
+printq
+correctq 3
+pop 2
+pop 2
+extrq 0
+extrq 0
+extrq 1
+printq
+correctq 1
+extrq 1
+sorts 0
+prints
+push 3 71361 [
+push 1 57509 (
+push 1 65557 )
+push 2 29519 [
+push 2 66066 ]
+push 2 27878 [
+push 0 27241 (
+push 2 58825 )
+push 1 82669 [
+push 3 24657 ]
+prints
+corrects 0
+push 1 1305 ]
+corrects 3
+prints
+intrq 0 22269 [
+intrq 3 469 {
+intrq 3 36989 }
+intrq 2 1665 )
+printq
+correctq 3
+push 3 77207 [
+push 0 28762 (
+push 2 82206 )
+push 0 87760 [
+push 1 10268 ]
+prints
+corrects 2
+push 3 85445 ]
+corrects 3
+prints
+intrq 1 40800 [
+intrq 1 86845 {
+intrq 2 91026 }
+intrq 0 64662 )
+printq
+correctq 3
+extrq 3
+printq
+correctq 3
+extrq 2
+sorts 0
+prints
+sortq 0
+push 1 66557 (
+push 3 13700 )
+push 0 47732 [
+push 2 83195 [
+push 2 53642 ]
+push 3 56375 (
+push 2 35013 )
+push 3 82060 (
+push 1 86300 )
+printq
+correctq 0
+pop 2
+pop 1
+extrq 2
+extrq 0
+extrq 2
+printq
+correctq 0
+extrq 3
+sorts 1
+prints
+push 3 67578 [
+push 1 63904 (
+push 3 90591 )
+push 3 54279 [
+push 3 28311 ]
+prints
+corrects 2
+push 2 74602 ]
+corrects 0
+prints
+intrq 2 47329 [
+intrq 3 5279 {
+intrq 0 61763 }
+intrq 0 88160 )
+printq
+correctq 3
+extrq 2
+printq
+correctq 2
+push 2 75978 [
+push 0 96914 (
+push 2 61353 )
+push 2 70380 [
+push 3 38954 ]
+prints
+corrects 3
+push 2 19533 ]
+corrects 2
+prints
+intrq 1 47845 [
+intrq 0 9644 {
+intrq 3 77773 }
+intrq 2 73828 )
+printq
+correctq 1
+extrq 1
+printq
+correctq 3
+extrq 2
+sorts 1
+prints
+sortq 2
+push 0 70159 (
+push 0 61679 )
+push 3 82799 [
+push 1 66429 [
+push 1 18509 ]
+push 0 96803 (
+push 0 44146 )
+push 0 11058 (
+push 3 80533 )
+printq
+correctq 3
+pop 3
+pop 0
+extrq 0
+extrq 1
+extrq 1
+sorts 0
+prints
+sortq 3
+push 2 41991 (
+push 1 2303 )
+push 1 54525 [
+push 3 64442 [
+push 0 77538 ]
+push 1 80685 (
+push 3 21442 )
+push 2 28487 (
+push 1 61366 )
+printq
+correctq 1
+pop 1
+pop 1
+extrq 1
+extrq 3
+push 0 89348 [
+push 3 27092 (
+push 2 72612 )
+push 0 44365 [
+push 2 59131 ]
+prints
+corrects 2
+push 2 70392 ]
+corrects 3
+prints
+intrq 1 51186 [
+intrq 0 67423 {
+intrq 3 80957 }
+intrq 3 36221 )
+printq
+correctq 0
+push 2 70818 [
+push 2 61568 (
+push 0 62999 )
+push 1 53219 [
+push 3 59789 ]
+prints
+corrects 2
+push 3 42227 ]
+corrects 3
+prints
+intrq 3 2944 [
+intrq 1 9938 {
+intrq 2 92819 }
+intrq 3 202 )
+printq
+correctq 0
+extrq 1
+printq
+correctq 2
+extrq 0
+sorts 1
+prints
+sortq 3
+push 3 15222 (
+push 3 83157 )
+push 1 84862 [
+push 1 24145 [
+push 1 15166 ]
+push 0 54437 (
+push 0 97734 )
+push 0 17183 (
+push 1 22560 )
+printq
+correctq 0
+pop 3
+pop 2
+extrq 2
+extrq 2
+extrq 1
+printq
+correctq 0
+extrq 3
+sorts 3
+prints
+push 2 24471 [
+push 0 83778 (
+push 2 3978 )
+push 1 34555 [
+push 3 79279 ]
+push 1 46868 [
+push 1 10799 (
+push 0 14282 )
+push 3 38319 [
+push 2 19291 ]
+prints
+corrects 0
+push 2 55771 ]
+corrects 3
+prints
+intrq 1 19494 [
+intrq 2 10258 {
+intrq 1 29085 }
+intrq 0 34660 )
+printq
+correctq 1
+push 2 86058 [
+push 0 90800 (
+push 1 28191 )
+push 3 16246 [
+push 0 46276 ]
+prints
+corrects 2
+push 0 60558 ]
+corrects 1
+prints
+intrq 3 62945 [
+intrq 0 32056 {
+intrq 3 20567 }
+intrq 3 61688 )
+printq
+correctq 1
+extrq 1
+printq
+correctq 3
+extrq 3
+sorts 2
+prints
+sortq 0
+push 3 56958 (
+push 2 13606 )
+push 0 66118 [
+push 2 79982 [
+push 1 23541 ]
+push 0 2073 (
+push 2 39626 )
+push 2 46728 (
+push 0 9673 )
+printq
+correctq 0
+pop 1
+pop 1
+extrq 0
+extrq 1
+extrq 1
+printq
+correctq 1
+extrq 2
+sorts 0
+prints
+push 0 96169 [
+push 1 70347 (
+push 3 43731 )
+push 1 9849 [
+push 3 92478 ]
+prints
+corrects 2
+push 1 5058 ]
+corrects 0
+prints
+intrq 3 44685 [
+intrq 2 77503 {
+intrq 1 26447 }
+intrq 1 47041 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 1
+push 2 76699 [
+push 2 31224 (
+push 0 35518 )
+push 1 49109 [
+push 2 13225 ]
+prints
+corrects 0
+push 3 25721 ]
+corrects 1
+prints
+intrq 3 34551 [
+intrq 3 20896 {
+intrq 1 11191 }
+intrq 3 84294 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 3
+extrq 1
+sorts 3
+prints
+sortq 1
+push 2 95042 (
+push 0 75905 )
+push 1 43872 [
+push 1 29307 [
+push 2 7394 ]
+push 1 843 (
+push 2 6753 )
+push 0 51979 (
+push 0 77467 )
+printq
+correctq 2
+pop 0
+pop 0
+extrq 2
+extrq 3
+extrq 3
+sorts 3
+prints
+sortq 1
+push 2 62972 (
+push 1 9339 )
+push 2 47510 [
+push 2 98210 [
+push 3 14523 ]
+push 3 81700 (
+push 2 46053 )
+push 2 28060 (
+push 0 22032 )
+printq
+correctq 1
+pop 0
+pop 3
+extrq 1
+extrq 3
+sortq 2
+push 1 17059 (
+push 0 42816 )
+push 2 53295 [
+push 1 99321 [
+push 0 57666 ]
+push 0 50886 (
+push 1 45746 )
+push 1 44944 (
+push 1 23884 )
+printq
+correctq 1
+pop 0
+pop 1
+extrq 3
+extrq 0
+prints
+corrects 1
+push 0 32381 ]
+corrects 1
+prints
+intrq 3 66590 [
+intrq 0 26381 {
+intrq 3 56391 }
+intrq 1 63907 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 0
+push 3 78673 [
+push 3 48211 (
+push 3 52464 )
+push 2 95008 [
+push 0 86931 ]
+prints
+corrects 0
+push 1 40087 ]
+corrects 1
+prints
+intrq 1 37655 [
+intrq 2 59325 {
+intrq 0 94067 }
+intrq 0 52978 )
+printq
+correctq 3
+extrq 2
+printq
+correctq 1
+extrq 3
+sorts 3
+prints
+sortq 0
+push 1 69004 (
+push 1 36868 )
+push 1 74884 [
+push 3 93589 [
+push 0 95389 ]
+push 1 57460 (
+push 1 40194 )
+push 2 55112 (
+push 3 19419 )
+printq
+correctq 0
+pop 2
+pop 0
+extrq 0
+extrq 1
+extrq 0
+sorts 3
+prints
+sortq 1
+push 2 55260 (
+push 0 1110 )
+push 1 96429 [
+push 2 53538 [
+push 1 17792 ]
+push 2 34728 (
+push 1 30118 )
+push 2 62286 (
+push 3 72876 )
+printq
+correctq 0
+pop 3
+pop 0
+extrq 3
+extrq 3
+sortq 2
+push 3 21236 (
+push 3 55336 )
+push 3 87236 [
+push 2 57687 [
+push 0 34604 ]
+push 0 50073 (
+push 3 37166 )
+push 2 38863 (
+push 0 34451 )
+printq
+correctq 0
+pop 2
+pop 1
+extrq 2
+extrq 1
+sortq 0
+push 3 58261 (
+push 3 23111 )
+push 1 90513 [
+push 0 5987 [
+push 0 15004 ]
+push 2 4721 (
+push 3 66101 )
+push 1 99455 (
+push 2 24791 )
+printq
+correctq 2
+pop 0
+pop 1
+extrq 1
+extrq 1
+prints
+corrects 0
+push 1 55603 ]
+corrects 1
+prints
+intrq 0 21008 [
+intrq 1 30123 {
+intrq 2 57677 }
+intrq 2 15215 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 3
+push 3 77583 [
+push 0 56829 (
+push 0 54739 )
+push 2 57022 [
+push 2 89012 ]
+prints
+corrects 1
+push 1 75909 ]
+corrects 2
+prints
+intrq 2 44746 [
+intrq 3 92800 {
+intrq 1 19640 }
+intrq 0 54062 )
+printq
+correctq 2
+extrq 3
+printq
+correctq 0
+extrq 3
+sorts 1
+prints
+sortq 3
+push 3 43280 (
+push 2 99518 )
+push 3 78726 [
+push 3 35872 [
+push 1 11981 ]
+push 2 87660 (
+push 2 23763 )
+push 1 93255 (
+push 1 12843 )
+printq
+correctq 1
+pop 0
+pop 3
+extrq 2
+extrq 1
+extrq 3
+sorts 0
+prints
+sortq 3
+push 2 23856 (
+push 2 53187 )
+push 3 72965 [
+push 3 93946 [
+push 3 33683 ]
+push 0 61534 (
+push 3 6138 )
+push 3 95153 (
+push 2 74509 )
+printq
+correctq 0
+pop 3
+pop 0
+extrq 1
+extrq 2
+sortq 1
+push 2 40074 (
+push 0 2799 )
+push 1 67344 [
+push 2 15548 [
+push 1 21496 ]
+push 3 12660 (
+push 1 81555 )
+push 2 83296 (
+push 2 95631 )
+printq
+correctq 2
+pop 1
+pop 1
+extrq 1
+extrq 2
+sortq 3
+push 3 47918 (
+push 2 9675 )
+push 3 51584 [
+push 1 2941 [
+push 2 57669 ]
+push 0 37200 (
+push 1 21726 )
+push 0 32566 (
+push 2 37835 )
+printq
+correctq 3
+pop 3
+pop 2
+extrq 1
+extrq 3
+sortq 0
+push 0 14865 (
+push 1 14641 )
+push 3 13831 [
+push 0 75122 [
+push 1 92770 ]
+push 1 24081 (
+push 3 49294 )
+push 2 68717 (
+push 3 49115 )
+printq
+correctq 1
+pop 1
+pop 1
+extrq 1
+extrq 3
+push 0 29205 [
+push 2 17155 (
+push 3 43364 )
+push 3 48632 [
+push 0 2056 ]
+prints
+corrects 1
+push 2 67971 ]
+corrects 1
+prints
+intrq 2 59445 [
+intrq 2 39265 {
+intrq 3 65827 }
+intrq 0 9889 )
+printq
+correctq 2
+push 1 33205 [
+push 1 90959 (
+push 2 45510 )
+push 0 11485 [
+push 2 27885 ]
+prints
+corrects 0
+push 2 9185 ]
+corrects 0
+prints
+intrq 1 57817 [
+intrq 0 31385 {
+intrq 2 57142 }
+intrq 1 71275 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 2
+extrq 2
+sorts 1
+prints
+sortq 1
+push 2 61991 (
+push 3 44267 )
+push 0 62720 [
+push 2 25786 [
+push 3 33907 ]
+push 3 33213 (
+push 0 40287 )
+push 3 87329 (
+push 3 4680 )
+printq
+correctq 2
+pop 0
+pop 2
+extrq 1
+extrq 2
+extrq 3
+printq
+correctq 0
+extrq 3
+sorts 1
+prints
+push 2 9317 [
+push 3 48628 (
+push 3 90078 )
+push 3 12811 [
+push 2 32104 ]
+push 1 27412 [
+push 3 98296 (
+push 3 6252 )
+push 1 37675 [
+push 0 63770 ]
+prints
+corrects 2
+push 0 8917 ]
+corrects 2
+prints
+intrq 2 78046 [
+intrq 1 6829 {
+intrq 2 10116 }
+intrq 3 88229 )
+printq
+correctq 2
+push 2 36857 [
+push 1 68276 (
+push 0 17140 )
+push 2 21992 [
+push 2 30018 ]
+prints
+corrects 3
+push 2 27405 ]
+corrects 0
+prints
+intrq 3 65080 [
+intrq 0 52742 {
+intrq 3 1876 }
+intrq 3 3049 )
+printq
+correctq 3
+extrq 1
+printq
+correctq 2
+extrq 0
+sorts 3
+prints
+sortq 3
+push 3 79088 (
+push 1 24773 )
+push 1 46038 [
+push 1 22186 [
+push 3 95655 ]
+push 2 77413 (
+push 1 55562 )
+push 3 53079 (
+push 2 62563 )
+printq
+correctq 3
+pop 2
+pop 1
+extrq 2
+extrq 2
+extrq 0
+printq
+correctq 0
+extrq 1
+sorts 1
+prints
+push 2 27710 [
+push 0 96009 (
+push 1 35673 )
+push 2 15411 [
+push 2 83757 ]
+prints
+corrects 0
+push 0 63288 ]
+corrects 0
+prints
+intrq 3 40701 [
+intrq 1 38953 {
+intrq 0 31924 }
+intrq 3 9559 )
+printq
+correctq 0
+extrq 1
+printq
+correctq 0
+push 2 7959 [
+push 0 1002 (
+push 1 257 )
+push 1 99619 [
+push 2 19802 ]
+prints
+corrects 0
+push 3 57521 ]
+corrects 3
+prints
+intrq 1 57630 [
+intrq 0 83346 {
+intrq 2 83652 }
+intrq 1 77971 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 3
+extrq 2
+sorts 1
+prints
+sortq 3
+push 2 51486 (
+push 3 34876 )
+push 1 10276 [
+push 3 47706 [
+push 1 59672 ]
+push 1 83727 (
+push 2 70286 )
+push 2 53347 (
+push 1 69432 )
+printq
+correctq 1
+pop 1
+pop 2
+extrq 3
+extrq 1
+extrq 3
+sorts 2
+prints
+sortq 3
+push 1 67538 (
+push 1 59398 )
+push 1 24215 [
+push 0 10512 [
+push 3 86681 ]
+push 0 11322 (
+push 0 64026 )
+push 2 14417 (
+push 1 66821 )
+printq
+correctq 3
+pop 0
+pop 0
+extrq 1
+extrq 0
+sortq 2
+push 2 11614 (
+push 1 55288 )
+push 1 38316 [
+push 3 89038 [
+push 2 64788 ]
+push 3 77203 (
+push 0 67487 )
+push 2 95057 (
+push 0 63969 )
+printq
+correctq 1
+pop 2
+pop 3
+extrq 3
+extrq 3
+prints
+corrects 0
+push 2 5811 ]
+corrects 1
+prints
+intrq 3 64647 [
+intrq 3 3482 {
+intrq 1 30604 }
+intrq 2 40094 )
+printq
+correctq 0
+extrq 1
+printq
+correctq 0
+push 2 85037 [
+push 0 64453 (
+push 0 2296 )
+push 1 31238 [
+push 2 52921 ]
+prints
+corrects 3
+push 3 37927 ]
+corrects 3
+prints
+intrq 2 87038 [
+intrq 3 13693 {
+intrq 2 17428 }
+intrq 0 73849 )
+printq
+correctq 3
+extrq 2
+printq
+correctq 3
+extrq 0
+sorts 0
+prints
+sortq 1
+push 0 44385 (
+push 2 75643 )
+push 2 95018 [
+push 0 24366 [
+push 3 4741 ]
+push 1 57662 (
+push 0 70524 )
+push 1 79095 (
+push 3 98980 )
+printq
+correctq 3
+pop 0
+pop 2
+extrq 3
+extrq 0
+extrq 3
+sorts 3
+prints
+push 3 81198 [
+push 3 70867 (
+push 0 62639 )
+push 1 5206 [
+push 2 61027 ]
+prints
+corrects 0
+push 3 1746 ]
+corrects 3
+prints
+intrq 0 73703 [
+intrq 0 73487 {
+intrq 3 11789 }
+intrq 0 85371 )
+printq
+correctq 0
+push 0 10886 [
+push 0 8942 (
+push 1 25396 )
+push 2 81764 [
+push 3 4876 ]
+prints
+corrects 3
+push 3 25336 ]
+corrects 3
+prints
+intrq 0 46894 [
+intrq 1 80131 {
+intrq 3 88244 }
+intrq 1 77362 )
+printq
+correctq 1
+extrq 0
+printq
+correctq 3
+extrq 0
+sorts 0
+prints
+sortq 0
+push 0 47227 (
+push 0 96449 )
+push 1 69232 [
+push 3 44646 [
+push 0 61773 ]
+push 3 11260 (
+push 2 2650 )
+push 3 8338 (
+push 1 1511 )
+printq
+correctq 1
+pop 3
+pop 2
+extrq 0
+extrq 3
+extrq 0
+printq
+correctq 2
+extrq 0
+sorts 0
+prints
+push 1 53968 [
+push 0 94165 (
+push 1 9943 )
+push 1 62458 [
+push 0 44901 ]
+push 1 61759 [
+push 2 4522 (
+push 2 45329 )
+push 0 98605 [
+push 3 65054 ]
+prints
+corrects 0
+push 0 16449 ]
+corrects 2
+prints
+intrq 0 72440 [
+intrq 2 89079 {
+intrq 1 95195 }
+intrq 0 86469 )
+printq
+correctq 3
+push 2 68830 [
+push 3 22663 (
+push 0 84967 )
+push 1 48194 [
+push 2 56151 ]
+prints
+corrects 1
+push 0 55997 ]
+corrects 2
+prints
+intrq 1 54602 [
+intrq 1 72531 {
+intrq 2 178 }
+intrq 0 18236 )
+printq
+correctq 2
+extrq 0
+printq
+correctq 3
+extrq 1
+sorts 1
+prints
+sortq 2
+push 2 96743 (
+push 1 65740 )
+push 1 98940 [
+push 3 29566 [
+push 0 72320 ]
+push 0 63338 (
+push 3 20985 )
+push 3 820 (
+push 3 38416 )
+printq
+correctq 2
+pop 0
+pop 3
+extrq 0
+extrq 2
+extrq 3
+printq
+correctq 1
+extrq 1
+sorts 3
+prints
+push 0 43750 [
+push 1 79530 (
+push 0 1068 )
+push 3 28236 [
+push 1 9556 ]
+prints
+corrects 0
+push 3 26168 ]
+corrects 0
+prints
+intrq 3 5858 [
+intrq 0 44008 {
+intrq 1 67308 }
+intrq 3 91565 )
+printq
+correctq 3
+extrq 0
+printq
+correctq 0
+push 3 22654 [
+push 3 24768 (
+push 3 63828 )
+push 2 816 [
+push 2 6734 ]
+prints
+corrects 0
+push 2 51323 ]
+corrects 1
+prints
+intrq 2 84315 [
+intrq 1 22402 {
+intrq 3 69516 }
+intrq 0 72467 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 0
+extrq 0
+sorts 3
+prints
+sortq 3
+push 0 91840 (
+push 2 93147 )
+push 3 83667 [
+push 2 23474 [
+push 3 54224 ]
+push 2 23558 (
+push 3 75230 )
+push 0 28634 (
+push 0 90118 )
+printq
+correctq 1
+pop 1
+pop 0
+extrq 0
+extrq 1
+extrq 0
+sorts 0
+prints
+sortq 2
+push 2 96580 (
+push 3 60574 )
+push 3 58023 [
+push 2 83393 [
+push 2 79397 ]
+push 0 61157 (
+push 0 30908 )
+push 1 76218 (
+push 2 92692 )
+printq
+correctq 1
+pop 2
+pop 2
+extrq 1
+extrq 0
+push 3 16270 [
+push 0 2260 (
+push 3 73528 )
+push 0 45550 [
+push 3 22940 ]
+prints
+corrects 1
+push 1 63787 ]
+corrects 0
+prints
+intrq 3 47180 [
+intrq 3 2568 {
+intrq 1 36136 }
+intrq 0 77853 )
+printq
+correctq 1
+push 3 48671 [
+push 2 82164 (
+push 1 14592 )
+push 1 84545 [
+push 0 91751 ]
+prints
+corrects 1
+push 0 65898 ]
+corrects 1
+prints
+intrq 0 11448 [
+intrq 0 49484 {
+intrq 1 90001 }
+intrq 3 51986 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 1
+extrq 1
+sorts 0
+prints
+sortq 1
+push 1 85249 (
+push 2 84600 )
+push 0 40588 [
+push 0 63645 [
+push 1 25893 ]
+push 2 36753 (
+push 0 65483 )
+push 1 99895 (
+push 1 30777 )
+printq
+correctq 3
+pop 1
+pop 1
+extrq 1
+extrq 3
+extrq 0
+printq
+correctq 3
+extrq 3
+sorts 3
+prints
+push 0 76224 [
+push 0 63333 (
+push 2 12037 )
+push 3 14710 [
+push 2 67596 ]
+push 3 42307 [
+push 1 40072 (
+push 2 92234 )
+push 1 5037 [
+push 3 73964 ]
+prints
+corrects 2
+push 0 85307 ]
+corrects 0
+prints
+intrq 1 57532 [
+intrq 3 66445 {
+intrq 3 10094 }
+intrq 0 81975 )
+printq
+correctq 3
+push 0 45308 [
+push 1 91958 (
+push 0 47491 )
+push 0 56264 [
+push 2 12927 ]
+prints
+corrects 1
+push 3 36129 ]
+corrects 3
+prints
+intrq 0 41167 [
+intrq 2 49776 {
+intrq 1 93098 }
+intrq 3 49659 )
+printq
+correctq 0
+extrq 0
+printq
+correctq 0
+extrq 3
+sorts 3
+prints
+sortq 0
+push 3 16242 (
+push 1 83403 )
+push 3 73819 [
+push 3 12866 [
+push 3 44687 ]
+push 1 73718 (
+push 0 59928 )
+push 0 76763 (
+push 0 67367 )
+printq
+correctq 1
+pop 0
+pop 0
+extrq 3
+extrq 3
+extrq 2
+printq
+correctq 2
+extrq 3
+sorts 2
+prints
+push 2 2039 [
+push 1 3419 (
+push 2 22439 )
+push 0 23537 [
+push 2 75451 ]
+prints
+corrects 1
+push 1 36242 ]
+corrects 0
+prints
+intrq 2 26312 [
+intrq 1 51498 {
+intrq 0 89844 }
+intrq 2 19879 )
+printq
+correctq 2
+extrq 2
+printq
+correctq 0
+push 1 75113 [
+push 2 20848 (
+push 1 87884 )
+push 2 55776 [
+push 2 58449 ]
+prints
+corrects 2
+push 1 60081 ]
+corrects 3
+prints
+intrq 0 51884 [
+intrq 0 54073 {
+intrq 2 55353 }
+intrq 3 30791 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 3
+extrq 2
+sorts 3
+prints
+sortq 3
+push 0 22541 (
+push 3 75270 )
+push 2 69957 [
+push 2 51391 [
+push 1 51148 ]
+push 3 68275 (
+push 2 19429 )
+push 1 69679 (
+push 1 70893 )
+printq
+correctq 0
+pop 1
+pop 2
+extrq 2
+extrq 2
+extrq 1
+sorts 1
+prints
+sortq 0
+push 2 56489 (
+push 3 84833 )
+push 0 41203 [
+push 2 50723 [
+push 1 37732 ]
+push 0 28943 (
+push 0 11225 )
+push 0 12643 (
+push 1 22394 )
+printq
+correctq 1
+pop 2
+pop 1
+extrq 2
+extrq 3
+sortq 1
+push 3 25565 (
+push 0 15930 )
+push 2 61921 [
+push 2 63924 [
+push 2 93169 ]
+push 1 27138 (
+push 1 88835 )
+push 1 67198 (
+push 3 31245 )
+printq
+correctq 2
+pop 3
+pop 3
+extrq 2
+extrq 3
+prints
+corrects 0
+push 0 9464 ]
+corrects 2
+prints
+intrq 1 13118 [
+intrq 1 2451 {
+intrq 1 59602 }
+intrq 3 19339 )
+printq
+correctq 0
+extrq 0
+printq
+correctq 2
+push 0 4223 [
+push 3 1161 (
+push 1 22292 )
+push 0 25575 [
+push 3 32915 ]
+prints
+corrects 0
+push 1 64959 ]
+corrects 3
+prints
+intrq 3 25998 [
+intrq 3 24015 {
+intrq 2 36461 }
+intrq 0 64932 )
+printq
+correctq 2
+extrq 3
+printq
+correctq 1
+extrq 0
+sorts 2
+prints
+sortq 1
+push 0 75927 (
+push 3 38280 )
+push 2 70350 [
+push 1 27863 [
+push 3 62141 ]
+push 2 31190 (
+push 1 59315 )
+push 3 76368 (
+push 2 42210 )
+printq
+correctq 2
+pop 2
+pop 1
+extrq 0
+extrq 3
+extrq 1
+sorts 0
+prints
+sortq 2
+push 1 87453 (
+push 2 84447 )
+push 2 66327 [
+push 2 73917 [
+push 3 56876 ]
+push 0 60401 (
+push 0 69615 )
+push 2 70882 (
+push 1 50303 )
+printq
+correctq 1
+pop 0
+pop 3
+extrq 0
+extrq 2
+sortq 1
+push 2 24175 (
+push 1 93805 )
+push 0 67737 [
+push 3 81209 [
+push 3 8254 ]
+push 1 46677 (
+push 1 42383 )
+push 3 95540 (
+push 0 97567 )
+printq
+correctq 1
+pop 0
+pop 2
+extrq 0
+extrq 2
+sortq 3
+push 3 34136 (
+push 3 20867 )
+push 0 25325 [
+push 0 18654 [
+push 0 31234 ]
+push 3 69080 (
+push 3 56615 )
+push 2 70514 (
+push 1 32299 )
+printq
+correctq 0
+pop 2
+pop 2
+extrq 3
+extrq 2
+prints
+corrects 2
+push 2 56340 ]
+corrects 2
+prints
+intrq 0 83880 [
+intrq 1 68635 {
+intrq 3 45073 }
+intrq 2 98942 )
+printq
+correctq 1
+extrq 3
+printq
+correctq 3
+push 3 76243 [
+push 1 97238 (
+push 3 44460 )
+push 1 11965 [
+push 3 51426 ]
+prints
+corrects 0
+push 3 23580 ]
+corrects 3
+prints
+intrq 2 91275 [
+intrq 1 19772 {
+intrq 3 16240 }
+intrq 0 47847 )
+printq
+correctq 1
+extrq 3
+printq
+correctq 2
+extrq 2
+sorts 1
+prints
+sortq 1
+push 3 68160 (
+push 0 6802 )
+push 3 17313 [
+push 0 6078 [
+push 1 74246 ]
+push 0 9452 (
+push 0 78660 )
+push 3 49253 (
+push 3 26037 )
+printq
+correctq 0
+pop 1
+pop 1
+extrq 3
+extrq 1
+extrq 1
+sorts 2
+prints
+sortq 2
+push 0 27320 (
+push 0 13053 )
+push 1 44539 [
+push 1 56713 [
+push 1 58320 ]
+push 2 55381 (
+push 3 68504 )
+push 3 15147 (
+push 0 71652 )
+printq
+correctq 3
+pop 0
+pop 1
+extrq 3
+extrq 1
+sortq 1
+push 0 56831 (
+push 0 70409 )
+push 0 32734 [
+push 3 94697 [
+push 2 59543 ]
+push 2 4082 (
+push 0 1657 )
+push 3 79988 (
+push 0 27156 )
+printq
+correctq 3
+pop 0
+pop 0
+extrq 2
+extrq 0
+sortq 0
+push 2 7128 (
+push 1 10165 )
+push 2 25238 [
+push 1 74981 [
+push 2 27894 ]
+push 1 5660 (
+push 1 9090 )
+push 2 24464 (
+push 1 27010 )
+printq
+correctq 2
+pop 1
+pop 0
+extrq 1
+extrq 1
+sortq 0
+push 1 28293 (
+push 0 16965 )
+push 3 68796 [
+push 1 22929 [
+push 1 9206 ]
+push 2 10427 (
+push 0 6931 )
+push 0 7370 (
+push 1 16153 )
+printq
+correctq 2
+pop 2
+pop 0
+extrq 1
+extrq 2
+push 1 54811 [
+push 0 29650 (
+push 3 18485 )
+push 3 53239 [
+push 3 25496 ]
+prints
+corrects 3
+push 0 62380 ]
+corrects 0
+prints
+intrq 2 1661 [
+intrq 1 15648 {
+intrq 0 71392 }
+intrq 1 74391 )
+printq
+correctq 0
+push 3 9217 [
+push 1 3198 (
+push 3 30901 )
+push 3 14934 [
+push 2 69458 ]
+prints
+corrects 2
+push 0 85642 ]
+corrects 0
+prints
+intrq 0 55233 [
+intrq 3 90744 {
+intrq 1 42235 }
+intrq 0 91109 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 2
+extrq 2
+sorts 2
+prints
+sortq 2
+push 3 12989 (
+push 2 4586 )
+push 2 85923 [
+push 0 80226 [
+push 1 38783 ]
+push 0 38867 (
+push 2 6912 )
+push 0 79842 (
+push 0 65469 )
+printq
+correctq 1
+pop 0
+pop 2
+extrq 1
+extrq 1
+extrq 3
+printq
+correctq 2
+extrq 3
+sorts 1
+prints
+push 0 25765 [
+push 3 28807 (
+push 2 213 )
+push 2 77313 [
+push 1 73882 ]
+push 3 35666 [
+push 2 69051 (
+push 1 53612 )
+push 1 14149 [
+push 0 93504 ]
+prints
+corrects 1
+push 1 19949 ]
+corrects 2
+prints
+intrq 0 88630 [
+intrq 3 94319 {
+intrq 1 52410 }
+intrq 1 20377 )
+printq
+correctq 3
+push 0 65537 [
+push 1 94610 (
+push 3 94242 )
+push 3 21869 [
+push 1 49117 ]
+prints
+corrects 3
+push 0 56354 ]
+corrects 3
+prints
+intrq 2 70504 [
+intrq 3 44350 {
+intrq 1 63073 }
+intrq 3 89675 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 2
+extrq 0
+sorts 3
+prints
+sortq 0
+push 1 44704 (
+push 3 92502 )
+push 1 18785 [
+push 0 41876 [
+push 3 84211 ]
+push 2 97513 (
+push 0 30985 )
+push 1 22386 (
+push 1 1895 )
+printq
+correctq 2
+pop 0
+pop 1
+extrq 0
+extrq 1
+extrq 1
+printq
+correctq 3
+extrq 2
+sorts 3
+prints
+push 2 1659 [
+push 2 50682 (
+push 0 81562 )
+push 2 8618 [
+push 0 71323 ]
+prints
+corrects 2
+push 0 702 ]
+corrects 1
+prints
+intrq 2 98215 [
+intrq 1 77468 {
+intrq 1 1064 }
+intrq 1 51160 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 2
+push 2 79915 [
+push 3 48446 (
+push 1 91800 )
+push 0 6396 [
+push 2 92045 ]
+prints
+corrects 2
+push 0 17015 ]
+corrects 2
+prints
+intrq 3 29098 [
+intrq 3 67046 {
+intrq 3 25333 }
+intrq 1 20421 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 1
+extrq 2
+sorts 3
+prints
+sortq 3
+push 0 95797 (
+push 2 92327 )
+push 0 56600 [
+push 0 22342 [
+push 0 26173 ]
+push 2 7234 (
+push 2 49400 )
+push 3 51585 (
+push 3 84950 )
+printq
+correctq 3
+pop 2
+pop 0
+extrq 3
+extrq 3
+extrq 2
+sorts 0
+prints
+sortq 1
+push 0 66367 (
+push 3 12476 )
+push 3 58676 [
+push 2 87458 [
+push 0 9934 ]
+push 3 33822 (
+push 2 80228 )
+push 0 81921 (
+push 2 28313 )
+printq
+correctq 0
+pop 3
+pop 0
+extrq 2
+extrq 3
+sortq 2
+push 3 18550 (
+push 1 87437 )
+push 2 68277 [
+push 3 81226 [
+push 1 3615 ]
+push 1 89833 (
+push 2 63816 )
+push 2 50532 (
+push 3 35136 )
+printq
+correctq 3
+pop 3
+pop 1
+extrq 0
+extrq 1
+prints
+corrects 2
+push 0 11984 ]
+corrects 2
+prints
+intrq 2 91755 [
+intrq 0 63325 {
+intrq 1 9445 }
+intrq 2 4407 )
+printq
+correctq 0
+extrq 0
+printq
+correctq 2
+push 2 66549 [
+push 2 81887 (
+push 2 39760 )
+push 3 74048 [
+push 0 63574 ]
+prints
+corrects 1
+push 3 61673 ]
+corrects 2
+prints
+intrq 3 90922 [
+intrq 0 95727 {
+intrq 3 63546 }
+intrq 2 11014 )
+printq
+correctq 2
+extrq 3
+printq
+correctq 0
+extrq 3
+sorts 2
+prints
+sortq 3
+push 3 71058 (
+push 2 31673 )
+push 3 69492 [
+push 1 26693 [
+push 0 75616 ]
+push 2 32248 (
+push 3 42631 )
+push 0 17216 (
+push 1 68523 )
+printq
+correctq 3
+pop 1
+pop 3
+extrq 2
+extrq 3
+extrq 1
+sorts 0
+prints
+push 1 87084 [
+push 0 22750 (
+push 0 13496 )
+push 0 70254 [
+push 1 64119 ]
+prints
+corrects 2
+push 2 7165 ]
+corrects 2
+prints
+intrq 3 24259 [
+intrq 2 22594 {
+intrq 2 27118 }
+intrq 2 98163 )
+printq
+correctq 2
+push 1 27736 [
+push 1 24403 (
+push 3 94778 )
+push 0 22720 [
+push 2 37012 ]
+prints
+corrects 0
+push 1 36936 ]
+corrects 0
+prints
+intrq 1 23542 [
+intrq 2 11597 {
+intrq 0 92876 }
+intrq 2 77694 )
+printq
+correctq 3
+extrq 1
+printq
+correctq 1
+extrq 1
+sorts 3
+prints
+sortq 3
+push 0 57130 (
+push 1 52041 )
+push 2 72410 [
+push 1 38425 [
+push 0 88317 ]
+push 1 65403 (
+push 1 87569 )
+push 0 62266 (
+push 2 50197 )
+printq
+correctq 0
+pop 0
+pop 2
+extrq 1
+extrq 0
+extrq 0
+printq
+correctq 3
+extrq 0
+sorts 1
+prints
+push 0 46017 [
+push 0 35312 (
+push 1 5082 )
+push 1 69447 [
+push 0 87536 ]
+push 0 61077 [
+push 0 50561 (
+push 2 52831 )
+push 2 26144 [
+push 3 54508 ]
+prints
+corrects 2
+push 1 56669 ]
+corrects 2
+prints
+intrq 3 38470 [
+intrq 2 29860 {
+intrq 1 67870 }
+intrq 1 81810 )
+printq
+correctq 0
+push 2 17122 [
+push 1 71880 (
+push 3 17092 )
+push 1 52487 [
+push 0 55610 ]
+prints
+corrects 0
+push 1 94185 ]
+corrects 3
+prints
+intrq 0 36681 [
+intrq 3 9352 {
+intrq 3 19456 }
+intrq 1 21937 )
+printq
+correctq 3
+extrq 3
+printq
+correctq 3
+extrq 3
+sorts 1
+prints
+sortq 2
+push 1 84267 (
+push 2 51559 )
+push 1 21123 [
+push 3 82692 [
+push 0 17972 ]
+push 0 50256 (
+push 3 75096 )
+push 2 84120 (
+push 3 67702 )
+printq
+correctq 1
+pop 2
+pop 2
+extrq 0
+extrq 2
+extrq 0
+printq
+correctq 1
+extrq 2
+sorts 3
+prints
+push 0 2977 [
+push 0 84362 (
+push 2 66995 )
+push 0 72001 [
+push 0 95316 ]
+prints
+corrects 1
+push 1 49884 ]
+corrects 1
+prints
+intrq 1 16492 [
+intrq 0 45702 {
+intrq 0 94604 }
+intrq 0 57325 )
+printq
+correctq 3
+extrq 3
+printq
+correctq 1
+push 1 49887 [
+push 2 97871 (
+push 2 8027 )
+push 1 80183 [
+push 1 37643 ]
+prints
+corrects 2
+push 2 9645 ]
+corrects 3
+prints
+intrq 2 21438 [
+intrq 0 28134 {
+intrq 3 67361 }
+intrq 2 3608 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 0
+extrq 2
+sorts 1
+prints
+sortq 2
+push 1 26896 (
+push 3 93135 )
+push 2 23562 [
+push 2 89885 [
+push 3 87125 ]
+push 2 94759 (
+push 3 81560 )
+push 0 98922 (
+push 2 25842 )
+printq
+correctq 2
+pop 0
+pop 1
+extrq 3
+extrq 3
+extrq 1
+sorts 1
+prints
+sortq 0
+push 2 64828 (
+push 1 34596 )
+push 1 67994 [
+push 3 39048 [
+push 1 15057 ]
+push 3 68071 (
+push 2 36078 )
+push 0 36273 (
+push 1 5852 )
+printq
+correctq 1
+pop 1
+pop 2
+extrq 0
+extrq 3
+push 1 14644 [
+push 1 66780 (
+push 3 16894 )
+push 2 84579 [
+push 0 40414 ]
+prints
+corrects 1
+push 0 70123 ]
+corrects 3
+prints
+intrq 0 25524 [
+intrq 0 69589 {
+intrq 3 55576 }
+intrq 0 56917 )
+printq
+correctq 0
+push 1 4107 [
+push 0 61342 (
+push 0 54103 )
+push 2 65840 [
+push 0 86335 ]
+prints
+corrects 1
+push 0 82606 ]
+corrects 3
+prints
+intrq 2 83538 [
+intrq 0 88980 {
+intrq 3 61636 }
+intrq 0 35590 )
+printq
+correctq 0
+extrq 0
+printq
+correctq 2
+extrq 2
+sorts 3
+prints
+sortq 2
+push 2 95088 (
+push 3 99195 )
+push 3 14197 [
+push 0 25578 [
+push 0 69792 ]
+push 2 72223 (
+push 1 37463 )
+push 1 41792 (
+push 1 54719 )
+printq
+correctq 0
+pop 2
+pop 2
+extrq 1
+extrq 2
+extrq 0
+printq
+correctq 1
+extrq 2
+sorts 3
+prints
+push 3 89617 [
+push 1 4061 (
+push 1 5196 )
+push 0 253 [
+push 0 54762 ]
+push 1 18602 [
+push 2 73997 (
+push 1 29225 )
+push 2 20548 [
+push 2 87662 ]
+prints
+corrects 1
+push 2 2463 ]
+corrects 3
+prints
+intrq 0 95252 [
+intrq 1 345 {
+intrq 1 32555 }
+intrq 0 15277 )
+printq
+correctq 0
+push 1 35690 [
+push 2 43914 (
+push 3 56187 )
+push 2 31017 [
+push 0 71892 ]
+prints
+corrects 3
+push 1 54977 ]
+corrects 0
+prints
+intrq 3 75525 [
+intrq 2 84273 {
+intrq 3 21832 }
+intrq 0 96394 )
+printq
+correctq 1
+extrq 0
+printq
+correctq 0
+extrq 2
+sorts 2
+prints
+sortq 3
+push 2 50531 (
+push 0 17383 )
+push 1 20870 [
+push 1 78828 [
+push 1 14587 ]
+push 1 53801 (
+push 0 30568 )
+push 2 41457 (
+push 0 1153 )
+printq
+correctq 3
+pop 3
+pop 2
+extrq 2
+extrq 3
+extrq 3
+printq
+correctq 0
+extrq 0
+sorts 3
+prints
+push 0 32946 [
+push 1 48452 (
+push 0 5344 )
+push 0 28996 [
+push 2 50610 ]
+prints
+corrects 1
+push 2 44019 ]
+corrects 1
+prints
+intrq 0 97820 [
+intrq 1 59864 {
+intrq 2 65522 }
+intrq 1 36219 )
+printq
+correctq 1
+extrq 0
+printq
+correctq 1
+push 3 91251 [
+push 0 7888 (
+push 0 46072 )
+push 0 885 [
+push 0 94815 ]
+prints
+corrects 2
+push 0 40163 ]
+corrects 0
+prints
+intrq 2 63160 [
+intrq 2 19101 {
+intrq 1 46542 }
+intrq 1 24810 )
+printq
+correctq 3
+extrq 3
+printq
+correctq 1
+extrq 0
+sorts 2
+prints
+sortq 2
+push 0 75260 (
+push 2 92939 )
+push 0 9486 [
+push 3 80548 [
+push 2 26398 ]
+push 2 50499 (
+push 1 4016 )
+push 3 77728 (
+push 0 66406 )
+printq
+correctq 0
+pop 2
+pop 3
+extrq 2
+extrq 1
+extrq 1
+sorts 0
+prints
+sortq 0
+push 0 89481 (
+push 0 40735 )
+push 0 53188 [
+push 3 12974 [
+push 3 50471 ]
+push 0 89323 (
+push 0 78226 )
+push 1 28806 (
+push 1 53286 )
+printq
+correctq 2
+pop 1
+pop 2
+extrq 2
+extrq 3
+sortq 2
+push 0 88314 (
+push 0 17405 )
+push 3 45389 [
+push 1 43272 [
+push 2 6321 ]
+push 3 46246 (
+push 1 16354 )
+push 0 21989 (
+push 1 27664 )
+printq
+correctq 1
+pop 3
+pop 1
+extrq 3
+extrq 0
+prints
+corrects 3
+push 1 25033 ]
+corrects 1
+prints
+intrq 3 27840 [
+intrq 3 11320 {
+intrq 3 60292 }
+intrq 1 39602 )
+printq
+correctq 1
+extrq 3
+printq
+correctq 2
+push 3 89868 [
+push 1 19502 (
+push 2 15939 )
+push 2 87719 [
+push 1 93107 ]
+prints
+corrects 3
+push 2 69366 ]
+corrects 0
+prints
+intrq 2 90702 [
+intrq 3 97551 {
+intrq 0 30292 }
+intrq 3 27991 )
+printq
+correctq 3
+extrq 3
+printq
+correctq 3
+extrq 0
+sorts 2
+prints
+sortq 0
+push 3 31264 (
+push 0 35936 )
+push 2 19426 [
+push 2 63141 [
+push 0 5737 ]
+push 2 7607 (
+push 0 91925 )
+push 1 28944 (
+push 3 84028 )
+printq
+correctq 3
+pop 2
+pop 0
+extrq 3
+extrq 1
+extrq 0
+sorts 2
+prints
+sortq 0
+push 0 45414 (
+push 1 33222 )
+push 2 77948 [
+push 2 88358 [
+push 0 28040 ]
+push 0 31902 (
+push 2 22285 )
+push 3 46244 (
+push 3 61717 )
+printq
+correctq 2
+pop 3
+pop 0
+extrq 2
+extrq 2
+sortq 3
+push 2 15689 (
+push 0 64814 )
+push 0 40553 [
+push 2 18234 [
+push 2 99220 ]
+push 0 83086 (
+push 3 95027 )
+push 3 24451 (
+push 3 45225 )
+printq
+correctq 1
+pop 0
+pop 1
+extrq 2
+extrq 1
+sortq 0
+push 3 27263 (
+push 0 38864 )
+push 1 97638 [
+push 3 23279 [
+push 0 47571 ]
+push 1 69796 (
+push 0 70444 )
+push 2 9614 (
+push 0 11050 )
+printq
+correctq 1
+pop 3
+pop 1
+extrq 0
+extrq 3
+prints
+corrects 1
+push 1 22512 ]
+corrects 1
+prints
+intrq 2 24290 [
+intrq 2 41147 {
+intrq 2 30701 }
+intrq 3 26650 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 1
+push 1 46849 [
+push 0 58343 (
+push 1 20485 )
+push 3 21027 [
+push 3 98451 ]
+prints
+corrects 2
+push 0 80879 ]
+corrects 3
+prints
+intrq 0 87758 [
+intrq 0 78186 {
+intrq 2 44550 }
+intrq 0 34561 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 3
+extrq 2
+sorts 2
+prints
+sortq 1
+push 0 71908 (
+push 2 46854 )
+push 1 49794 [
+push 1 68107 [
+push 3 33984 ]
+push 2 33083 (
+push 3 53916 )
+push 3 46018 (
+push 0 99172 )
+printq
+correctq 0
+pop 0
+pop 2
+extrq 3
+extrq 2
+extrq 2
+sorts 0
+prints
+sortq 3
+push 2 50011 (
+push 1 95956 )
+push 0 84216 [
+push 2 30027 [
+push 2 47996 ]
+push 0 3785 (
+push 0 1912 )
+push 3 67711 (
+push 0 79540 )
+printq
+correctq 2
+pop 2
+pop 0
+extrq 2
+extrq 3
+sortq 0
+push 0 7246 (
+push 3 36951 )
+push 2 65666 [
+push 1 68569 [
+push 3 16633 ]
+push 0 91046 (
+push 3 52732 )
+push 0 79183 (
+push 0 30509 )
+printq
+correctq 3
+pop 1
+pop 0
+extrq 2
+extrq 1
+sortq 0
+push 1 86343 (
+push 0 91403 )
+push 2 95997 [
+push 0 56788 [
+push 0 26591 ]
+push 2 48506 (
+push 0 43915 )
+push 1 27941 (
+push 0 27093 )
+printq
+correctq 3
+pop 3
+pop 1
+extrq 3
+extrq 3
+sortq 2
+push 0 1082 (
+push 3 81409 )
+push 1 12684 [
+push 1 2186 [
+push 3 6126 ]
+push 1 64922 (
+push 3 66877 )
+push 2 1315 (
+push 0 97057 )
+printq
+correctq 1
+pop 0
+pop 0
+extrq 2
+extrq 2
+push 1 14007 [
+push 1 9608 (
+push 1 5333 )
+push 3 27023 [
+push 1 14314 ]
+prints
+corrects 2
+push 2 13271 ]
+corrects 2
+prints
+intrq 0 31809 [
+intrq 1 67930 {
+intrq 2 43067 }
+intrq 1 8628 )
+printq
+correctq 2
+push 0 18448 [
+push 3 70245 (
+push 1 19159 )
+push 3 40959 [
+push 0 67876 ]
+prints
+corrects 1
+push 3 73209 ]
+corrects 0
+prints
+intrq 2 20171 [
+intrq 2 58456 {
+intrq 1 20161 }
+intrq 2 43049 )
+printq
+correctq 2
+extrq 0
+printq
+correctq 3
+extrq 1
+sorts 3
+prints
+sortq 0
+push 1 72621 (
+push 0 20797 )
+push 0 4405 [
+push 2 69968 [
+push 0 27489 ]
+push 0 32731 (
+push 2 2697 )
+push 2 84927 (
+push 2 38809 )
+printq
+correctq 2
+pop 0
+pop 1
+extrq 0
+extrq 2
+extrq 0
+printq
+correctq 1
+extrq 0
+sorts 0
+prints
+push 1 721 [
+push 3 86813 (
+push 2 63729 )
+push 2 40220 [
+push 1 25379 ]
+push 2 857 [
+push 0 70592 (
+push 2 36027 )
+push 2 43259 [
+push 1 67237 ]
+prints
+corrects 1
+push 2 88688 ]
+corrects 2
+prints
+intrq 0 91384 [
+intrq 0 86432 {
+intrq 1 19080 }
+intrq 0 10206 )
+printq
+correctq 2
+push 3 13372 [
+push 0 57236 (
+push 2 12148 )
+push 2 76077 [
+push 3 72631 ]
+prints
+corrects 1
+push 3 13193 ]
+corrects 0
+prints
+intrq 1 72805 [
+intrq 2 91742 {
+intrq 2 19836 }
+intrq 2 17444 )
+printq
+correctq 0
+extrq 2
+printq
+correctq 0
+extrq 0
+sorts 0
+prints
+sortq 1
+push 0 68206 (
+push 3 53768 )
+push 2 73039 [
+push 0 32276 [
+push 0 99130 ]
+push 2 56791 (
+push 2 87727 )
+push 2 17659 (
+push 0 39843 )
+printq
+correctq 0
+pop 2
+pop 1
+extrq 3
+extrq 2
+extrq 0
+printq
+correctq 3
+extrq 3
+sorts 2
+prints
+push 0 83171 [
+push 2 95489 (
+push 0 91797 )
+push 0 29904 [
+push 3 85991 ]
+prints
+corrects 0
+push 0 87531 ]
+corrects 3
+prints
+intrq 2 60674 [
+intrq 1 50789 {
+intrq 0 78516 }
+intrq 1 15855 )
+printq
+correctq 1
+extrq 3
+printq
+correctq 1
+push 0 74550 [
+push 1 37199 (
+push 1 74103 )
+push 3 83032 [
+push 2 63220 ]
+prints
+corrects 0
+push 3 76172 ]
+corrects 0
+prints
+intrq 2 46333 [
+intrq 2 66047 {
+intrq 0 80636 }
+intrq 2 79933 )
+printq
+correctq 2
+extrq 2
+printq
+correctq 1
+extrq 3
+sorts 2
+prints
+sortq 2
+push 3 15087 (
+push 2 96913 )
+push 0 98934 [
+push 2 14055 [
+push 1 96158 ]
+push 1 46238 (
+push 3 1240 )
+push 2 60751 (
+push 3 17278 )
+printq
+correctq 0
+pop 1
+pop 2
+extrq 0
+extrq 2
+extrq 0
+sorts 1
+prints
+sortq 0
+push 2 97247 (
+push 3 96780 )
+push 1 66858 [
+push 3 51820 [
+push 3 51819 ]
+push 2 76897 (
+push 3 50123 )
+push 0 77624 (
+push 1 61087 )
+printq
+correctq 1
+pop 0
+pop 2
+extrq 0
+extrq 2
+sortq 3
+push 1 84784 (
+push 3 1435 )
+push 0 93881 [
+push 3 89375 [
+push 0 88731 ]
+push 3 13917 (
+push 1 98023 )
+push 1 52065 (
+push 2 49195 )
+printq
+correctq 2
+pop 1
+pop 3
+extrq 2
+extrq 2
+prints
+corrects 0
+push 1 21263 ]
+corrects 0
+prints
+intrq 0 96939 [
+intrq 3 62923 {
+intrq 0 66103 }
+intrq 2 21140 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 3
+push 3 35719 [
+push 2 85522 (
+push 1 26048 )
+push 1 31726 [
+push 1 82444 ]
+prints
+corrects 2
+push 3 14513 ]
+corrects 1
+prints
+intrq 2 56911 [
+intrq 1 70311 {
+intrq 2 4838 }
+intrq 3 86157 )
+printq
+correctq 2
+extrq 2
+printq
+correctq 0
+extrq 1
+sorts 2
+prints
+sortq 0
+push 0 97685 (
+push 3 98256 )
+push 0 79846 [
+push 1 10544 [
+push 3 95971 ]
+push 1 78539 (
+push 1 44788 )
+push 1 89838 (
+push 2 49964 )
+printq
+correctq 0
+pop 2
+pop 3
+extrq 2
+extrq 1
+extrq 0
+sorts 3
+prints
+push 0 30774 [
+push 3 95445 (
+push 0 69380 )
+push 1 77122 [
+push 3 39885 ]
+prints
+corrects 2
+push 1 4130 ]
+corrects 2
+prints
+intrq 1 77171 [
+intrq 0 9699 {
+intrq 3 11237 }
+intrq 2 57602 )
+printq
+correctq 2
+push 2 79908 [
+push 1 66712 (
+push 1 58001 )
+push 3 84025 [
+push 0 96002 ]
+prints
+corrects 2
+push 0 65382 ]
+corrects 0
+prints
+intrq 2 29086 [
+intrq 1 23304 {
+intrq 3 81468 }
+intrq 2 12280 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 1
+extrq 1
+sorts 1
+prints
+sortq 2
+push 3 1255 (
+push 0 70569 )
+push 3 74005 [
+push 1 87688 [
+push 3 42508 ]
+push 2 69839 (
+push 3 51184 )
+push 3 20245 (
+push 0 16090 )
+printq
+correctq 3
+pop 2
+pop 2
+extrq 3
+extrq 2
+extrq 1
+printq
+correctq 3
+extrq 0
+sorts 2
+prints
+push 0 18393 [
+push 3 71823 (
+push 1 1462 )
+push 3 45178 [
+push 1 14141 ]
+push 0 86666 [
+push 0 58380 (
+push 3 96183 )
+push 0 3094 [
+push 1 30905 ]
+prints
+corrects 0
+push 0 96879 ]
+corrects 3
+prints
+intrq 3 77025 [
+intrq 0 52791 {
+intrq 1 99050 }
+intrq 3 99258 )
+printq
+correctq 2
+push 3 17072 [
+push 2 93274 (
+push 2 76307 )
+push 2 19068 [
+push 3 49758 ]
+prints
+corrects 0
+push 2 62294 ]
+corrects 0
+prints
+intrq 0 11427 [
+intrq 1 42481 {
+intrq 3 63852 }
+intrq 0 95731 )
+printq
+correctq 1
+extrq 0
+printq
+correctq 2
+extrq 2
+sorts 2
+prints
+sortq 1
+push 1 7272 (
+push 0 66608 )
+push 1 48334 [
+push 2 56747 [
+push 1 84672 ]
+push 3 96152 (
+push 3 13077 )
+push 3 23298 (
+push 0 72657 )
+printq
+correctq 3
+pop 3
+pop 1
+extrq 3
+extrq 2
+extrq 3
+printq
+correctq 3
+extrq 0
+sorts 1
+prints
+push 2 59138 [
+push 2 40146 (
+push 2 56591 )
+push 3 93640 [
+push 1 37590 ]
+prints
+corrects 1
+push 2 13405 ]
+corrects 1
+prints
+intrq 1 99372 [
+intrq 3 97710 {
+intrq 0 3141 }
+intrq 2 10417 )
+printq
+correctq 1
+extrq 1
+printq
+correctq 2
+push 0 68496 [
+push 1 58732 (
+push 0 61191 )
+push 2 71690 [
+push 1 31752 ]
+prints
+corrects 0
+push 0 12596 ]
+corrects 0
+prints
+intrq 2 50186 [
+intrq 1 7144 {
+intrq 0 92406 }
+intrq 1 95668 )
+printq
+correctq 1
+extrq 3
+printq
+correctq 0
+extrq 3
+sorts 1
+prints
+sortq 1
+push 0 50070 (
+push 0 43592 )
+push 2 45901 [
+push 0 47471 [
+push 0 93930 ]
+push 1 74618 (
+push 3 36158 )
+push 2 54631 (
+push 2 72028 )
+printq
+correctq 1
+pop 0
+pop 0
+extrq 1
+extrq 2
+extrq 1
+sorts 2
+prints
+sortq 0
+push 0 46562 (
+push 3 70249 )
+push 0 23591 [
+push 0 46588 [
+push 3 87942 ]
+push 1 69508 (
+push 1 15934 )
+push 2 70927 (
+push 0 5473 )
+printq
+correctq 1
+pop 2
+pop 0
+extrq 3
+extrq 3
+push 2 11351 [
+push 3 98739 (
+push 2 76845 )
+push 1 50654 [
+push 1 58436 ]
+prints
+corrects 1
+push 3 65196 ]
+corrects 0
+prints
+intrq 3 28136 [
+intrq 3 30257 {
+intrq 1 24807 }
+intrq 3 52911 )
+printq
+correctq 2
+push 2 59815 [
+push 3 92739 (
+push 2 79322 )
+push 1 84154 [
+push 2 49016 ]
+prints
+corrects 1
+push 0 25861 ]
+corrects 3
+prints
+intrq 2 44903 [
+intrq 3 50731 {
+intrq 2 34751 }
+intrq 3 76509 )
+printq
+correctq 3
+extrq 2
+printq
+correctq 2
+extrq 0
+sorts 2
+prints
+sortq 1
+push 0 56256 (
+push 3 61647 )
+push 3 67182 [
+push 1 69207 [
+push 1 19278 ]
+push 1 69883 (
+push 3 36255 )
+push 3 10508 (
+push 2 7993 )
+printq
+correctq 3
+pop 1
+pop 0
+extrq 1
+extrq 0
+extrq 3
+printq
+correctq 2
+extrq 3
+sorts 1
+prints
+push 1 63487 [
+push 3 94374 (
+push 3 48687 )
+push 2 26967 [
+push 3 52352 ]
+push 0 574 [
+push 1 6051 (
+push 0 85092 )
+push 2 22895 [
+push 3 1206 ]
+prints
+corrects 1
+push 0 56618 ]
+corrects 2
+prints
+intrq 0 62575 [
+intrq 2 52927 {
+intrq 2 2501 }
+intrq 1 50627 )
+printq
+correctq 0
+push 0 47660 [
+push 0 46523 (
+push 3 82539 )
+push 0 77751 [
+push 1 14085 ]
+prints
+corrects 2
+push 1 15530 ]
+corrects 0
+prints
+intrq 0 38761 [
+intrq 3 79269 {
+intrq 2 65029 }
+intrq 3 8990 )
+printq
+correctq 0
+extrq 1
+printq
+correctq 2
+extrq 2
+sorts 2
+prints
+sortq 3
+push 1 22891 (
+push 3 86903 )
+push 3 80206 [
+push 2 40870 [
+push 2 55633 ]
+push 0 9520 (
+push 0 42793 )
+push 2 62992 (
+push 2 80163 )
+printq
+correctq 3
+pop 3
+pop 1
+extrq 0
+extrq 3
+extrq 0
+printq
+correctq 1
+extrq 0
+sorts 2
+prints
+push 3 25187 [
+push 1 58069 (
+push 2 32892 )
+push 0 51333 [
+push 0 88310 ]
+prints
+corrects 3
+push 2 83745 ]
+corrects 0
+prints
+intrq 2 9617 [
+intrq 0 47928 {
+intrq 3 36333 }
+intrq 2 47534 )
+printq
+correctq 0
+extrq 1
+printq
+correctq 0
+push 1 26428 [
+push 0 40910 (
+push 1 92346 )
+push 1 52604 [
+push 3 1070 ]
+prints
+corrects 2
+push 3 9174 ]
+corrects 3
+prints
+intrq 3 97485 [
+intrq 2 6994 {
+intrq 2 31486 }
+intrq 0 7199 )
+printq
+correctq 3
+extrq 0
+printq
+correctq 2
+extrq 0
+sorts 2
+prints
+sortq 0
+push 0 55972 (
+push 0 25769 )
+push 0 91076 [
+push 3 9817 [
+push 2 26033 ]
+push 1 34205 (
+push 3 95807 )
+push 1 52630 (
+push 2 92780 )
+printq
+correctq 3
+pop 0
+pop 2
+extrq 1
+extrq 3
+extrq 3
+sorts 0
+prints
+sortq 2
+push 3 45818 (
+push 2 31738 )
+push 2 18942 [
+push 2 36767 [
+push 0 2814 ]
+push 3 44095 (
+push 0 11266 )
+push 0 7757 (
+push 3 29936 )
+printq
+correctq 1
+pop 0
+pop 2
+extrq 3
+extrq 1
+sortq 1
+push 0 88611 (
+push 2 69907 )
+push 2 33386 [
+push 1 56122 [
+push 0 87079 ]
+push 0 79830 (
+push 1 8274 )
+push 1 83437 (
+push 0 60793 )
+printq
+correctq 1
+pop 0
+pop 3
+extrq 1
+extrq 2
+prints
+corrects 2
+push 1 84099 ]
+corrects 3
+prints
+intrq 3 84542 [
+intrq 0 57308 {
+intrq 2 23739 }
+intrq 2 82057 )
+printq
+correctq 2
+extrq 0
+printq
+correctq 2
+push 0 81092 [
+push 1 940 (
+push 3 41247 )
+push 2 10224 [
+push 0 53006 ]
+prints
+corrects 1
+push 1 9431 ]
+corrects 0
+prints
+intrq 3 89965 [
+intrq 3 8292 {
+intrq 0 5010 }
+intrq 0 58606 )
+printq
+correctq 2
+extrq 0
+printq
+correctq 1
+extrq 1
+sorts 3
+prints
+sortq 2
+push 3 78859 (
+push 1 33915 )
+push 0 36186 [
+push 3 37227 [
+push 1 76773 ]
+push 3 34822 (
+push 0 34821 )
+push 3 55563 (
+push 1 67734 )
+printq
+correctq 0
+pop 0
+pop 3
+extrq 0
+extrq 2
+extrq 3
+sorts 2
+prints
+sortq 0
+push 3 81659 (
+push 2 92498 )
+push 2 80941 [
+push 2 51787 [
+push 1 64014 ]
+push 1 66064 (
+push 1 98111 )
+push 2 65044 (
+push 1 72618 )
+printq
+correctq 1
+pop 0
+pop 1
+extrq 3
+extrq 3
+sortq 1
+push 3 45494 (
+push 1 35878 )
+push 1 36907 [
+push 2 37264 [
+push 3 75860 ]
+push 3 85745 (
+push 2 50177 )
+push 0 88011 (
+push 3 58209 )
+printq
+correctq 3
+pop 0
+pop 0
+extrq 1
+extrq 0
+sortq 1
+push 3 13046 (
+push 2 46768 )
+push 1 44101 [
+push 1 1412 [
+push 3 79186 ]
+push 2 44036 (
+push 2 69397 )
+push 0 51013 (
+push 1 43767 )
+printq
+correctq 2
+pop 3
+pop 0
+extrq 2
+extrq 2
+prints
+corrects 3
+push 3 60498 ]
+corrects 3
+prints
+intrq 0 90115 [
+intrq 0 59833 {
+intrq 3 50819 }
+intrq 3 38715 )
+printq
+correctq 0
+extrq 1
+printq
+correctq 3
+push 3 71487 [
+push 2 61255 (
+push 1 79519 )
+push 0 54946 [
+push 0 2675 ]
+prints
+corrects 0
+push 0 12972 ]
+corrects 2
+prints
+intrq 2 37459 [
+intrq 2 26460 {
+intrq 3 18130 }
+intrq 0 46831 )
+printq
+correctq 3
+extrq 3
+printq
+correctq 1
+extrq 3
+sorts 2
+prints
+sortq 0
+push 3 56699 (
+push 3 73627 )
+push 3 50997 [
+push 2 32120 [
+push 0 93790 ]
+push 3 87997 (
+push 2 95123 )
+push 1 25790 (
+push 2 97147 )
+printq
+correctq 1
+pop 0
+pop 0
+extrq 0
+extrq 2
+extrq 0
+sorts 3
+prints
+sortq 1
+push 3 82196 (
+push 0 62565 )
+push 0 37120 [
+push 1 23820 [
+push 3 47452 ]
+push 1 61981 (
+push 0 38038 )
+push 0 99343 (
+push 3 84942 )
+printq
+correctq 3
+pop 0
+pop 0
+extrq 1
+extrq 3
+sortq 1
+push 1 10679 (
+push 2 52683 )
+push 3 16533 [
+push 0 81734 [
+push 2 52621 ]
+push 0 65322 (
+push 1 63565 )
+push 2 16840 (
+push 1 96664 )
+printq
+correctq 1
+pop 1
+pop 2
+extrq 1
+extrq 1
+sortq 1
+push 3 49808 (
+push 1 95675 )
+push 1 21380 [
+push 1 14926 [
+push 0 82379 ]
+push 1 31979 (
+push 0 55869 )
+push 2 13994 (
+push 2 74366 )
+printq
+correctq 1
+pop 3
+pop 3
+extrq 3
+extrq 3
+sortq 0
+push 3 42949 (
+push 1 48881 )
+push 2 60286 [
+push 2 95190 [
+push 2 60279 ]
+push 1 81660 (
+push 2 12173 )
+push 0 91957 (
+push 2 62051 )
+printq
+correctq 2
+pop 0
+pop 1
+extrq 0
+extrq 2
+push 3 33237 [
+push 2 20766 (
+push 1 39205 )
+push 2 40068 [
+push 2 25105 ]
+prints
+corrects 2
+push 0 20295 ]
+corrects 1
+prints
+intrq 0 27512 [
+intrq 0 81724 {
+intrq 3 52574 }
+intrq 0 45400 )
+printq
+correctq 0
+push 3 68974 [
+push 0 65965 (
+push 3 77559 )
+push 0 56132 [
+push 1 69567 ]
+prints
+corrects 1
+push 2 88337 ]
+corrects 2
+prints
+intrq 1 44757 [
+intrq 0 64510 {
+intrq 0 41768 }
+intrq 1 4617 )
+printq
+correctq 0
+extrq 1
+printq
+correctq 1
+extrq 0
+sorts 0
+prints
+sortq 3
+push 0 27513 (
+push 0 58256 )
+push 3 79716 [
+push 1 3030 [
+push 3 73021 ]
+push 3 75320 (
+push 0 98752 )
+push 3 47278 (
+push 2 55624 )
+printq
+correctq 3
+pop 2
+pop 2
+extrq 3
+extrq 3
+extrq 3
+printq
+correctq 0
+extrq 3
+sorts 0
+prints
+push 2 61472 [
+push 1 33429 (
+push 0 92290 )
+push 1 4136 [
+push 1 8502 ]
+push 1 8160 [
+push 1 17731 (
+push 3 73802 )
+push 3 82427 [
+push 1 23949 ]
+prints
+corrects 2
+push 1 15985 ]
+corrects 0
+prints
+intrq 3 85836 [
+intrq 3 36126 {
+intrq 1 59551 }
+intrq 2 79791 )
+printq
+correctq 3
+push 3 13220 [
+push 3 92209 (
+push 2 87392 )
+push 3 50508 [
+push 1 5499 ]
+prints
+corrects 1
+push 0 89174 ]
+corrects 3
+prints
+intrq 0 87953 [
+intrq 0 66805 {
+intrq 3 91161 }
+intrq 2 64616 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 3
+extrq 2
+sorts 0
+prints
+sortq 2
+push 1 41427 (
+push 1 77184 )
+push 3 15489 [
+push 2 29357 [
+push 1 83085 ]
+push 1 88584 (
+push 3 1167 )
+push 2 67998 (
+push 3 98415 )
+printq
+correctq 3
+pop 0
+pop 3
+extrq 0
+extrq 3
+extrq 3
+printq
+correctq 1
+extrq 2
+sorts 2
+prints
+push 3 5642 [
+push 1 46412 (
+push 1 99086 )
+push 1 50772 [
+push 3 25695 ]
+prints
+corrects 2
+push 0 8780 ]
+corrects 3
+prints
+intrq 3 13716 [
+intrq 2 86310 {
+intrq 2 5905 }
+intrq 1 22593 )
+printq
+correctq 0
+extrq 1
+printq
+correctq 0
+push 0 80407 [
+push 1 76898 (
+push 2 20269 )
+push 0 35607 [
+push 1 78665 ]
+prints
+corrects 1
+push 2 29438 ]
+corrects 1
+prints
+intrq 1 25920 [
+intrq 1 57457 {
+intrq 3 17276 }
+intrq 1 40174 )
+printq
+correctq 2
+extrq 3
+printq
+correctq 3
+extrq 3
+sorts 1
+prints
+sortq 3
+push 1 78017 (
+push 3 89733 )
+push 1 89773 [
+push 0 27179 [
+push 2 81876 ]
+push 2 76723 (
+push 2 30183 )
+push 2 6332 (
+push 0 32031 )
+printq
+correctq 0
+pop 2
+pop 1
+extrq 3
+extrq 2
+extrq 2
+sorts 1
+prints
+sortq 1
+push 2 2532 (
+push 0 55719 )
+push 3 37673 [
+push 0 39387 [
+push 3 24865 ]
+push 0 10391 (
+push 0 55554 )
+push 3 32277 (
+push 1 77718 )
+printq
+correctq 3
+pop 1
+pop 2
+extrq 3
+extrq 1
+sortq 0
+push 0 24025 (
+push 3 79574 )
+push 2 58996 [
+push 0 66659 [
+push 0 73067 ]
+push 2 93854 (
+push 0 6781 )
+push 1 48021 (
+push 1 48004 )
+printq
+correctq 2
+pop 3
+pop 3
+extrq 0
+extrq 1
+prints
+corrects 1
+push 2 4812 ]
+corrects 2
+prints
+intrq 1 85179 [
+intrq 0 63821 {
+intrq 3 98457 }
+intrq 0 83666 )
+printq
+correctq 3
+extrq 0
+printq
+correctq 2
+push 2 57730 [
+push 1 50343 (
+push 2 19770 )
+push 0 45259 [
+push 0 52312 ]
+prints
+corrects 1
+push 3 8935 ]
+corrects 2
+prints
+intrq 0 51072 [
+intrq 0 41201 {
+intrq 3 80605 }
+intrq 0 59487 )
+printq
+correctq 3
+extrq 0
+printq
+correctq 0
+extrq 3
+sorts 2
+prints
+sortq 3
+push 0 15152 (
+push 2 58889 )
+push 2 79111 [
+push 0 70120 [
+push 1 13540 ]
+push 0 87297 (
+push 0 93409 )
+push 1 91139 (
+push 3 42212 )
+printq
+correctq 0
+pop 2
+pop 3
+extrq 1
+extrq 3
+extrq 2
+sorts 0
+prints
+push 3 61050 [
+push 0 13901 (
+push 1 64920 )
+push 1 96755 [
+push 1 18288 ]
+prints
+corrects 2
+push 1 4760 ]
+corrects 0
+prints
+intrq 1 36492 [
+intrq 1 61489 {
+intrq 2 94662 }
+intrq 0 81645 )
+printq
+correctq 0
+push 0 17041 [
+push 2 22107 (
+push 3 45053 )
+push 1 26175 [
+push 0 2615 ]
+prints
+corrects 3
+push 1 16897 ]
+corrects 3
+prints
+intrq 3 13652 [
+intrq 0 22411 {
+intrq 3 75873 }
+intrq 3 13323 )
+printq
+correctq 2
+extrq 0
+printq
+correctq 0
+extrq 3
+sorts 2
+prints
+sortq 3
+push 0 7915 (
+push 3 96820 )
+push 1 58517 [
+push 0 7056 [
+push 3 49583 ]
+push 3 79461 (
+push 3 90753 )
+push 2 40950 (
+push 0 10010 )
+printq
+correctq 3
+pop 3
+pop 1
+extrq 0
+extrq 2
+extrq 0
+printq
+correctq 3
+extrq 2
+sorts 1
+prints
+push 2 83448 [
+push 0 98850 (
+push 0 12023 )
+push 1 46692 [
+push 3 56081 ]
+push 3 40500 [
+push 0 31355 (
+push 1 76647 )
+push 0 49023 [
+push 2 33336 ]
+prints
+corrects 2
+push 1 66975 ]
+corrects 3
+prints
+intrq 1 27785 [
+intrq 0 24908 {
+intrq 0 72213 }
+intrq 3 84764 )
+printq
+correctq 1
+push 1 92480 [
+push 0 49004 (
+push 1 45204 )
+push 3 13938 [
+push 0 69512 ]
+prints
+corrects 3
+push 3 22177 ]
+corrects 2
+prints
+intrq 3 71201 [
+intrq 0 31323 {
+intrq 3 98298 }
+intrq 2 58027 )
+printq
+correctq 3
+extrq 2
+printq
+correctq 3
+extrq 3
+sorts 3
+prints
+sortq 2
+push 0 22636 (
+push 0 20996 )
+push 0 56108 [
+push 2 50001 [
+push 0 92792 ]
+push 1 70984 (
+push 3 37700 )
+push 1 57702 (
+push 3 64362 )
+printq
+correctq 2
+pop 2
+pop 1
+extrq 0
+extrq 0
+extrq 0
+printq
+correctq 3
+extrq 3
+sorts 2
+prints
+push 2 84199 [
+push 2 45033 (
+push 3 56530 )
+push 1 50063 [
+push 3 91893 ]
+prints
+corrects 1
+push 0 77013 ]
+corrects 2
+prints
+intrq 1 47997 [
+intrq 1 92609 {
+intrq 3 73567 }
+intrq 0 21873 )
+printq
+correctq 2
+extrq 2
+printq
+correctq 3
+push 2 42374 [
+push 3 3745 (
+push 1 68629 )
+push 3 83372 [
+push 3 40040 ]
+prints
+corrects 3
+push 2 92177 ]
+corrects 3
+prints
+intrq 1 84071 [
+intrq 0 13469 {
+intrq 0 78538 }
+intrq 2 41786 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 1
+extrq 3
+sorts 3
+prints
+sortq 2
+push 1 49997 (
+push 1 90267 )
+push 3 33732 [
+push 0 91544 [
+push 2 21724 ]
+push 1 37589 (
+push 0 12995 )
+push 2 98915 (
+push 0 54365 )
+printq
+correctq 0
+pop 1
+pop 1
+extrq 2
+extrq 3
+extrq 3
+sorts 2
+prints
+sortq 2
+push 0 96658 (
+push 1 26759 )
+push 3 29954 [
+push 0 81775 [
+push 1 79893 ]
+push 3 30222 (
+push 3 30215 )
+push 3 36196 (
+push 0 41551 )
+printq
+correctq 0
+pop 2
+pop 3
+extrq 0
+extrq 3
+push 3 92934 [
+push 0 46845 (
+push 1 38380 )
+push 0 64240 [
+push 0 72190 ]
+prints
+corrects 1
+push 3 63697 ]
+corrects 0
+prints
+intrq 0 45472 [
+intrq 1 80429 {
+intrq 0 92107 }
+intrq 0 84179 )
+printq
+correctq 2
+push 0 92511 [
+push 2 80776 (
+push 1 44673 )
+push 1 87776 [
+push 0 54391 ]
+prints
+corrects 1
+push 1 44308 ]
+corrects 1
+prints
+intrq 1 8548 [
+intrq 1 68155 {
+intrq 2 38349 }
+intrq 1 55237 )
+printq
+correctq 1
+extrq 3
+printq
+correctq 2
+extrq 1
+sorts 3
+prints
+sortq 2
+push 1 27193 (
+push 2 73388 )
+push 3 59767 [
+push 2 59720 [
+push 0 48654 ]
+push 0 75615 (
+push 3 37390 )
+push 3 57580 (
+push 3 44824 )
+printq
+correctq 2
+pop 3
+pop 2
+extrq 3
+extrq 0
+extrq 0
+printq
+correctq 0
+extrq 1
+sorts 3
+prints
+push 2 40091 [
+push 2 50916 (
+push 0 35800 )
+push 2 10708 [
+push 3 6025 ]
+push 2 26920 [
+push 1 36593 (
+push 0 19216 )
+push 0 13970 [
+push 0 28101 ]
+prints
+corrects 2
+push 0 53303 ]
+corrects 1
+prints
+intrq 2 33206 [
+intrq 1 53170 {
+intrq 2 7354 }
+intrq 1 88208 )
+printq
+correctq 1
+push 0 39124 [
+push 1 8940 (
+push 2 11826 )
+push 3 75056 [
+push 0 19411 ]
+prints
+corrects 1
+push 1 95992 ]
+corrects 2
+prints
+intrq 2 9962 [
+intrq 2 34979 {
+intrq 0 59090 }
+intrq 2 38829 )
+printq
+correctq 0
+extrq 0
+printq
+correctq 2
+extrq 2
+sorts 2
+prints
+sortq 1
+push 3 27098 (
+push 2 96875 )
+push 2 42356 [
+push 3 35252 [
+push 2 14659 ]
+push 0 53946 (
+push 2 61670 )
+push 0 46414 (
+push 0 80830 )
+printq
+correctq 1
+pop 2
+pop 1
+extrq 1
+extrq 0
+extrq 3
+printq
+correctq 3
+extrq 0
+sorts 3
+prints
+push 1 98994 [
+push 1 49078 (
+push 1 56975 )
+push 1 35957 [
+push 1 49025 ]
+prints
+corrects 0
+push 1 3207 ]
+corrects 3
+prints
+intrq 2 73505 [
+intrq 2 63132 {
+intrq 1 85972 }
+intrq 0 60991 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 0
+push 3 54754 [
+push 3 6622 (
+push 2 20934 )
+push 3 77188 [
+push 3 27338 ]
+prints
+corrects 1
+push 2 50359 ]
+corrects 2
+prints
+intrq 3 99384 [
+intrq 3 22137 {
+intrq 3 99486 }
+intrq 3 92448 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 2
+extrq 1
+sorts 3
+prints
+sortq 1
+push 2 52161 (
+push 2 5141 )
+push 3 73053 [
+push 3 1461 [
+push 0 90023 ]
+push 1 61151 (
+push 1 94918 )
+push 2 84072 (
+push 1 99808 )
+printq
+correctq 0
+pop 2
+pop 3
+extrq 2
+extrq 1
+extrq 3
+sorts 3
+prints
+sortq 0
+push 1 86452 (
+push 3 17411 )
+push 2 30180 [
+push 1 91664 [
+push 3 33570 ]
+push 3 54908 (
+push 2 9802 )
+push 1 5062 (
+push 3 61180 )
+printq
+correctq 0
+pop 3
+pop 1
+extrq 1
+extrq 3
+sortq 1
+push 0 78850 (
+push 3 86917 )
+push 2 98702 [
+push 2 22915 [
+push 2 28141 ]
+push 2 71677 (
+push 2 17195 )
+push 1 28121 (
+push 2 83120 )
+printq
+correctq 2
+pop 0
+pop 3
+extrq 3
+extrq 2
+prints
+corrects 2
+push 3 39146 ]
+corrects 2
+prints
+intrq 0 11180 [
+intrq 1 99081 {
+intrq 0 68384 }
+intrq 1 57597 )
+printq
+correctq 2
+extrq 3
+printq
+correctq 3
+push 1 52910 [
+push 1 70732 (
+push 3 26887 )
+push 3 87928 [
+push 0 38693 ]
+prints
+corrects 0
+push 2 49722 ]
+corrects 3
+prints
+intrq 2 65812 [
+intrq 2 79561 {
+intrq 3 62548 }
+intrq 2 16139 )
+printq
+correctq 1
+extrq 3
+printq
+correctq 3
+extrq 1
+sorts 0
+prints
+sortq 0
+push 3 83304 (
+push 0 25657 )
+push 2 53405 [
+push 1 60801 [
+push 0 668 ]
+push 1 51652 (
+push 2 52481 )
+push 3 5436 (
+push 1 91485 )
+printq
+correctq 0
+pop 3
+pop 2
+extrq 3
+extrq 3
+extrq 0
+sorts 2
+prints
+sortq 0
+push 0 28221 (
+push 2 13208 )
+push 2 12617 [
+push 0 22886 [
+push 2 76291 ]
+push 3 9879 (
+push 3 68036 )
+push 0 40939 (
+push 2 43794 )
+printq
+correctq 2
+pop 2
+pop 3
+extrq 3
+extrq 2
+sortq 2
+push 2 42050 (
+push 1 93382 )
+push 0 16941 [
+push 2 28026 [
+push 3 4251 ]
+push 0 46925 (
+push 3 72606 )
+push 3 66194 (
+push 1 52567 )
+printq
+correctq 1
+pop 0
+pop 3
+extrq 2
+extrq 3
+sortq 1
+push 0 91514 (
+push 3 20483 )
+push 1 55733 [
+push 1 37607 [
+push 3 32098 ]
+push 2 97588 (
+push 3 25614 )
+push 3 42635 (
+push 2 46624 )
+printq
+correctq 3
+pop 0
+pop 3
+extrq 1
+extrq 1
+prints
+corrects 2
+push 2 67725 ]
+corrects 1
+prints
+intrq 0 63200 [
+intrq 2 62344 {
+intrq 2 4645 }
+intrq 3 50104 )
+printq
+correctq 3
+extrq 0
+printq
+correctq 3
+push 2 43334 [
+push 1 88454 (
+push 2 73438 )
+push 0 24777 [
+push 1 22106 ]
+prints
+corrects 1
+push 0 2750 ]
+corrects 0
+prints
+intrq 1 32291 [
+intrq 3 18252 {
+intrq 0 90720 }
+intrq 0 79569 )
+printq
+correctq 3
+extrq 1
+printq
+correctq 3
+extrq 0
+sorts 0
+prints
+sortq 3
+push 3 42177 (
+push 3 1863 )
+push 0 82524 [
+push 1 45998 [
+push 1 51718 ]
+push 0 67755 (
+push 3 86952 )
+push 2 75400 (
+push 2 19149 )
+printq
+correctq 3
+pop 2
+pop 2
+extrq 3
+extrq 2
+extrq 3
+sorts 2
+prints
+sortq 3
+push 2 51091 (
+push 0 15518 )
+push 2 79381 [
+push 1 48364 [
+push 0 9233 ]
+push 1 8186 (
+push 0 76538 )
+push 0 50008 (
+push 1 15728 )
+printq
+correctq 0
+pop 3
+pop 0
+extrq 2
+extrq 1
+sortq 3
+push 0 85819 (
+push 2 54327 )
+push 2 28721 [
+push 2 32036 [
+push 0 48738 ]
+push 2 66810 (
+push 3 579 )
+push 3 25716 (
+push 1 62416 )
+printq
+correctq 2
+pop 1
+pop 2
+extrq 2
+extrq 1
+sortq 3
+push 2 1069 (
+push 3 66070 )
+push 0 81052 [
+push 1 37392 [
+push 3 22428 ]
+push 3 16833 (
+push 1 19606 )
+push 1 80017 (
+push 0 46827 )
+printq
+correctq 0
+pop 3
+pop 2
+extrq 0
+extrq 0
+sortq 2
+push 2 53621 (
+push 0 48000 )
+push 2 12028 [
+push 3 18800 [
+push 3 89013 ]
+push 0 40183 (
+push 3 97408 )
+push 2 46119 (
+push 0 72943 )
+printq
+correctq 0
+pop 2
+pop 0
+extrq 1
+extrq 2
+push 0 56816 [
+push 2 97000 (
+push 3 26538 )
+push 0 92293 [
+push 0 39198 ]
+prints
+corrects 2
+push 1 40576 ]
+corrects 2
+prints
+intrq 0 75728 [
+intrq 1 24337 {
+intrq 0 16064 }
+intrq 0 33153 )
+printq
+correctq 2
+push 3 22281 [
+push 1 40471 (
+push 3 83281 )
+push 0 73501 [
+push 2 7277 ]
+prints
+corrects 0
+push 2 58800 ]
+corrects 2
+prints
+intrq 2 67445 [
+intrq 3 88700 {
+intrq 3 15752 }
+intrq 1 5269 )
+printq
+correctq 0
+extrq 1
+printq
+correctq 2
+extrq 1
+sorts 2
+prints
+sortq 2
+push 2 90255 (
+push 0 50293 )
+push 0 47209 [
+push 1 92607 [
+push 3 57577 ]
+push 0 97417 (
+push 2 27616 )
+push 3 40006 (
+push 3 10845 )
+printq
+correctq 0
+pop 2
+pop 2
+extrq 3
+extrq 2
+extrq 3
+printq
+correctq 1
+extrq 2
+sorts 0
+prints
+push 3 10331 [
+push 2 45014 (
+push 1 63458 )
+push 3 91833 [
+push 0 23888 ]
+push 0 41159 [
+push 1 83253 (
+push 0 62672 )
+push 1 16271 [
+push 2 26532 ]
+prints
+corrects 0
+push 2 61918 ]
+corrects 2
+prints
+intrq 2 29408 [
+intrq 1 89103 {
+intrq 2 20130 }
+intrq 2 58306 )
+printq
+correctq 0
+push 0 24783 [
+push 2 45375 (
+push 2 47599 )
+push 3 65442 [
+push 0 13554 ]
+prints
+corrects 0
+push 1 68482 ]
+corrects 0
+prints
+intrq 2 1105 [
+intrq 2 18103 {
+intrq 1 87797 }
+intrq 1 20292 )
+printq
+correctq 3
+extrq 2
+printq
+correctq 1
+extrq 2
+sorts 0
+prints
+sortq 3
+push 0 32062 (
+push 0 67229 )
+push 2 9902 [
+push 0 14752 [
+push 1 84999 ]
+push 3 22245 (
+push 1 59807 )
+push 2 83387 (
+push 3 78165 )
+printq
+correctq 0
+pop 1
+pop 0
+extrq 1
+extrq 2
+extrq 1
+printq
+correctq 1
+extrq 1
+sorts 3
+prints
+push 3 75271 [
+push 0 17266 (
+push 0 40594 )
+push 2 44165 [
+push 0 97656 ]
+prints
+corrects 1
+push 1 71510 ]
+corrects 0
+prints
+intrq 0 10107 [
+intrq 1 1251 {
+intrq 2 5468 }
+intrq 2 91219 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 3
+push 1 17950 [
+push 0 33791 (
+push 3 73390 )
+push 3 7084 [
+push 0 13371 ]
+prints
+corrects 2
+push 3 73888 ]
+corrects 3
+prints
+intrq 3 63361 [
+intrq 0 80281 {
+intrq 1 31460 }
+intrq 1 76266 )
+printq
+correctq 3
+extrq 3
+printq
+correctq 2
+extrq 1
+sorts 2
+prints
+sortq 2
+push 0 98501 (
+push 3 20750 )
+push 1 89918 [
+push 2 9885 [
+push 0 18349 ]
+push 1 70317 (
+push 0 81000 )
+push 0 21960 (
+push 3 57499 )
+printq
+correctq 1
+pop 3
+pop 1
+extrq 2
+extrq 3
+extrq 2
+sorts 0
+prints
+sortq 2
+push 1 13858 (
+push 3 75331 )
+push 0 51863 [
+push 0 58031 [
+push 2 85165 ]
+push 2 70880 (
+push 3 11258 )
+push 1 44724 (
+push 3 20949 )
+printq
+correctq 0
+pop 3
+pop 1
+extrq 3
+extrq 3
+sortq 2
+push 2 58288 (
+push 0 13685 )
+push 2 48916 [
+push 3 99831 [
+push 2 92110 ]
+push 2 81030 (
+push 2 81698 )
+push 1 49292 (
+push 3 87011 )
+printq
+correctq 0
+pop 2
+pop 2
+extrq 1
+extrq 3
+prints
+corrects 1
+push 2 81419 ]
+corrects 1
+prints
+intrq 3 65967 [
+intrq 0 66897 {
+intrq 1 70704 }
+intrq 1 29391 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 2
+push 1 11731 [
+push 1 97563 (
+push 1 24875 )
+push 1 64526 [
+push 3 67890 ]
+prints
+corrects 3
+push 3 82512 ]
+corrects 0
+prints
+intrq 2 11413 [
+intrq 2 43265 {
+intrq 2 89109 }
+intrq 0 83034 )
+printq
+correctq 2
+extrq 2
+printq
+correctq 2
+extrq 3
+sorts 1
+prints
+sortq 0
+push 0 43119 (
+push 1 16735 )
+push 0 63568 [
+push 0 48895 [
+push 1 6726 ]
+push 2 70714 (
+push 0 33753 )
+push 1 73480 (
+push 1 38711 )
+printq
+correctq 2
+pop 3
+pop 0
+extrq 0
+extrq 0
+extrq 1
+sorts 3
+prints
+push 2 48851 [
+push 1 54505 (
+push 0 1298 )
+push 1 79003 [
+push 3 76244 ]
+prints
+corrects 0
+push 0 34796 ]
+corrects 3
+prints
+intrq 1 57875 [
+intrq 2 9823 {
+intrq 3 41439 }
+intrq 0 38676 )
+printq
+correctq 1
+push 3 39922 [
+push 0 23728 (
+push 2 47641 )
+push 1 5891 [
+push 0 73435 ]
+prints
+corrects 1
+push 0 74733 ]
+corrects 2
+prints
+intrq 3 58388 [
+intrq 3 30755 {
+intrq 0 47299 }
+intrq 3 44722 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 1
+extrq 2
+sorts 0
+prints
+sortq 2
+push 2 76141 (
+push 1 65320 )
+push 2 6713 [
+push 2 48555 [
+push 2 41904 ]
+push 2 15339 (
+push 3 99574 )
+push 0 67454 (
+push 2 48460 )
+printq
+correctq 1
+pop 1
+pop 1
+extrq 0
+extrq 0
+extrq 3
+printq
+correctq 3
+extrq 1
+sorts 0
+prints
+push 1 44658 [
+push 2 60903 (
+push 3 26616 )
+push 3 78273 [
+push 1 52385 ]
+push 0 87684 [
+push 1 13979 (
+push 2 9628 )
+push 2 70809 [
+push 0 28980 ]
+prints
+corrects 3
+push 1 25289 ]
+corrects 0
+prints
+intrq 2 85250 [
+intrq 1 82789 {
+intrq 1 75178 }
+intrq 1 18594 )
+printq
+correctq 0
+push 0 95849 [
+push 0 55432 (
+push 0 51613 )
+push 1 90809 [
+push 2 92797 ]
+prints
+corrects 3
+push 1 64032 ]
+corrects 3
+prints
+intrq 3 34841 [
+intrq 0 31984 {
+intrq 0 7997 }
+intrq 1 54540 )
+printq
+correctq 3
+extrq 3
+printq
+correctq 1
+extrq 0
+sorts 0
+prints
+sortq 0
+push 1 60932 (
+push 1 56407 )
+push 0 60565 [
+push 3 85886 [
+push 3 1993 ]
+push 0 58476 (
+push 0 38509 )
+push 0 98171 (
+push 0 73701 )
+printq
+correctq 3
+pop 0
+pop 1
+extrq 0
+extrq 2
+extrq 2
+printq
+correctq 3
+extrq 1
+sorts 3
+prints
+push 3 97018 [
+push 3 92741 (
+push 0 45496 )
+push 2 13984 [
+push 0 25167 ]
+prints
+corrects 2
+push 3 27160 ]
+corrects 2
+prints
+intrq 3 50251 [
+intrq 0 45128 {
+intrq 0 11509 }
+intrq 3 14316 )
+printq
+correctq 3
+extrq 0
+printq
+correctq 2
+push 1 10783 [
+push 0 4592 (
+push 3 62566 )
+push 0 36300 [
+push 2 51004 ]
+prints
+corrects 2
+push 2 47124 ]
+corrects 2
+prints
+intrq 2 45483 [
+intrq 1 19158 {
+intrq 1 32033 }
+intrq 3 7477 )
+printq
+correctq 1
+extrq 3
+printq
+correctq 1
+extrq 2
+sorts 2
+prints
+sortq 1
+push 1 67166 (
+push 0 93346 )
+push 2 55008 [
+push 3 37861 [
+push 2 74161 ]
+push 0 70803 (
+push 3 20899 )
+push 3 950 (
+push 1 63410 )
+printq
+correctq 3
+pop 3
+pop 0
+extrq 0
+extrq 2
+extrq 1
+sorts 1
+prints
+sortq 1
+push 2 33612 (
+push 0 55375 )
+push 1 23662 [
+push 3 91884 [
+push 0 99843 ]
+push 3 33769 (
+push 2 29986 )
+push 2 96777 (
+push 2 25089 )
+printq
+correctq 0
+pop 0
+pop 2
+extrq 3
+extrq 3
+push 1 31455 [
+push 0 33620 (
+push 0 57045 )
+push 1 1386 [
+push 1 15881 ]
+prints
+corrects 1
+push 3 39544 ]
+corrects 1
+prints
+intrq 3 57508 [
+intrq 0 87254 {
+intrq 2 84266 }
+intrq 0 76024 )
+printq
+correctq 0
+push 1 30698 [
+push 1 57413 (
+push 2 84235 )
+push 0 41390 [
+push 0 16039 ]
+prints
+corrects 2
+push 0 24663 ]
+corrects 3
+prints
+intrq 2 26049 [
+intrq 1 28571 {
+intrq 3 15776 }
+intrq 3 33464 )
+printq
+correctq 3
+extrq 0
+printq
+correctq 0
+extrq 1
+sorts 2
+prints
+sortq 2
+push 1 64038 (
+push 2 72750 )
+push 1 86579 [
+push 3 30115 [
+push 2 98396 ]
+push 1 74147 (
+push 3 34031 )
+push 3 39099 (
+push 3 23789 )
+printq
+correctq 0
+pop 0
+pop 1
+extrq 3
+extrq 0
+extrq 0
+printq
+correctq 3
+extrq 3
+sorts 0
+prints
+push 0 25980 [
+push 2 99018 (
+push 1 72053 )
+push 3 58298 [
+push 0 75286 ]
+push 1 45799 [
+push 2 92623 (
+push 2 20822 )
+push 2 63749 [
+push 1 96609 ]
+prints
+corrects 3
+push 1 93145 ]
+corrects 0
+prints
+intrq 1 5457 [
+intrq 0 30976 {
+intrq 1 48764 }
+intrq 0 4111 )
+printq
+correctq 3
+push 1 52540 [
+push 0 9618 (
+push 0 82443 )
+push 0 88829 [
+push 3 25973 ]
+prints
+corrects 3
+push 1 6075 ]
+corrects 0
+prints
+intrq 3 9966 [
+intrq 2 72472 {
+intrq 2 47543 }
+intrq 2 24706 )
+printq
+correctq 3
+extrq 2
+printq
+correctq 3
+extrq 0
+sorts 3
+prints
+sortq 3
+push 3 76952 (
+push 3 63659 )
+push 1 27050 [
+push 3 82904 [
+push 2 80859 ]
+push 1 64793 (
+push 0 97737 )
+push 2 45611 (
+push 1 10485 )
+printq
+correctq 1
+pop 3
+pop 2
+extrq 3
+extrq 2
+extrq 0
+printq
+correctq 2
+extrq 2
+sorts 2
+prints
+push 1 36458 [
+push 1 90964 (
+push 1 43426 )
+push 0 27588 [
+push 3 35446 ]
+prints
+corrects 3
+push 3 93232 ]
+corrects 2
+prints
+intrq 0 55519 [
+intrq 1 5535 {
+intrq 2 12627 }
+intrq 1 89412 )
+printq
+correctq 2
+extrq 3
+printq
+correctq 3
+push 1 8923 [
+push 1 35179 (
+push 1 13379 )
+push 1 26951 [
+push 3 51918 ]
+prints
+corrects 1
+push 3 79506 ]
+corrects 0
+prints
+intrq 1 14629 [
+intrq 3 57769 {
+intrq 0 72283 }
+intrq 2 2483 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 1
+extrq 0
+sorts 3
+prints
+sortq 1
+push 2 1738 (
+push 1 32271 )
+push 1 41814 [
+push 2 87490 [
+push 1 88143 ]
+push 1 75889 (
+push 1 17522 )
+push 0 19567 (
+push 2 69518 )
+printq
+correctq 1
+pop 1
+pop 3
+extrq 1
+extrq 1
+extrq 2
+sorts 0
+prints
+sortq 2
+push 0 19961 (
+push 2 16227 )
+push 3 95872 [
+push 1 15332 [
+push 0 44978 ]
+push 2 44650 (
+push 0 12340 )
+push 2 79614 (
+push 1 89207 )
+printq
+correctq 0
+pop 1
+pop 3
+extrq 3
+extrq 3
+sortq 0
+push 0 39071 (
+push 1 26761 )
+push 1 40481 [
+push 3 77381 [
+push 2 31497 ]
+push 0 6133 (
+push 2 27925 )
+push 1 88218 (
+push 3 78612 )
+printq
+correctq 0
+pop 3
+pop 0
+extrq 2
+extrq 1
+prints
+corrects 1
+push 2 47530 ]
+corrects 2
+prints
+intrq 1 25509 [
+intrq 2 72025 {
+intrq 1 72301 }
+intrq 2 1203 )
+printq
+correctq 2
+extrq 3
+printq
+correctq 2
+push 3 62489 [
+push 0 90851 (
+push 3 31318 )
+push 0 6440 [
+push 0 8031 ]
+prints
+corrects 0
+push 0 46106 ]
+corrects 0
+prints
+intrq 3 80148 [
+intrq 1 87401 {
+intrq 2 91096 }
+intrq 2 69539 )
+printq
+correctq 2
+extrq 3
+printq
+correctq 0
+extrq 3
+sorts 1
+prints
+sortq 3
+push 1 3036 (
+push 2 46436 )
+push 1 5230 [
+push 3 50500 [
+push 0 72415 ]
+push 1 88788 (
+push 2 74697 )
+push 0 59256 (
+push 2 90075 )
+printq
+correctq 0
+pop 3
+pop 0
+extrq 2
+extrq 3
+extrq 2
+sorts 1
+prints
+sortq 1
+push 1 13306 (
+push 0 83398 )
+push 1 79705 [
+push 2 76123 [
+push 1 68312 ]
+push 1 79780 (
+push 0 34253 )
+push 3 8457 (
+push 1 81697 )
+printq
+correctq 3
+pop 2
+pop 2
+extrq 1
+extrq 1
+sortq 2
+push 0 46250 (
+push 1 12824 )
+push 0 82174 [
+push 1 6238 [
+push 0 44518 ]
+push 0 70322 (
+push 3 92423 )
+push 1 66717 (
+push 3 60503 )
+printq
+correctq 1
+pop 3
+pop 0
+extrq 1
+extrq 1
+sortq 2
+push 2 87512 (
+push 0 86752 )
+push 1 65269 [
+push 3 39097 [
+push 3 12664 ]
+push 1 51700 (
+push 2 82279 )
+push 2 6671 (
+push 1 63926 )
+printq
+correctq 1
+pop 0
+pop 1
+extrq 2
+extrq 1
+prints
+corrects 0
+push 1 29643 ]
+corrects 0
+prints
+intrq 2 77392 [
+intrq 1 94608 {
+intrq 2 37557 }
+intrq 0 24334 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 3
+push 1 55126 [
+push 1 52297 (
+push 0 26587 )
+push 3 57133 [
+push 1 82684 ]
+prints
+corrects 1
+push 3 55179 ]
+corrects 3
+prints
+intrq 3 88176 [
+intrq 2 42339 {
+intrq 2 31038 }
+intrq 0 59594 )
+printq
+correctq 0
+extrq 1
+printq
+correctq 2
+extrq 3
+sorts 3
+prints
+sortq 0
+push 1 34059 (
+push 1 78111 )
+push 0 41726 [
+push 0 96100 [
+push 1 50119 ]
+push 1 91530 (
+push 0 10442 )
+push 1 4335 (
+push 1 84101 )
+printq
+correctq 3
+pop 3
+pop 0
+extrq 2
+extrq 1
+extrq 1
+sorts 0
+prints
+sortq 2
+push 2 16847 (
+push 1 35746 )
+push 3 9571 [
+push 1 62404 [
+push 2 84625 ]
+push 2 97077 (
+push 3 66662 )
+push 1 64090 (
+push 0 479 )
+printq
+correctq 1
+pop 2
+pop 0
+extrq 0
+extrq 1
+sortq 0
+push 2 78901 (
+push 3 90241 )
+push 0 34134 [
+push 2 96118 [
+push 1 2749 ]
+push 3 18569 (
+push 0 83252 )
+push 3 87950 (
+push 1 44198 )
+printq
+correctq 0
+pop 3
+pop 3
+extrq 2
+extrq 3
+sortq 2
+push 3 84701 (
+push 2 61744 )
+push 3 2363 [
+push 2 17578 [
+push 0 46521 ]
+push 3 41636 (
+push 3 17349 )
+push 2 36820 (
+push 3 36381 )
+printq
+correctq 1
+pop 3
+pop 1
+extrq 0
+extrq 1
+sortq 2
+push 2 50422 (
+push 1 28570 )
+push 0 20105 [
+push 0 1852 [
+push 2 93971 ]
+push 0 70909 (
+push 2 9182 )
+push 3 10302 (
+push 0 29010 )
+printq
+correctq 3
+pop 3
+pop 0
+extrq 1
+extrq 0
+push 3 58779 [
+push 1 58750 (
+push 0 72066 )
+push 3 11079 [
+push 0 73061 ]
+prints
+corrects 0
+push 2 23162 ]
+corrects 1
+prints
+intrq 3 25014 [
+intrq 0 1282 {
+intrq 2 35613 }
+intrq 0 14144 )
+printq
+correctq 1
+push 2 86200 [
+push 3 92561 (
+push 0 48527 )
+push 3 77500 [
+push 2 73738 ]
+prints
+corrects 1
+push 0 68502 ]
+corrects 3
+prints
+intrq 0 95933 [
+intrq 0 18493 {
+intrq 2 75282 }
+intrq 3 82593 )
+printq
+correctq 1
+extrq 3
+printq
+correctq 3
+extrq 3
+sorts 1
+prints
+sortq 3
+push 0 3690 (
+push 2 37384 )
+push 1 47379 [
+push 0 70737 [
+push 2 2852 ]
+push 3 36076 (
+push 2 41220 )
+push 3 17873 (
+push 0 16864 )
+printq
+correctq 1
+pop 1
+pop 2
+extrq 0
+extrq 1
+extrq 2
+printq
+correctq 1
+extrq 2
+sorts 1
+prints
+push 1 15918 [
+push 2 26180 (
+push 2 28300 )
+push 2 4486 [
+push 2 28378 ]
+push 3 4895 [
+push 0 32691 (
+push 2 26793 )
+push 1 97246 [
+push 0 250 ]
+prints
+corrects 0
+push 0 38100 ]
+corrects 3
+prints
+intrq 0 33957 [
+intrq 1 3346 {
+intrq 3 95950 }
+intrq 3 77809 )
+printq
+correctq 1
+push 3 44911 [
+push 1 38862 (
+push 2 83019 )
+push 0 79237 [
+push 2 74308 ]
+prints
+corrects 0
+push 1 1101 ]
+corrects 2
+prints
+intrq 3 65177 [
+intrq 1 57790 {
+intrq 2 55325 }
+intrq 2 14241 )
+printq
+correctq 2
+extrq 3
+printq
+correctq 2
+extrq 0
+sorts 2
+prints
+sortq 0
+push 3 2252 (
+push 1 56158 )
+push 3 14191 [
+push 0 12913 [
+push 2 92150 ]
+push 1 69273 (
+push 3 61770 )
+push 2 35661 (
+push 0 48634 )
+printq
+correctq 3
+pop 2
+pop 3
+extrq 1
+extrq 3
+extrq 1
+printq
+correctq 0
+extrq 1
+sorts 1
+prints
+push 3 38553 [
+push 0 11291 (
+push 3 37347 )
+push 2 18074 [
+push 3 71368 ]
+prints
+corrects 0
+push 0 79870 ]
+corrects 1
+prints
+intrq 1 301 [
+intrq 3 99683 {
+intrq 2 63249 }
+intrq 3 37372 )
+printq
+correctq 0
+extrq 1
+printq
+correctq 0
+push 2 78224 [
+push 1 96046 (
+push 1 40507 )
+push 1 38047 [
+push 0 30798 ]
+prints
+corrects 2
+push 3 65224 ]
+corrects 2
+prints
+intrq 3 96860 [
+intrq 2 75125 {
+intrq 2 97107 }
+intrq 3 73913 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 2
+extrq 2
+sorts 2
+prints
+sortq 3
+push 3 91926 (
+push 1 8916 )
+push 3 50415 [
+push 1 71853 [
+push 0 60798 ]
+push 1 38638 (
+push 0 28468 )
+push 2 23723 (
+push 3 60808 )
+printq
+correctq 1
+pop 1
+pop 3
+extrq 0
+extrq 2
+extrq 2
+sorts 1
+prints
+sortq 1
+push 0 5387 (
+push 0 82831 )
+push 1 20821 [
+push 3 95909 [
+push 0 5377 ]
+push 3 59441 (
+push 1 95809 )
+push 3 84560 (
+push 2 25195 )
+printq
+correctq 2
+pop 0
+pop 3
+extrq 1
+extrq 1
+sortq 0
+push 2 71100 (
+push 1 80202 )
+push 1 95154 [
+push 2 80337 [
+push 2 31526 ]
+push 2 98779 (
+push 1 89911 )
+push 3 61354 (
+push 3 45809 )
+printq
+correctq 0
+pop 0
+pop 0
+extrq 0
+extrq 2
+prints
+corrects 3
+push 2 43155 ]
+corrects 2
+prints
+intrq 0 78032 [
+intrq 2 36414 {
+intrq 0 926 }
+intrq 3 83731 )
+printq
+correctq 0
+extrq 1
+printq
+correctq 1
+push 1 13851 [
+push 3 50215 (
+push 2 19929 )
+push 3 98998 [
+push 3 81402 ]
+prints
+corrects 3
+push 3 18486 ]
+corrects 3
+prints
+intrq 3 20277 [
+intrq 2 77006 {
+intrq 0 53485 }
+intrq 2 74168 )
+printq
+correctq 3
+extrq 0
+printq
+correctq 0
+extrq 2
+sorts 0
+prints
+sortq 3
+push 2 77501 (
+push 3 55069 )
+push 0 50190 [
+push 3 61381 [
+push 1 83049 ]
+push 1 4423 (
+push 0 63928 )
+push 2 64255 (
+push 0 59539 )
+printq
+correctq 2
+pop 2
+pop 3
+extrq 3
+extrq 0
+extrq 3
+sorts 2
+prints
+push 0 91187 [
+push 0 3056 (
+push 3 82238 )
+push 2 46468 [
+push 1 87920 ]
+prints
+corrects 0
+push 2 65654 ]
+corrects 1
+prints
+intrq 0 41023 [
+intrq 1 10652 {
+intrq 3 91260 }
+intrq 3 75002 )
+printq
+correctq 2
+push 1 30677 [
+push 1 52809 (
+push 0 52107 )
+push 2 68059 [
+push 0 86302 ]
+prints
+corrects 2
+push 2 30576 ]
+corrects 2
+prints
+intrq 0 46271 [
+intrq 3 36496 {
+intrq 2 53421 }
+intrq 1 12462 )
+printq
+correctq 0
+extrq 2
+printq
+correctq 2
+extrq 3
+sorts 1
+prints
+sortq 2
+push 3 7643 (
+push 0 84684 )
+push 0 37297 [
+push 2 15192 [
+push 1 37092 ]
+push 0 96341 (
+push 2 20278 )
+push 3 70323 (
+push 1 73255 )
+printq
+correctq 2
+pop 0
+pop 3
+extrq 0
+extrq 1
+extrq 1
+printq
+correctq 2
+extrq 1
+sorts 3
+prints
+push 1 55152 [
+push 1 61619 (
+push 3 68344 )
+push 0 46513 [
+push 1 91410 ]
+push 1 11398 [
+push 2 61309 (
+push 3 51896 )
+push 0 9607 [
+push 3 85361 ]
+prints
+corrects 2
+push 2 76901 ]
+corrects 2
+prints
+intrq 2 21862 [
+intrq 3 25557 {
+intrq 3 11250 }
+intrq 2 32771 )
+printq
+correctq 3
+push 1 69299 [
+push 0 2765 (
+push 3 66505 )
+push 3 98273 [
+push 2 43127 ]
+prints
+corrects 0
+push 1 95023 ]
+corrects 0
+prints
+intrq 0 33595 [
+intrq 1 69070 {
+intrq 1 66074 }
+intrq 0 55595 )
+printq
+correctq 0
+extrq 3
+printq
+correctq 0
+extrq 3
+sorts 2
+prints
+sortq 2
+push 2 77133 (
+push 0 83977 )
+push 1 91141 [
+push 0 99548 [
+push 1 40897 ]
+push 2 64944 (
+push 1 12307 )
+push 0 66933 (
+push 3 26267 )
+printq
+correctq 2
+pop 1
+pop 0
+extrq 0
+extrq 2
+extrq 3
+printq
+correctq 0
+extrq 1
+sorts 0
+prints
+push 3 65039 [
+push 2 6701 (
+push 1 59514 )
+push 3 55650 [
+push 0 14223 ]
+prints
+corrects 1
+push 0 36041 ]
+corrects 2
+prints
+intrq 2 985 [
+intrq 3 30921 {
+intrq 1 22936 }
+intrq 0 19924 )
+printq
+correctq 2
+extrq 2
+printq
+correctq 0
+push 2 42644 [
+push 0 76746 (
+push 1 88168 )
+push 1 23741 [
+push 2 8174 ]
+prints
+corrects 2
+push 1 15205 ]
+corrects 0
+prints
+intrq 1 29429 [
+intrq 1 85089 {
+intrq 2 15487 }
+intrq 0 99159 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 1
+extrq 2
+sorts 2
+prints
+sortq 1
+push 0 10140 (
+push 2 72802 )
+push 0 51382 [
+push 0 39550 [
+push 1 51578 ]
+push 0 59196 (
+push 0 50381 )
+push 1 4465 (
+push 2 20182 )
+printq
+correctq 2
+pop 0
+pop 0
+extrq 2
+extrq 0
+extrq 0
+sorts 0
+prints
+sortq 1
+push 1 90235 (
+push 3 23074 )
+push 3 3472 [
+push 2 17431 [
+push 2 51462 ]
+push 1 27108 (
+push 0 96847 )
+push 1 47044 (
+push 2 85137 )
+printq
+correctq 1
+pop 1
+pop 0
+extrq 3
+extrq 1
+push 0 86545 [
+push 1 57544 (
+push 2 67877 )
+push 1 18278 [
+push 0 68996 ]
+prints
+corrects 1
+push 0 70910 ]
+corrects 1
+prints
+intrq 3 38725 [
+intrq 2 25443 {
+intrq 1 91529 }
+intrq 0 51945 )
+printq
+correctq 1
+push 3 37082 [
+push 2 87480 (
+push 2 19449 )
+push 3 36967 [
+push 2 72679 ]
+prints
+corrects 1
+push 0 56909 ]
+corrects 2
+prints
+intrq 2 64213 [
+intrq 3 72212 {
+intrq 1 99113 }
+intrq 1 89676 )
+printq
+correctq 2
+extrq 3
+printq
+correctq 0
+extrq 3
+sorts 0
+prints
+sortq 0
+push 0 62762 (
+push 3 33483 )
+push 0 96227 [
+push 1 52322 [
+push 0 40076 ]
+push 2 90210 (
+push 0 8611 )
+push 3 86017 (
+push 2 1449 )
+printq
+correctq 2
+pop 1
+pop 1
+extrq 3
+extrq 2
+extrq 2
+printq
+correctq 0
+extrq 1
+sorts 1
+prints
+push 0 93780 [
+push 2 61952 (
+push 1 33136 )
+push 0 40016 [
+push 0 66927 ]
+push 1 3711 [
+push 0 25705 (
+push 2 34142 )
+push 0 34033 [
+push 3 35483 ]
+prints
+corrects 1
+push 3 44664 ]
+corrects 2
+prints
+intrq 3 75912 [
+intrq 3 83320 {
+intrq 0 18155 }
+intrq 2 16937 )
+printq
+correctq 0
+push 2 87637 [
+push 0 70923 (
+push 0 62366 )
+push 2 86224 [
+push 0 16691 ]
+prints
+corrects 3
+push 2 67359 ]
+corrects 0
+prints
+intrq 1 85846 [
+intrq 3 57498 {
+intrq 1 3108 }
+intrq 2 59051 )
+printq
+correctq 3
+extrq 3
+printq
+correctq 2
+extrq 3
+sorts 3
+prints
+sortq 2
+push 2 66348 (
+push 2 13144 )
+push 1 40031 [
+push 3 41254 [
+push 1 75053 ]
+push 2 86149 (
+push 0 35573 )
+push 3 59104 (
+push 2 91152 )
+printq
+correctq 2
+pop 1
+pop 2
+extrq 3
+extrq 1
+extrq 0
+printq
+correctq 3
+extrq 0
+sorts 3
+prints
+push 1 38580 [
+push 3 71123 (
+push 2 93703 )
+push 2 45334 [
+push 1 70129 ]
+prints
+corrects 2
+push 3 72526 ]
+corrects 3
+prints
+intrq 1 58675 [
+intrq 0 33755 {
+intrq 2 4360 }
+intrq 1 86574 )
+printq
+correctq 2
+extrq 2
+printq
+correctq 0
+push 1 90600 [
+push 0 13432 (
+push 0 96684 )
+push 2 44196 [
+push 3 37745 ]
+prints
+corrects 2
+push 2 67843 ]
+corrects 1
+prints
+intrq 3 37972 [
+intrq 3 68838 {
+intrq 2 37338 }
+intrq 0 66242 )
+printq
+correctq 3
+extrq 3
+printq
+correctq 2
+extrq 0
+sorts 1
+prints
+sortq 0
+push 2 35449 (
+push 2 18658 )
+push 2 26070 [
+push 3 83578 [
+push 0 84823 ]
+push 1 46790 (
+push 2 58063 )
+push 1 15635 (
+push 3 85310 )
+printq
+correctq 2
+pop 1
+pop 0
+extrq 0
+extrq 1
+extrq 2
+sorts 3
+prints
+sortq 0
+push 1 39053 (
+push 0 11563 )
+push 2 14883 [
+push 0 20660 [
+push 1 33906 ]
+push 2 33836 (
+push 3 58992 )
+push 1 35269 (
+push 2 32221 )
+printq
+correctq 2
+pop 1
+pop 0
+extrq 0
+extrq 3
+sortq 1
+push 1 53859 (
+push 3 10467 )
+push 2 10923 [
+push 0 45012 [
+push 0 49719 ]
+push 2 12631 (
+push 0 90046 )
+push 0 79694 (
+push 0 36693 )
+printq
+correctq 3
+pop 3
+pop 1
+extrq 0
+extrq 0
+prints
+corrects 3
+push 1 59483 ]
+corrects 0
+prints
+intrq 1 27399 [
+intrq 3 23828 {
+intrq 2 54342 }
+intrq 3 44953 )
+printq
+correctq 1
+extrq 0
+printq
+correctq 1
+push 1 54875 [
+push 3 8348 (
+push 3 65749 )
+push 1 64006 [
+push 1 7566 ]
+prints
+corrects 1
+push 1 19603 ]
+corrects 1
+prints
+intrq 1 51842 [
+intrq 3 13196 {
+intrq 2 58872 }
+intrq 0 37757 )
+printq
+correctq 3
+extrq 0
+printq
+correctq 3
+extrq 1
+sorts 0
+prints
+sortq 0
+push 3 36580 (
+push 1 8560 )
+push 3 36428 [
+push 1 75767 [
+push 1 4134 ]
+push 1 21055 (
+push 0 33662 )
+push 0 31303 (
+push 3 67957 )
+printq
+correctq 1
+pop 2
+pop 2
+extrq 3
+extrq 3
+extrq 2
+sorts 0
+prints
+sortq 2
+push 2 99331 (
+push 0 99358 )
+push 0 80199 [
+push 2 14465 [
+push 3 43746 ]
+push 2 22020 (
+push 1 53071 )
+push 2 75638 (
+push 2 54206 )
+printq
+correctq 0
+pop 2
+pop 1
+extrq 3
+extrq 0
+sortq 2
+push 2 53834 (
+push 1 16865 )
+push 0 92409 [
+push 3 76222 [
+push 1 3999 ]
+push 1 45481 (
+push 2 44223 )
+push 2 89310 (
+push 1 10840 )
+printq
+correctq 2
+pop 2
+pop 0
+extrq 1
+extrq 0
+sortq 2
+push 3 25124 (
+push 1 42609 )
+push 0 48145 [
+push 3 7282 [
+push 3 30149 ]
+push 3 42971 (
+push 2 77142 )
+push 1 30651 (
+push 2 27478 )
+printq
+correctq 0
+pop 0
+pop 2
+extrq 3
+extrq 2
+prints
+corrects 3
+push 3 47741 ]
+corrects 2
+prints
+intrq 3 17930 [
+intrq 2 30630 {
+intrq 1 24455 }
+intrq 3 1286 )
+printq
+correctq 3
+extrq 0
+printq
+correctq 2
+push 1 88923 [
+push 3 54604 (
+push 2 30665 )
+push 2 83791 [
+push 1 29240 ]
+prints
+corrects 2
+push 1 43637 ]
+corrects 0
+prints
+intrq 0 47343 [
+intrq 3 2208 {
+intrq 0 58853 }
+intrq 3 29366 )
+printq
+correctq 0
+extrq 1
+printq
+correctq 0
+extrq 3
+sorts 0
+prints
+sortq 2
+push 2 2116 (
+push 0 36271 )
+push 3 91747 [
+push 3 39285 [
+push 1 22621 ]
+push 1 16434 (
+push 2 50699 )
+push 3 11851 (
+push 3 9172 )
+printq
+correctq 2
+pop 2
+pop 0
+extrq 3
+extrq 0
+extrq 3
+sorts 1
+prints
+sortq 0
+push 1 4393 (
+push 3 46781 )
+push 0 79917 [
+push 2 10068 [
+push 0 56289 ]
+push 0 95575 (
+push 1 46036 )
+push 0 73367 (
+push 2 85703 )
+printq
+correctq 2
+pop 1
+pop 2
+extrq 2
+extrq 0
+sortq 0
+push 2 21335 (
+push 0 3038 )
+push 0 36784 [
+push 3 42078 [
+push 3 81428 ]
+push 2 90804 (
+push 2 78574 )
+push 0 86616 (
+push 2 30407 )
+printq
+correctq 3
+pop 3
+pop 0
+extrq 3
+extrq 2
+sortq 2
+push 2 86997 (
+push 0 87680 )
+push 3 83852 [
+push 0 2038 [
+push 3 26801 ]
+push 0 59223 (
+push 1 39723 )
+push 1 74473 (
+push 3 86159 )
+printq
+correctq 1
+pop 2
+pop 2
+extrq 2
+extrq 2
+sortq 0
+push 1 85693 (
+push 0 11825 )
+push 0 74898 [
+push 0 87546 [
+push 3 84724 ]
+push 2 84928 (
+push 2 69113 )
+push 3 83507 (
+push 1 65690 )
+printq
+correctq 1
+pop 0
+pop 0
+extrq 2
+extrq 3

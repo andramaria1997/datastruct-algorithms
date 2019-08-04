@@ -1,0 +1,89 @@
+88 6 6
+push 1 86 {
+push 3 15 (
+push 5 35 (
+push 4 92 )
+push 3 21 )
+push 2 27 [
+push 2 59 ]
+push 5 26 }
+corrects 0
+pop 0
+prints
+intrq 4 36 {
+intrq 5 68 {
+intrq 3 29 {
+intrq 2 30 }
+intrq 2 23 {
+intrq 1 2 {
+intrq 0 58 }
+intrq 5 67 }
+intrq 1 56 }
+intrq 1 42 ]
+intrq 3 73 }
+intrq 3 19 {
+intrq 2 37 {
+intrq 2 24 {
+intrq 5 70 {
+intrq 5 91 }
+intrq 2 62 }
+intrq 2 96 }
+intrq 1 5 ]
+intrq 3 84 }
+intrq 3 46 }
+extrq 3
+extrq 1
+extrq 5
+extrq 0
+extrq 3
+correctq 0
+prints
+prints
+sortq 3
+sortq 2
+printq
+printq
+push 3 34 {
+push 2 43 (
+push 2 87 (
+push 0 76 )
+push 2 88 )
+push 0 3 [
+push 5 54 ]
+push 1 32 }
+corrects 0
+pop 2
+prints
+intrq 0 39 {
+intrq 4 94 {
+intrq 5 95 {
+intrq 4 78 }
+intrq 5 1 {
+intrq 5 17 {
+intrq 0 52 }
+intrq 2 80 }
+intrq 2 41 }
+intrq 3 89 ]
+intrq 4 40 }
+intrq 3 31 {
+intrq 1 97 {
+intrq 5 81 {
+intrq 5 9 {
+intrq 1 53 }
+intrq 0 65 }
+intrq 4 83 }
+intrq 5 28 ]
+intrq 3 8 }
+intrq 5 49 }
+extrq 0
+extrq 5
+extrq 2
+extrq 1
+extrq 2
+correctq 3
+prints
+prints
+sortq 1
+sortq 5
+printq
+printq

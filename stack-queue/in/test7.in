@@ -1,0 +1,913 @@
+912 3 3
+push 1 886 [
+push 0 915 (
+push 2 335 )
+push 1 492 [
+push 0 421 ]
+prints
+corrects 2
+push 1 690 ]
+corrects 1
+prints
+intrq 2 926 [
+intrq 0 426 {
+intrq 1 736 }
+intrq 2 368 )
+printq
+correctq 0
+push 0 782 [
+push 2 862 (
+push 1 67 )
+push 1 929 [
+push 0 22 ]
+prints
+corrects 0
+push 2 167 ]
+corrects 1
+prints
+intrq 1 11 [
+intrq 1 229 {
+intrq 0 919 }
+intrq 2 537 )
+printq
+correctq 2
+extrq 2
+printq
+correctq 2
+extrq 0
+sorts 2
+prints
+sortq 1
+push 1 980 (
+push 2 873 )
+push 2 170 [
+push 1 281 [
+push 0 925 ]
+push 2 327 (
+push 2 505 )
+push 1 729 (
+push 1 857 )
+printq
+correctq 0
+pop 0
+pop 0
+extrq 0
+extrq 2
+extrq 0
+printq
+correctq 2
+extrq 2
+sorts 0
+prints
+push 2 87 [
+push 0 276 (
+push 2 788 )
+push 0 403 [
+push 2 754 ]
+push 1 932 [
+push 0 676 (
+push 0 739 )
+push 1 226 [
+push 0 94 ]
+prints
+corrects 2
+push 0 570 ]
+corrects 2
+prints
+intrq 1 467 [
+intrq 0 97 {
+intrq 2 317 }
+intrq 0 652 )
+printq
+correctq 2
+push 1 280 [
+push 2 441 (
+push 0 689 )
+push 1 619 [
+push 1 31 ]
+prints
+corrects 1
+push 0 771 ]
+corrects 0
+prints
+intrq 2 709 [
+intrq 1 567 {
+intrq 1 497 }
+intrq 0 586 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 2
+extrq 2
+sorts 2
+prints
+sortq 1
+push 0 732 (
+push 2 503 )
+push 2 270 [
+push 0 708 [
+push 2 340 ]
+push 0 796 (
+push 2 618 )
+push 1 846 (
+push 0 921 )
+printq
+correctq 2
+pop 2
+pop 1
+extrq 2
+extrq 2
+extrq 1
+printq
+correctq 2
+extrq 1
+sorts 1
+prints
+push 2 764 [
+push 0 914 (
+push 2 856 )
+push 0 491 [
+push 2 365 ]
+prints
+corrects 0
+push 1 432 ]
+corrects 2
+prints
+intrq 2 228 [
+intrq 2 407 {
+intrq 0 121 }
+intrq 2 395 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 0
+push 1 818 [
+push 2 143 (
+push 0 928 )
+push 0 776 [
+push 1 443 ]
+prints
+corrects 1
+push 2 538 ]
+corrects 2
+prints
+intrq 1 904 [
+intrq 1 128 {
+intrq 0 369 }
+intrq 0 917 )
+printq
+correctq 0
+extrq 2
+printq
+correctq 0
+extrq 0
+sorts 2
+prints
+sortq 2
+push 2 772 (
+push 2 644 )
+push 0 139 [
+push 2 786 [
+push 0 82 ]
+push 0 464 (
+push 1 507 )
+push 0 804 (
+push 2 611 )
+printq
+correctq 2
+pop 0
+pop 2
+extrq 0
+extrq 1
+extrq 2
+sorts 1
+prints
+sortq 1
+push 2 810 (
+push 0 801 )
+push 1 730 [
+push 1 305 [
+push 0 444 ]
+push 0 522 (
+push 2 416 )
+push 0 258 (
+push 2 637 )
+printq
+correctq 0
+pop 2
+pop 0
+extrq 0
+extrq 2
+sortq 2
+push 0 550 (
+push 2 71 )
+push 0 131 [
+push 0 930 [
+push 1 894 ]
+push 1 163 (
+push 1 981 )
+push 2 996 (
+push 0 773 )
+printq
+correctq 1
+pop 0
+pop 2
+extrq 1
+extrq 2
+prints
+corrects 2
+push 2 90 ]
+corrects 2
+prints
+intrq 0 542 [
+intrq 0 107 {
+intrq 0 756 }
+intrq 1 418 )
+printq
+correctq 2
+extrq 2
+printq
+correctq 1
+push 1 659 [
+push 0 336 (
+push 2 342 )
+push 2 206 [
+push 0 713 ]
+prints
+corrects 0
+push 1 255 ]
+corrects 2
+prints
+intrq 1 721 [
+intrq 2 939 {
+intrq 1 940 }
+intrq 2 705 )
+printq
+correctq 0
+extrq 2
+printq
+correctq 2
+extrq 0
+sorts 1
+prints
+sortq 0
+push 1 422 (
+push 2 396 )
+push 1 630 [
+push 2 292 [
+push 0 672 ]
+push 2 625 (
+push 0 222 )
+push 1 640 (
+push 2 898 )
+printq
+correctq 2
+pop 2
+pop 2
+extrq 0
+extrq 2
+extrq 2
+sorts 0
+prints
+push 0 155 [
+push 2 4 (
+push 2 769 )
+push 0 850 [
+push 1 860 ]
+prints
+corrects 1
+push 2 884 ]
+corrects 1
+prints
+intrq 1 621 [
+intrq 1 504 {
+intrq 1 961 }
+intrq 2 326 )
+printq
+correctq 0
+push 1 202 [
+push 1 506 (
+push 2 21 )
+push 0 868 [
+push 0 189 ]
+prints
+corrects 1
+push 0 958 ]
+corrects 0
+prints
+intrq 0 808 [
+intrq 1 248 {
+intrq 0 333 }
+intrq 1 648 )
+printq
+correctq 0
+extrq 0
+printq
+correctq 1
+extrq 0
+sorts 2
+prints
+sortq 0
+push 2 46 (
+push 0 797 )
+push 2 990 [
+push 1 33 [
+push 0 253 ]
+push 1 686 (
+push 0 152 )
+push 1 975 (
+push 2 157 )
+printq
+correctq 0
+pop 1
+pop 0
+extrq 2
+extrq 0
+extrq 0
+printq
+correctq 2
+extrq 2
+sorts 1
+prints
+push 2 748 [
+push 1 902 (
+push 2 697 )
+push 1 43 [
+push 2 2 ]
+push 0 500 [
+push 2 647 (
+push 0 159 )
+push 2 535 [
+push 2 339 ]
+prints
+corrects 2
+push 0 127 ]
+corrects 0
+prints
+intrq 2 49 [
+intrq 0 285 {
+intrq 1 343 }
+intrq 1 177 )
+printq
+correctq 1
+push 1 971 [
+push 2 289 (
+push 2 988 )
+push 0 795 [
+push 2 144 ]
+prints
+corrects 0
+push 1 682 ]
+corrects 2
+prints
+intrq 0 569 [
+intrq 2 232 {
+intrq 2 42 }
+intrq 0 117 )
+printq
+correctq 0
+extrq 2
+printq
+correctq 0
+extrq 0
+sorts 0
+prints
+sortq 0
+push 2 367 (
+push 2 234 )
+push 0 626 [
+push 1 57 [
+push 2 168 ]
+push 0 358 (
+push 2 386 )
+push 1 346 (
+push 0 994 )
+printq
+correctq 1
+pop 2
+pop 0
+extrq 1
+extrq 0
+extrq 1
+printq
+correctq 2
+extrq 1
+sorts 0
+prints
+push 0 631 [
+push 1 627 (
+push 2 214 )
+push 1 512 [
+push 2 412 ]
+prints
+corrects 0
+push 2 969 ]
+corrects 0
+prints
+intrq 2 355 [
+intrq 2 620 {
+intrq 0 987 }
+intrq 1 338 )
+printq
+correctq 1
+extrq 1
+printq
+correctq 1
+push 2 417 [
+push 0 260 (
+push 1 237 )
+push 0 59 [
+push 2 518 ]
+prints
+corrects 2
+push 0 458 ]
+corrects 2
+prints
+intrq 2 483 [
+intrq 1 478 {
+intrq 0 314 }
+intrq 0 100 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 1
+extrq 2
+sorts 0
+prints
+sortq 0
+push 2 681 (
+push 0 699 )
+push 1 839 [
+push 2 363 [
+push 1 794 ]
+push 1 847 (
+push 0 462 )
+push 0 390 (
+push 2 791 )
+printq
+correctq 2
+pop 0
+pop 2
+extrq 2
+extrq 1
+extrq 2
+sorts 1
+prints
+sortq 1
+push 0 740 (
+push 0 30 )
+push 2 325 [
+push 1 516 [
+push 1 231 ]
+push 0 404 (
+push 2 580 )
+push 0 970 (
+push 0 812 )
+printq
+correctq 0
+pop 0
+pop 1
+extrq 2
+extrq 0
+push 0 207 [
+push 1 744 (
+push 0 911 )
+push 2 950 [
+push 2 560 ]
+prints
+corrects 0
+push 2 563 ]
+corrects 0
+prints
+intrq 2 711 [
+intrq 2 934 {
+intrq 1 375 }
+intrq 2 614 )
+printq
+correctq 1
+push 1 993 [
+push 2 805 (
+push 1 822 )
+push 1 717 [
+push 2 93 ]
+prints
+corrects 2
+push 1 593 ]
+corrects 0
+prints
+intrq 0 543 [
+intrq 0 814 {
+intrq 0 179 }
+intrq 2 762 )
+printq
+correctq 2
+extrq 2
+printq
+correctq 0
+extrq 2
+sorts 2
+prints
+sortq 0
+push 2 235 (
+push 1 691 )
+push 1 943 [
+push 1 328 [
+push 0 291 ]
+push 2 18 (
+push 1 836 )
+push 2 55 (
+push 1 858 )
+printq
+correctq 0
+pop 0
+pop 2
+extrq 0
+extrq 0
+extrq 0
+printq
+correctq 1
+extrq 0
+sorts 0
+prints
+push 1 250 [
+push 0 485 (
+push 2 195 )
+push 2 949 [
+push 2 967 ]
+push 2 763 [
+push 0 596 (
+push 0 865 )
+push 0 36 [
+push 2 770 ]
+prints
+corrects 0
+push 0 532 ]
+corrects 1
+prints
+intrq 1 321 [
+intrq 2 984 {
+intrq 1 427 }
+intrq 0 40 )
+printq
+correctq 0
+push 2 398 [
+push 1 63 (
+push 2 573 )
+push 2 47 [
+push 2 435 ]
+prints
+corrects 0
+push 1 954 ]
+corrects 0
+prints
+intrq 2 486 [
+intrq 2 278 {
+intrq 1 262 }
+intrq 0 683 )
+printq
+correctq 2
+extrq 1
+printq
+correctq 1
+extrq 2
+sorts 1
+prints
+sortq 0
+push 0 821 (
+push 2 747 )
+push 1 269 [
+push 1 701 [
+push 1 653 ]
+push 2 907 (
+push 0 728 )
+push 2 720 (
+push 0 308 )
+printq
+correctq 0
+pop 1
+pop 0
+extrq 0
+extrq 0
+extrq 2
+printq
+correctq 0
+extrq 2
+sorts 0
+prints
+push 2 10 [
+push 1 224 (
+push 1 539 )
+push 0 378 [
+push 2 53 ]
+prints
+corrects 2
+push 1 989 ]
+corrects 0
+prints
+intrq 1 147 [
+intrq 1 787 {
+intrq 2 122 }
+intrq 1 875 )
+printq
+correctq 0
+extrq 1
+printq
+correctq 2
+push 1 350 [
+push 0 813 (
+push 0 494 )
+push 2 81 [
+push 0 433 ]
+prints
+corrects 2
+push 2 487 ]
+corrects 2
+prints
+intrq 1 825 [
+intrq 1 722 {
+intrq 1 551 }
+intrq 0 32 )
+printq
+correctq 0
+extrq 0
+printq
+correctq 1
+extrq 1
+sorts 1
+prints
+sortq 2
+push 0 999 (
+push 0 297 )
+push 0 154 [
+push 2 309 [
+push 0 382 ]
+push 0 266 (
+push 1 211 )
+push 1 86 (
+push 2 583 )
+printq
+correctq 0
+pop 1
+pop 1
+extrq 1
+extrq 0
+extrq 0
+sorts 0
+prints
+sortq 1
+push 2 490 (
+push 2 360 )
+push 2 643 [
+push 2 582 [
+push 0 310 ]
+push 1 888 (
+push 2 815 )
+push 1 437 (
+push 2 8 )
+printq
+correctq 2
+pop 0
+pop 1
+extrq 0
+extrq 0
+sortq 0
+push 0 651 (
+push 0 910 )
+push 0 639 [
+push 2 610 [
+push 2 577 ]
+push 0 976 (
+push 1 552 )
+push 1 777 (
+push 2 657 )
+printq
+correctq 1
+pop 1
+pop 1
+extrq 2
+extrq 1
+prints
+corrects 0
+push 2 184 ]
+corrects 0
+prints
+intrq 0 428 [
+intrq 2 528 {
+intrq 2 197 }
+intrq 1 774 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 2
+push 2 283 [
+push 1 693 (
+push 1 439 )
+push 1 985 [
+push 0 354 ]
+prints
+corrects 2
+push 2 972 ]
+corrects 1
+prints
+intrq 1 852 [
+intrq 1 662 {
+intrq 2 399 }
+intrq 0 173 )
+printq
+correctq 0
+extrq 0
+printq
+correctq 0
+extrq 0
+sorts 2
+prints
+sortq 1
+push 1 172 (
+push 2 859 )
+push 1 871 [
+push 2 590 [
+push 2 352 ]
+push 1 511 (
+push 2 517 )
+push 2 83 (
+push 1 112 )
+printq
+correctq 2
+pop 2
+pop 0
+extrq 0
+extrq 0
+extrq 0
+sorts 1
+prints
+sortq 2
+push 2 679 (
+push 1 636 )
+push 2 956 [
+push 1 760 [
+push 2 465 ]
+push 0 183 (
+push 0 393 )
+push 0 109 (
+push 1 673 )
+printq
+correctq 2
+pop 0
+pop 1
+extrq 0
+extrq 2
+sortq 2
+push 2 198 (
+push 0 793 )
+push 1 156 [
+push 1 933 [
+push 1 286 ]
+push 0 677 (
+push 1 245 )
+push 0 761 (
+push 2 323 )
+printq
+correctq 1
+pop 2
+pop 2
+extrq 0
+extrq 1
+sortq 1
+push 2 844 (
+push 0 238 )
+push 1 383 [
+push 2 133 [
+push 2 304 ]
+push 1 475 (
+push 0 912 )
+push 2 174 (
+push 2 718 )
+printq
+correctq 0
+pop 2
+pop 2
+extrq 1
+extrq 1
+prints
+corrects 1
+push 2 62 ]
+corrects 0
+prints
+intrq 2 496 [
+intrq 0 141 {
+intrq 2 726 }
+intrq 2 948 )
+printq
+correctq 1
+extrq 2
+printq
+correctq 0
+push 2 160 [
+push 2 424 (
+push 1 641 )
+push 0 480 [
+push 2 789 ]
+prints
+corrects 1
+push 2 723 ]
+corrects 2
+prints
+intrq 1 493 [
+intrq 0 710 {
+intrq 2 905 }
+intrq 0 613 )
+printq
+correctq 1
+extrq 0
+printq
+correctq 1
+extrq 0
+sorts 0
+prints
+sortq 0
+push 2 180 (
+push 0 95 )
+push 1 24 [
+push 0 373 [
+push 0 663 ]
+push 1 279 (
+push 2 649 )
+push 2 351 (
+push 2 742 )
+printq
+correctq 1
+pop 1
+pop 1
+extrq 2
+extrq 1
+extrq 0
+sorts 0
+prints
+sortq 0
+push 2 387 (
+push 2 287 )
+push 2 519 [
+push 1 244 [
+push 2 259 ]
+push 1 353 (
+push 0 733 )
+push 0 734 (
+push 1 315 )
+printq
+correctq 2
+pop 1
+pop 0
+extrq 1
+extrq 2
+sortq 2
+push 1 837 (
+push 0 89 )
+push 0 205 [
+push 2 704 [
+push 1 557 ]
+push 2 816 (
+push 0 605 )
+push 2 579 (
+push 0 447 )
+printq
+correctq 0
+pop 2
+pop 2
+extrq 1
+extrq 0
+sortq 0
+push 1 92 (
+push 1 664 )
+push 1 820 [
+push 0 166 [
+push 0 123 ]
+push 2 484 (
+push 0 312 )
+push 2 17 (
+push 2 165 )
+printq
+correctq 2
+pop 2
+pop 1
+extrq 0
+extrq 2
+sortq 2
+push 2 295 (
+push 1 559 )
+push 2 571 [
+push 1 743 [
+push 2 91 ]
+push 0 527 (
+push 1 878 )
+push 0 50 (
+push 1 124 )
+printq
+correctq 0
+pop 1
+pop 0
+extrq 0
+extrq 1

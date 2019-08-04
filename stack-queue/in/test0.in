@@ -1,0 +1,36 @@
+35 1 1
+push 0 886 [
+push 0 915 (
+push 0 335 )
+push 0 492 [
+push 0 421 ]
+prints
+corrects 0
+push 0 690 ]
+corrects 0
+prints
+intrq 0 926 [
+intrq 0 426 {
+intrq 0 736 }
+intrq 0 368 )
+printq
+correctq 0
+extrq 0
+printq
+correctq 0
+extrq 0
+sorts 0
+prints
+sortq 0
+printq
+correctq 0
+pop 0
+pop 0
+pop 0
+pop 0
+pop 0
+pop 0
+extrq 0
+extrq 0
+prints
+printq
